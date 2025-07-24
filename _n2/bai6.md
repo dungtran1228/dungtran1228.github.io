@@ -19,15 +19,6 @@ layout: page
 3. 自分の経験からそう思うから。  
 4. 多くの人がそう言っているから。  
 
-**正解：2**
-
-Cơn giận, cũng giống như niềm vui hay nỗi buồn, là một cảm xúc cơ bản của con người, và đã được nghiên cứu về vai trò cũng như cơ chế hoạt động của nó. Gần đây, cơn giận còn được nhìn nhận từ góc độ là yếu tố gây hại cho sức khỏe con người. Ví dụ, theo một nghiên cứu về mối liên hệ giữa cơn giận và bệnh tim, người ta thấy rằng những bệnh nhân mắc bệnh tim kèm theo huyết áp cao thường có xu hướng dễ nổi giận. Ngoài ra, cũng có báo cáo cho rằng cảm xúc giận dữ ảnh hưởng đến hệ thần kinh và hệ miễn dịch, và điều này có thể làm tăng nguy cơ mắc bệnh tim.
-
-Việc mối quan hệ giữa cơn giận và sức khỏe được quan tâm là do cách nhìn của xã hội về bệnh tật đã thay đổi. Do dân số già hóa, vấn đề chi phí y tế mà toàn xã hội phải gánh chịu cũng không thể xem nhẹ. Không chỉ chi phí do cá nhân bệnh nhân chi trả, mà cả nhà nước và các công ty bảo hiểm cũng phải chịu gánh nặng chi phí y tế ngày càng tăng. Để kiềm chế điều này, việc phòng ngừa bệnh tật là điều quan trọng nhất. Việc phòng bệnh thông qua chú ý đến thói quen sinh hoạt như ăn uống, ngủ nghỉ đã được biết đến rộng rãi, nhưng ngày nay, từ nhiều kết quả nghiên cứu, người ta còn nhận thấy rằng các yếu tố tâm lý như tính cách hay cách suy nghĩ của cá nhân cũng ảnh hưởng đến sức khỏe. Nhờ vậy, trong các lĩnh vực tâm lý học và y học, người ta bắt đầu xem xét mối liên hệ giữa cảm xúc giận dữ và sức khỏe.
-
-免疫 (Miễn dịch): Phản ứng tự nhiên của cơ thể chống lại các vi khuẩn gây bệnh xâm nhập vào cơ thể
-リスク (Nguy cơ): Mối nguy hiểm
-
 ### 問2  
 筆者は、怒りと健康の関係が注目されるようになったのはなぜだと言っているか。  
 1. 病気を予防して医療費を抑えるのが重要だから。  
@@ -35,13 +26,16 @@ Việc mối quan hệ giữa cơn giận và sức khỏe được quan tâm l�
 3. 多くの人がストレスを感じているから。  
 4. 自分の体験からその関係に気づいた人がいたから。  
 
-**正解：1**
-
 ---
 
 ## 📘 Tiếng Việt (Bản dịch)
 
----
+Cơn giận, cũng giống như niềm vui hay nỗi buồn, là một cảm xúc cơ bản của con người, và đã được nghiên cứu về vai trò cũng như cơ chế hoạt động của nó. Gần đây, cơn giận còn được nhìn nhận từ góc độ là yếu tố gây hại cho sức khỏe con người. Ví dụ, theo một nghiên cứu về mối liên hệ giữa cơn giận và bệnh tim, người ta thấy rằng những bệnh nhân mắc bệnh tim kèm theo huyết áp cao thường có xu hướng dễ nổi giận. Ngoài ra, cũng có báo cáo cho rằng cảm xúc giận dữ ảnh hưởng đến hệ thần kinh và hệ miễn dịch, và điều này có thể làm tăng nguy cơ mắc bệnh tim.
+
+Việc mối quan hệ giữa cơn giận và sức khỏe được quan tâm là do cách nhìn của xã hội về bệnh tật đã thay đổi. Do dân số già hóa, vấn đề chi phí y tế mà toàn xã hội phải gánh chịu cũng không thể xem nhẹ. Không chỉ chi phí do cá nhân bệnh nhân chi trả, mà cả nhà nước và các công ty bảo hiểm cũng phải chịu gánh nặng chi phí y tế ngày càng tăng. Để kiềm chế điều này, việc phòng ngừa bệnh tật là điều quan trọng nhất. Việc phòng bệnh thông qua chú ý đến thói quen sinh hoạt như ăn uống, ngủ nghỉ đã được biết đến rộng rãi, nhưng ngày nay, từ nhiều kết quả nghiên cứu, người ta còn nhận thấy rằng các yếu tố tâm lý như tính cách hay cách suy nghĩ của cá nhân cũng ảnh hưởng đến sức khỏe. Nhờ vậy, trong các lĩnh vực tâm lý học và y học, người ta bắt đầu xem xét mối liên hệ giữa cảm xúc giận dữ và sức khỏe.
+
+免疫 (Miễn dịch): Phản ứng tự nhiên của cơ thể chống lại các vi khuẩn gây bệnh xâm nhập vào cơ thể
+リスク (Nguy cơ): Mối nguy hiểm
 
 ### Câu 1  
 Tác giả nói rằng tức giận ảnh hưởng đến sức khỏe vì lý do gì?  
