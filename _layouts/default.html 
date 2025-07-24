@@ -35,6 +35,12 @@
         color: #df1544;
       }
 
+      .post-content{
+        p{
+           line-height: 2rem;
+        }
+      }
+
       .global-button-wrapper {
         position: fixed;
         top: 20px;
@@ -107,7 +113,7 @@
         btn.addEventListener('click', function() {
             const rubies = document.querySelectorAll('rt');
             rubies.forEach(ruby => {
-                ruby.style.display = (ruby.style.display === 'none') ? 'inline' : 'none';
+                ruby.style.display = (ruby.style.display === 'none') ? 'ruby-text' : 'none';
             });
         });
         
