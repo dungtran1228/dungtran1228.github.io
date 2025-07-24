@@ -6,17 +6,13 @@ layout: page
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-Dưới đây là nội dung bài viết và các câu hỏi trong hình ảnh bạn đã cung cấp:
+<ruby>読者<rt>どくしゃ</rt></ruby><ruby>諸兄<rt>しょけい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には<ruby>経済問題<rt>けいざいもんだい</rt></ruby>には<ruby>詳<rt>くわ</rt></ruby>しい<ruby>方<rt>かた</rt></ruby>がたくさんいらっしゃると<ruby>思<rt>おも</rt></ruby>いますが、<ruby>服<rt>ふく</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>と<ruby>景気<rt>けいき</rt></ruby>には<ruby>密接<rt>みっせつ</rt></ruby>な<ruby>関係<rt>かんけい</rt></ruby>があるということをご<ruby>存<rt>ぞん</rt></ruby>じでしょうか。
 
-**Bài viết:**
+<ruby>以前<rt>いぜん</rt></ruby>、ある<ruby>研究所<rt>けんきゅうじょ</rt></ruby>が<ruby>長年<rt>ながねん</rt></ruby>にわたって<ruby>調査<rt>ちょうさ</rt></ruby>してきたデータを<ruby>拝見<rt>はいけん</rt></ruby>したことがあります。それは、<ruby>服<rt>ふく</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>の<ruby>景気<rt>けいき</rt></ruby>との<ruby>関係性<rt>かんけいせい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べたデータでした。<ruby>街<rt>まち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>黒<rt>くろ</rt></ruby>い<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>の<ruby>出現率<rt>しゅつげんりつ</rt></ruby>（<ruby>全身<rt>ぜんしん</rt></ruby><ruby>真<rt>まっ</rt></ruby><ruby>黒<rt>くろ</rt></ruby>でなくても、<ruby>一枚<rt>いちまい</rt></ruby>でも<ruby>黒<rt>くろ</rt></ruby>い<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ている<ruby>人<rt>ひと</rt></ruby>の<ruby>割合<rt>わりあい</rt></ruby>）が<ruby>高<rt>たか</rt></ruby>いときは<ruby>不景気<rt>ふけいき</rt></ruby>であり、<ruby>低<rt>ひく</rt></ruby>いときは<ruby>好景気<rt>こうけいき</rt></ruby>であるというものです。
+<ruby>私<rt>わたし</rt></ruby>は<ruby>昨年<rt>さくねん</rt></ruby>2<ruby>月<rt>がつ</rt></ruby>のこのコーナーで、「<ruby>今年<rt>ことし</rt></ruby>は<ruby>不景気<rt>ふけいき</rt></ruby>だから<ruby>黒<rt>くろ</rt></ruby>が<ruby>流行<rt>はや</rt></ruby>る」と<ruby>書<rt>か</rt></ruby>きましたが、<ruby>見事<rt>みごと</rt></ruby><ruby>昨年<rt>さくねん</rt></ruby>の<ruby>秋冬<rt>あきふゆ</rt></ruby><ruby>ファッション<rt>ふぁっしょん</rt></ruby>は「<ruby>黒<rt>くろ</rt></ruby>」に<ruby>占領<rt>せんりょう</rt></ruby>されたくらいの<ruby>勢<rt>いきお</rt></ruby>いで<ruby>流行<rt>りゅうこう</rt></ruby>していました。<ruby>実際<rt>じっさい</rt></ruby>に<ruby>昨年<rt>さくねん</rt></ruby>の<ruby>秋冬<rt>あきふゆ</rt></ruby>は<ruby>心理的<rt>しんりてき</rt></ruby>な<ruby>不景気<rt>ふけいき</rt></ruby>の<ruby>ピーク<rt>ぴーく</rt></ruby>だったのではないでしょうか。
 
-読者諸兄の中には経済問題には詳しい方がたくさんいらっしゃると思いますが、服の色と景気には密接な関係があるということをご存じでしょうか。
-
-以前、ある研究所が長年にわたって調査してきたデータを拝見したことがあります。それは、服の色と日本の景気との関係性を調べたデータでした。街を歩いている人の中で、黒い服を着ている人の出現率（全身真っ黒でなくても、一枚でも黒い服を着ている人の割合）が高いときは不景気であり、低いときは好景気であるというものです。
-私は昨年2月のこのコーナーで、「今年は不景気だから黒が流行る」と書きましたが、見事昨年の秋冬ファッションは「黒」に占領されたくらいの勢いで流行していました。実際に昨年の秋冬は心理的な不景気のピークだったのではないでしょうか。
-
-今はどうかというと、ギャルと言われる若いおしゃれコンシャスな女性たちのファッションが明らかに変わってきました。黒が減って白やベージュ、白地に花柄プリント等、黒ではない色が増えてきています。
-ギャルと不景気はあまり関係ないのではないかと思われる方も多いでしょうが、そうでもないのです。
+<ruby>今<rt>いま</rt></ruby>はどうかというと、<ruby>ギャル<rt>ぎゃる</rt></ruby>と<ruby>言<rt>い</rt></ruby>われる<ruby>若<rt>わか</rt></ruby>いおしゃれコンシャスな<ruby>女性<rt>じょせい</rt></ruby>たちの<ruby>ファッション<rt>ふぁっしょん</rt></ruby>が<ruby>明<rt>あき</rt></ruby>らかに<ruby>変<rt>か</rt></ruby>わってきました。<ruby>黒<rt>くろ</rt></ruby>が<ruby>減<rt>へ</rt></ruby>って<ruby>白<rt>しろ</rt></ruby>や<ruby>ベージュ<rt>べーじゅ</rt></ruby>、<ruby>白地<rt>しろじ</rt></ruby>に<ruby>花柄<rt>はながら</rt></ruby><ruby>プリント<rt>ぷりんと</rt></ruby>等、<ruby>黒<rt>くろ</rt></ruby>ではない<ruby>色<rt>いろ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えてきています。
+<ruby>ギャル<rt>ぎゃる</rt></ruby>と<ruby>不景気<rt>ふけいき</rt></ruby>はあまり<ruby>関係<rt>かんけい</rt></ruby>ないのではないかと<ruby>思<rt>おも</rt></ruby>われる<ruby>方<rt>かた</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いでしょうが、そうでもないのです。
 
 （平井義裕「ギャルが『黒』を脱ぎ始め、不況心理弱まる」2010年3月23日付け読売新聞社 YOMIURI ONLINEによる）
 

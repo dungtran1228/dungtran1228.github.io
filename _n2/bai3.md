@@ -6,12 +6,6 @@ layout: page
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-Dưới đây là bản văn tiếng Nhật bạn cung cấp, đã được **thêm phiên âm Hiragana bằng thẻ `<ruby>` và `<rt>`**:
-
----
-
-## 📖 日本語（ルビ付き）
-
 <ruby>片手<rt>かたて</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていたり、<ruby>自転車<rt>じてんしゃ</rt></ruby>のハンドルを<ruby>握<rt>にぎ</rt></ruby>っていたり、<ruby>傘<rt>かさ</rt></ruby>をさしていたりして、<ruby>片手<rt>かたて</rt></ruby>がふさがっているとき、<ruby>ろう者<rt>ろうしゃ</rt></ruby>はもう<ruby>一方<rt>いっぽう</rt></ruby>の<ruby>手<rt>て</rt></ruby>だけで<ruby>話<rt>はな</rt></ruby>しをします。
 また、<ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>している<ruby>ろう者<rt>ろうしゃ</rt></ruby>が、<ruby>片手<rt>かたて</rt></ruby>でハンドルを<ruby>握<rt>にぎ</rt></ruby>り、<ruby>片手<rt>かたて</rt></ruby>で<ruby>手話<rt>しゅわ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すことがあります。
 ちなみに、<ruby>後部座席<rt>こうぶざせき</rt></ruby>の<ruby>ろう者<rt>ろうしゃ</rt></ruby>の<ruby>返事<rt>へんじ</rt></ruby>は、ミラーで<ruby>見<rt>み</rt></ruby>ています。

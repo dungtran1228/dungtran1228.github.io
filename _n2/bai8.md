@@ -6,14 +6,15 @@ layout: page
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-じつは、私たち自身も見えていないことに気づかないことがある。「見えないことに気づかない」というのは、ごくふつうのことなのだ。  
-例えば、この本を読んでいるときの眼球運動。改行して次の行の文章を読むとき、私たちの頭の中では、あたかも文章がつながっているかのように感じている。しかし、行の最後と次の行のはじめとは距離がある。この距離はどこに跳んで行ってしまったのだろう。  
+じつは、<ruby>私<rt>わたし</rt></ruby>たち<ruby>自身<rt>じしん</rt></ruby>も<ruby>見<rt>み</rt></ruby>えていないことに<ruby>気<rt>き</rt></ruby>づかないことがある。「<ruby>見<rt>み</rt></ruby>えないことに<ruby>気<rt>き</rt></ruby>づかない」というのは、ごくふつうのことなのだ。  
+<ruby>例<rt>たと</rt></ruby>えば、この<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいるときの<ruby>眼球<rt>がんきゅう</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>。<ruby>改行<rt>かいぎょう</rt></ruby>して<ruby>次<rt>つぎ</rt></ruby>の<ruby>行<rt>ぎょう</rt></ruby>の<ruby>文章<rt>ぶんしょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むとき、<ruby>私<rt>わたし</rt></ruby>たちの<ruby>頭<rt>あたま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では、あたかも<ruby>文章<rt>ぶんしょう</rt></ruby>がつながっているかのように<ruby>感<rt>かん</rt></ruby>じている。しかし、<ruby>行<rt>ぎょう</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>と<ruby>次<rt>つぎ</rt></ruby>の<ruby>行<rt>ぎょう</rt></ruby>のはじめとは<ruby>距離<rt>きょり</rt></ruby>がある。この<ruby>距離<rt>きょり</rt></ruby>はどこに<ruby>跳<rt>と</rt></ruby>んで<ruby>行<rt>い</rt></ruby>ってしまったのだろう。  
 
-読書中の眼球運動を実際に計測してみると、ふつうに文字を読んでいるときは読みの速さに合わせたゆるやかな眼球運動が、そして改行のところで、非常に急速なサッカードと呼ばれる眼球運動がおこっているのが観察される。  
+<ruby>読書<rt>どくしょ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>眼球<rt>がんきゅう</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>を<ruby>実際<rt>じっさい</rt></ruby>に<ruby>計測<rt>けいそく</rt></ruby>してみると、ふつうに<ruby>文字<rt>もじ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいるときは<ruby>読<rt>よ</rt></ruby>みの<ruby>速<rt>はや</rt></ruby>さに<ruby>合<rt>あ</rt></ruby>わせたゆるやかな<ruby>眼球<rt>がんきゅう</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>が、そして<ruby>改行<rt>かいぎょう</rt></ruby>のところで、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>急速<rt>きゅうそく</rt></ruby>なサッカードと<ruby>呼<rt>よ</rt></ruby>ばれる<ruby>眼球<rt>がんきゅう</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>が<ruby>起<rt>お</rt></ruby>こっているのが<ruby>観察<rt>かんさつ</rt></ruby>される。  
 
-重要なことに、サッカード中、眼に入った映像は見るができない。もし見えたとしたら、あまりにも速い眼球の動きに、本を読む前に気持ち悪くなってしまうことだろう。サッカード中の映像だけ切り捨てられ、サッカード前後の映像がつなぎ合わされて見えているのだ。  
+<ruby>重要<rt>じゅうよう</rt></ruby>なことに、サッカード<ruby>中<rt>ちゅう</rt></ruby>、<ruby>眼<rt>め</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<ruby>映像<rt>えいぞう</rt></ruby>は<ruby>見<rt>み</rt></ruby>るができない。もし<ruby>見<rt>み</rt></ruby>えたとしたら、あまりにも<ruby>速<rt>はや</rt></ruby>い<ruby>眼球<rt>がんきゅう</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きに、<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>む<ruby>前<rt>まえ</rt></ruby>に<ruby>気持<rt>きも</rt></ruby>ち<ruby>悪<rt>わる</rt></ruby>くなってしまうことだろう。サッカード<ruby>中<rt>ちゅう</rt></ruby>の<ruby>映像<rt>えいぞう</rt></ruby>だけ<ruby>切<rt>き</rt></ruby>り<ruby>捨<rt>す</rt></ruby>てられ、サッカード<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>映像<rt>えいぞう</rt></ruby>がつなぎ<ruby>合<rt>あ</rt></ruby>わされて<ruby>見<rt>み</rt></ruby>えているのだ。  
 
-つまり、眼に入った映像すべてが見えているわけではないのである。  
+つまり、<ruby>眼<rt>め</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<ruby>映像<rt>えいぞう</rt></ruby><ruby>全<rt>すべ</rt></ruby>てが<ruby>見<rt>み</rt></ruby>えているわけではないのである。
+
 
 （山口真美『視覚世界の謎に迫る 脳と視覚の実験心理学』講談社による）
 

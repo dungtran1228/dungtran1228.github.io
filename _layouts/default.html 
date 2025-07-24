@@ -113,7 +113,7 @@
         btn.addEventListener('click', function() {
             const rubies = document.querySelectorAll('rt');
             rubies.forEach(ruby => {
-                ruby.style.display = (ruby.style.display === 'none') ? 'ruby-text' : 'none';
+                ruby.style.display = (ruby.style.display === 'none') ? '' : 'none';
             });
         });
         

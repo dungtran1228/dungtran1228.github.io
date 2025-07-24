@@ -6,12 +6,6 @@ layout: page
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-Dưới đây là bản văn tiếng Nhật **kèm phiên âm bằng thẻ `<ruby>` và `<rt>`** cho toàn bộ đoạn bạn cung cấp:
-
----
-
-## 📖 日本語（ルビ付き）
-
 「〜<ruby>道<rt>どう</rt></ruby>」と<ruby>名<rt>な</rt></ruby>の<ruby>付<rt>つ</rt></ruby>くものはいろいろありますが、<ruby>私<rt>わたし</rt></ruby>が<ruby>数年前<rt>すうねんまえ</rt></ruby>から<ruby>習<rt>なら</rt></ruby>っているのは、<ruby>茶道<rt>さどう</rt></ruby>です。
 ちょっと<ruby>古<rt>ふる</rt></ruby>い<ruby>緑<rt>みどり</rt></ruby>の<ruby>粉<rt>こな</rt></ruby>を、<ruby>決<rt>き</rt></ruby>められた<ruby>作法<rt>さほう</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って<ruby>味<rt>あじ</rt></ruby>わい、<ruby>楽<rt>たの</rt></ruby>しむ。 <ruby>茶道<rt>さどう</rt></ruby>のいい<ruby>点<rt>てん</rt></ruby>は、<ruby>自宅<rt>じたく</rt></ruby>で<ruby>気楽<rt>きらく</rt></ruby>に<ruby>入<rt>い</rt></ruby>れたお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのとは<ruby>違<rt>ちが</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>感<rt>かん</rt></ruby>じることです。 <ruby>日常<rt>にちじょう</rt></ruby>にはない、<ruby>独特<rt>どくとく</rt></ruby>なほどよい<ruby>緊張感<rt>きんちょうかん</rt></ruby>が、<ruby>気持<rt>きも</rt></ruby>ちをリフレッシュさせてくれます。
 
