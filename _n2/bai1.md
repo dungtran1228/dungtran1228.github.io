@@ -6,15 +6,21 @@ layout: page
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-ヒトが他の動物と最も異なっている点として、火が使えるということが挙げられる。火によって、ヒトは他の動物から身を守り、夜間に活動することも可能になった。
+Cảm ơn bạn! Dưới đây là phiên bản Markdown tiếng Nhật **có thêm phiên âm bằng thẻ `<ruby>` và `<rt>` (hiragana)**:
 
-人類が火を手に入れたのは、約１００万年前のことだと推定されている。火の利用でその後の人類の進化に大きな影響を与えたのは、料理ができるようになったことであろう。当時、ヒトが食べられる植物の種類は非常に少なかったが、生で食べられないものを煮たり焼いたりすることで、次第にそれも摂取されていった。
+---
 
-**料理して食べることは、ヒトの身体に変化をもたらした。**
+## 📖 日本語（Bản gốc tiếng Nhật kèm phiên âm）
 
-例えば、ゴリラは主に植物を食べているが、十分な栄養を採るためには一日に大量に食べなければならない。生の植物は固いので、それをかむためにはあごの筋肉を強くする必要があった。その影響で、脳を覆う頭蓋骨はあまり大きくならなかった。
+<ruby>ヒト<rt>ひと</rt></ruby>が<ruby>他<rt>ほか</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby>と<ruby>最<rt>もっと</rt></ruby>も<ruby>異<rt>こと</rt></ruby>なっている<ruby>点<rt>てん</rt></ruby>として、<ruby>火<rt>ひ</rt></ruby>が<ruby>使<rt>つか</rt></ruby>えるということが<ruby>挙<rt>あ</rt></ruby>げられる。 <ruby>火<rt>ひ</rt></ruby>によって、<ruby>ヒト<rt>ひと</rt></ruby>は<ruby>他<rt>ほか</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby>から<ruby>身<rt>み</rt></ruby>を<ruby>守<rt>まも</rt></ruby>り、<ruby>夜間<rt>やかん</rt></ruby>に<ruby>活動<rt>かつどう</rt></ruby>することも<ruby>可能<rt>かのう</rt></ruby>になった。
 
-一方、ヒトは、調理されて柔らかくなった食物を食べるようになり、かむ力も小さく、食べ物をかむための筋肉は弱くなっていった。その反面、頭蓋骨は大きくなり、のどの発声器官も発達したと考えられている。このように、人類は身体を発達させ、思考や言語を手に入れることができたのだ。
+<ruby>人類<rt>じんるい</rt></ruby>が<ruby>火<rt>ひ</rt></ruby>を<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れたのは、<ruby>約<rt>やく</rt></ruby>１００<ruby>万年前<rt>まんねんまえ</rt></ruby>のことだと<ruby>推定<rt>すいてい</rt></ruby>されている。<ruby>火<rt>ひ</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>でその<ruby>後<rt>ご</rt></ruby>の<ruby>人類<rt>じんるい</rt></ruby>の<ruby>進化<rt>しんか</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えたのは、<ruby>料理<rt>りょうり</rt></ruby>ができるようになったことであろう。<ruby>当時<rt>とうじ</rt></ruby>、<ruby>ヒト<rt>ひと</rt></ruby>が<ruby>食<rt>た</rt></ruby>べられる<ruby>植物<rt>しょくぶつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>少<rt>すく</rt></ruby>なかったが、<ruby>生<rt>なま</rt></ruby>で<ruby>食<rt>た</rt></ruby>べられないものを<ruby>煮<rt>に</rt></ruby>たり<ruby>焼<rt>や</rt></ruby>いたりすることで、<ruby>次第<rt>しだい</rt></ruby>にそれも<ruby>摂取<rt>せっしゅ</rt></ruby>されていった。
+
+**<ruby>料理<rt>りょうり</rt></ruby>して<ruby>食<rt>た</rt></ruby>べることは、<ruby>ヒト<rt>ひと</rt></ruby>の<ruby>身体<rt>しんたい</rt></ruby>に<ruby>変化<rt>へんか</rt></ruby>をもたらした。**
+
+たとえば、<ruby>ゴリラ<rt>ごりら</rt></ruby>は<ruby>主<rt>おも</rt></ruby>に<ruby>植物<rt>しょくぶつ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べているが、<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>栄養<rt>えいよう</rt></ruby>を<ruby>採<rt>と</rt></ruby>るためには<ruby>一日<rt>いちにち</rt></ruby>に<ruby>大量<rt>たいりょう</rt></ruby>に<ruby>食<rt>た</rt></ruby>べなければならない。<ruby>生<rt>なま</rt></ruby>の<ruby>植物<rt>しょくぶつ</rt></ruby>は<ruby>固<rt>かた</rt></ruby>いので、それを<ruby>か<rt>か</rt></ruby>むためには<ruby>顎<rt>あご</rt></ruby>の<ruby>筋肉<rt>きんにく</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くする<ruby>必要<rt>ひつよう</rt></ruby>があった。その<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>脳<rt>のう</rt></ruby>を<ruby>覆<rt>おお</rt></ruby>う<ruby>頭蓋骨<rt>ずがいこつ</rt></ruby>はあまり<ruby>大<rt>おお</rt></ruby>きくならなかった。
+
+<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>ヒト<rt>ひと</rt></ruby>は、<ruby>調理<rt>ちょうり</rt></ruby>されて<ruby>柔<rt>やわ</rt></ruby>らかくなった<ruby>食物<rt>しょくもつ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるようになり、<ruby>噛<rt>か</rt></ruby>む<ruby>力<rt>ちから</rt></ruby>も<ruby>小<rt>ちい</rt></ruby>さく、<ruby>食<rt>た</rt></ruby>べものを<ruby>噛<rt>か</rt></ruby>むための<ruby>筋肉<rt>きんにく</rt></ruby>は<ruby>弱<rt>よわ</rt></ruby>くなっていった。その<ruby>反面<rt>はんめん</rt></ruby>、<ruby>頭蓋骨<rt>ずがいこつ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きくなり、のどの<ruby>発声器官<rt>はっせいきかん</rt></ruby>も<ruby>発達<rt>はったつ</rt></ruby>したと<ruby>考<rt>かんが</rt></ruby>えられている。このように、<ruby>人類<rt>じんるい</rt></ruby>は<ruby>身体<rt>しんたい</rt></ruby>を<ruby>発達<rt>はったつ</rt></ruby>させ、<ruby>思考<rt>しこう</rt></ruby>や<ruby>言語<rt>げんご</rt></ruby>を<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることができたのだ。
 
 ---
 

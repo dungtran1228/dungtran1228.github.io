@@ -6,11 +6,24 @@ layout: page
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-「～道」と名の付くものはいろいろありますが、私が数年前から習っているのは、茶道です。ちょっと古い緑の粉を、決められた作法に従って味わい、楽しむ。茶道のいい点は、自宅で気楽に入れたお茶を飲むのとは違った時間の流れを感じることです。日常にはない、独特なほど良い緊張感が、気持ちをリフレッシュさせてくれます。
+Dưới đây là bản văn tiếng Nhật **kèm phiên âm bằng thẻ `<ruby>` và `<rt>`** cho toàn bộ đoạn bạn cung cấp:
 
-お茶の先生に聞かれたら怒られてしまうかもしれませんが、作法というのは、やはり面倒なものでもあります。でも茶道の魅力は、茶室に漂う非日常的な感覚だけではありません。お抹茶の色や味や香りだって、魅力の一つです。このおいしいお薄緑を、もっとカジュアルに楽しめないものか…。仕事の休憩時間にお抹茶がいただけたら、どんなにリラックスできるだろうか…。
+---
 
-そこで、職場にお茶を点てる道具を、全てオフィスの戸棚に置いておくのです。職場でさっとお茶を点て、薄緑の飲み物を仕事仲間と共有。従然は普通のお茶の葉っぱを職場に置いておいたのですが、お抹茶なら葉っぱを捨てたりしなくていいので便利だということに気づいてからは、この方法にはまっています。お抹茶は飲み物なのですから、おいしく飲めることが大事に決まっていますよね。
+## 📖 日本語（ルビ付き）
+
+「〜<ruby>道<rt>どう</rt></ruby>」と<ruby>名<rt>な</rt></ruby>の<ruby>付<rt>つ</rt></ruby>くものはいろいろありますが、<ruby>私<rt>わたし</rt></ruby>が<ruby>数年前<rt>すうねんまえ</rt></ruby>から<ruby>習<rt>なら</rt></ruby>っているのは、<ruby>茶道<rt>さどう</rt></ruby>です。
+ちょっと<ruby>古<rt>ふる</rt></ruby>い<ruby>緑<rt>みどり</rt></ruby>の<ruby>粉<rt>こな</rt></ruby>を、<ruby>決<rt>き</rt></ruby>められた<ruby>作法<rt>さほう</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って<ruby>味<rt>あじ</rt></ruby>わい、<ruby>楽<rt>たの</rt></ruby>しむ。 <ruby>茶道<rt>さどう</rt></ruby>のいい<ruby>点<rt>てん</rt></ruby>は、<ruby>自宅<rt>じたく</rt></ruby>で<ruby>気楽<rt>きらく</rt></ruby>に<ruby>入<rt>い</rt></ruby>れたお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むのとは<ruby>違<rt>ちが</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>感<rt>かん</rt></ruby>じることです。 <ruby>日常<rt>にちじょう</rt></ruby>にはない、<ruby>独特<rt>どくとく</rt></ruby>なほどよい<ruby>緊張感<rt>きんちょうかん</rt></ruby>が、<ruby>気持<rt>きも</rt></ruby>ちをリフレッシュさせてくれます。
+
+お<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>に<ruby>聞<rt>き</rt></ruby>かれたら<ruby>怒<rt>おこ</rt></ruby>られてしまうかもしれませんが、<ruby>作法<rt>さほう</rt></ruby>というのは、やはり<ruby>面倒<rt>めんどう</rt></ruby>なものでもあります。
+でも<ruby>茶道<rt>さどう</rt></ruby>の<ruby>魅力<rt>みりょく</rt></ruby>は、<ruby>茶室<rt>ちゃしつ</rt></ruby>に<ruby>漂<rt>ただよ</rt></ruby>う<ruby>非日常的<rt>ひにちじょうてき</rt></ruby>な<ruby>感覚<rt>かんかく</rt></ruby>だけではありません。
+お<ruby>抹茶<rt>まっちゃ</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>や<ruby>味<rt>あじ</rt></ruby>や<ruby>香<rt>かお</rt></ruby>りだって、<ruby>魅力<rt>みりょく</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。
+このおいしいお<ruby>薄緑<rt>うすみどり</rt></ruby>を、もっとカジュアルに<ruby>楽<rt>たの</rt></ruby>しめないものか…。 <ruby>仕事<rt>しごと</rt></ruby>の<ruby>休憩時間<rt>きゅうけいじかん</rt></ruby>にお<ruby>抹茶<rt>まっちゃ</rt></ruby>がいただけたら、どんなにリラックスできるだろうか…。
+
+そこで、<ruby>職場<rt>しょくば</rt></ruby>にお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>点<rt>た</rt></ruby>てる<ruby>道具<rt>どうぐ</rt></ruby>を、すべてオフィスの<ruby>戸棚<rt>とだな</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておくのです。 <ruby>職場<rt>しょくば</rt></ruby>でさっとお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>点<rt>た</rt></ruby>て、<ruby>薄緑<rt>うすみどり</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>を<ruby>仕事仲間<rt>しごとなかま</rt></ruby>と<ruby>共有<rt>きょうゆう</rt></ruby>。 <ruby>従来<rt>じゅうらい</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby>のお<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>葉<rt>は</rt></ruby>っぱを<ruby>職場<rt>しょくば</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておいたのですが、
+お<ruby>抹茶<rt>まっちゃ</rt></ruby>なら<ruby>葉<rt>は</rt></ruby>っぱを<ruby>捨<rt>す</rt></ruby>てたりしなくていいので<ruby>便利<rt>べんり</rt></ruby>だということに<ruby>気<rt>き</rt></ruby>づいてからは、この<ruby>方法<rt>ほうほう</rt></ruby>にはまっています。
+お<ruby>抹茶<rt>まっちゃ</rt></ruby>は<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>なのですから、
+おいしく<ruby>飲<rt>の</rt></ruby>めることが<ruby>大事<rt>だいじ</rt></ruby>に<ruby>決<rt>き</rt></ruby>まっていますよね。
 
 ---
 

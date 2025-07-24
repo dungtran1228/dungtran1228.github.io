@@ -6,13 +6,23 @@ layout: page
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-片手に荷物を持っていたり、自転車のハンドルを握っていたり、傘をさしていたりして、片手がふさがっているとき、ろう者はもう一方の手だけで話をします。また、自動車を運転しているろう者が、片手でハンドルを握り、片手で手話を表すことがあります。ちなみに、後部座席のろう者の返事は、ミラーで見ています。
+Dưới đây là bản văn tiếng Nhật bạn cung cấp, đã được **thêm phiên âm Hiragana bằng thẻ `<ruby>` và `<rt>`**:
 
-手話には、その語や文の特徴が何重にも織り込まれていて、一部分が欠けても、全体を理解することができるという特徴があります。これを冗長といいますが、その性質のおかげで、両手による百分パーセントの表現でなくても、見てわかるのです。もちろん、その時に、手話特有の表情や視線、口の形や動きも一緒に用いて表現しています。
+---
 
-時には、片手うちわ的に、表情だけで会話が進んでいくことがあります。視線をチラリと向けるだけで「ほら、あの人のあそこ」と言ったり、ぱっとの内側を否定して「ウソだ」と言ったりするのです。両手に荷物を持っているときは、あごを引いて眉を上げ、相手とじっと見ることで「ほんとに？／え？」と聞き返したり、（パ、パ）と口を開いて言わずにことで「終わった」と答えたりします。
+## 📖 日本語（ルビ付き）
 
-（亀井信孝『手話の世界を訪ねよう』岩波書店による）
+<ruby>片手<rt>かたて</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていたり、<ruby>自転車<rt>じてんしゃ</rt></ruby>のハンドルを<ruby>握<rt>にぎ</rt></ruby>っていたり、<ruby>傘<rt>かさ</rt></ruby>をさしていたりして、<ruby>片手<rt>かたて</rt></ruby>がふさがっているとき、<ruby>ろう者<rt>ろうしゃ</rt></ruby>はもう<ruby>一方<rt>いっぽう</rt></ruby>の<ruby>手<rt>て</rt></ruby>だけで<ruby>話<rt>はな</rt></ruby>しをします。
+また、<ruby>自動車<rt>じどうしゃ</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>している<ruby>ろう者<rt>ろうしゃ</rt></ruby>が、<ruby>片手<rt>かたて</rt></ruby>でハンドルを<ruby>握<rt>にぎ</rt></ruby>り、<ruby>片手<rt>かたて</rt></ruby>で<ruby>手話<rt>しゅわ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すことがあります。
+ちなみに、<ruby>後部座席<rt>こうぶざせき</rt></ruby>の<ruby>ろう者<rt>ろうしゃ</rt></ruby>の<ruby>返事<rt>へんじ</rt></ruby>は、ミラーで<ruby>見<rt>み</rt></ruby>ています。
+
+<ruby>手話<rt>しゅわ</rt></ruby>には、その<ruby>語<rt>ご</rt></ruby>や<ruby>文<rt>ぶん</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>が<ruby>何重<rt>なんじゅう</rt></ruby>にも<ruby>織<rt>お</rt></ruby>り<ruby>込<rt>こ</rt></ruby>まれていて、<ruby>一部分<rt>いちぶぶん</rt></ruby>が<ruby>欠<rt>か</rt></ruby>けても、<ruby>全体<rt>ぜんたい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>することができるという<ruby>特徴<rt>とくちょう</rt></ruby>があります。
+これを<ruby>冗長<rt>じょうちょう</rt></ruby>といいますが、その<ruby>性質<rt>せいしつ</rt></ruby>のおかげで、<ruby>両手<rt>りょうて</rt></ruby>による<ruby>百分<rt>ひゃくぶん</rt></ruby>パーセントの<ruby>表現<rt>ひょうげん</rt></ruby>でなくても、<ruby>見<rt>み</rt></ruby>てわかるのです。
+もちろん、そのときに、<ruby>手話<rt>しゅわ</rt></ruby><ruby>特有<rt>とくゆう</rt></ruby>の<ruby>表情<rt>ひょうじょう</rt></ruby>や<ruby>視線<rt>しせん</rt></ruby>、<ruby>口<rt>くち</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>動<rt>うご</rt></ruby>きも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>用<rt>もち</rt></ruby>いて<ruby>表現<rt>ひょうげん</rt></ruby>しています。
+
+<ruby>時<rt>とき</rt></ruby>には、<ruby>片手<rt>かたて</rt></ruby><ruby>団扇<rt>うちわ</rt></ruby><ruby>的<rt>てき</rt></ruby>に、<ruby>表情<rt>ひょうじょう</rt></ruby>だけで<ruby>会話<rt>かいわ</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいくことがあります。 <ruby>視線<rt>しせん</rt></ruby>をチラリと<ruby>向<rt>む</rt></ruby>けるだけで「ほら、あの<ruby>人<rt>ひと</rt></ruby>のあそこ」と<ruby>言<rt>い</rt></ruby>ったり、ぱっとの<ruby>内側<rt>うちがわ</rt></ruby>を<ruby>否定<rt>ひてい</rt></ruby>して「<ruby>ウソ<rt>うそ</rt></ruby>だ」と<ruby>言<rt>い</rt></ruby>ったりするのです。 <ruby>両手<rt>りょうて</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っているときは、<ruby>顎<rt>あご</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて<ruby>眉<rt>まゆ</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げ、<ruby>相手<rt>あいて</rt></ruby>とじっと<ruby>見<rt>み</rt></ruby>ることで「ほんとに？／え？」と<ruby>聞<rt>き</rt></ruby>き<ruby>返<rt>かえ</rt></ruby>したり、（パ、パ）と<ruby>口<rt>くち</rt></ruby>を<ruby>開<rt>あ</rt></ruby>いて<ruby>言<rt>い</rt></ruby>わずにことで「<ruby>終<rt>お</rt></ruby>わった」と<ruby>答<rt>こた</rt></ruby>えたりします。
+
+（<ruby>亀井信孝<rt>かめいのぶたか</rt></ruby>『<ruby>手話<rt>しゅわ</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねよう』<ruby>岩波書店<rt>いわなみしょてん</rt></ruby>による）
 
 ---
 
