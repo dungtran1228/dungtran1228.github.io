@@ -1,72 +1,78 @@
-# Bài Trung Bình 5
+---
+title: Bài Trung Bình 5
+permalink: /n2/bai5/
+layout: page
+---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-読者諸兄の中には、流行の変化に敏感な方が多くいらっしゃると思いますが、最近、靴のデザインと人々の生活スタイルに密接な関係があるという研究が注目されています。  
-ある大学が数年間にわたって行った調査によると、シンプルなデザインの靴を履く人が多い時期は、仕事や日常生活で効率を重視する傾向が強く、逆に派手なデザインの靴が増える時期は、リラックスした生活を求める人が増えているとされています。  
+日本の伝統の中には確かに議論をする習慣がない。議論が下手です。だいたいみんな同じ意見なのがいいと思い、意見の違う人は敵とみながちです。
+日本の共同体の伝統にはいい面と悪い面がある。皆が協力して同じ目的を追求するために、自分だけを主張しないのはいいことでしょう。他方では、どうしても意見の違う人が村八分にされる。意見の違う人を受け入れることがなかなかできない。それがもっと極端になると、意見を表明すること自体がそもそもあまり望ましくないということになります。したがって、議論しない。議論すると敵・味方になる傾向が強い。これは悪い面です。
+ヨーロッパ社会では論争がない。米国でも日本よりは多い。それはあらゆるところににらわれているます。例えば英語の放送局BBCが、政治問題に限らず、どういう問題でも座談会みたいなことをするときには、みんな異なる意見を持ってかなり激しい論争をします。論争というのは相手を怒鳴りつけることではなくて、自分の議論を展開して、これこれしかじかの理由でこう考えるという主張をすることです。反対側のるもそう言って、お互いに根拠を挙げて意見を戦わせる。日本のTVの座談会では、だいたいみんなおなじことを言うか、怒鳴りあうかどっかかになる。
 
-昨年、私はこのコラムで「今年は効率重視の時代だからシンプルな靴が流行る」と予測しましたが、実際、秋冬のファッショントレンドはシンプルなデザインが主流となりました。心理的な忙しさのピークだったのかもしれません。  
+（加藤周一『日本はどこへ行くのか』岩波書店による）
 
-最近では、シンプルな靴に加え、カラフルなスニーカーや個性的なデザインの靴が若い世代を中心に増えてきています。これは、リラックスや自己表現を求める傾向が強まっている証拠かもしれません。  
 
-（山田太郎「靴のデザインが示す生活の変化」2025年7月24日付け朝日新聞社 ASAHI ONLINEによる）
+村八分：仲間にいれないこと
+極端：普通の程度から大きく外れていること、偏ること
+座談会：座って話し合いをする集まり
 
----
 
-**読者諸兄**: 読者の皆さん  
-**効率を重視**: 効率を優先する  
-**リラックスした生活**: ゆったりした生活  
 
----
+### 問1  
+筆者は、「論争」とはどのようなものだと説明しているか。
 
-### 問題１　筆者は、何のことを言っているか。
+1. 反対意見を述べたり批判したりすること
 
-〇 1. 若い世代の靴のデザインの変化  
-〇 2. シンプルな靴が流行した理由  
-✅ 3. 筆者の予測が現実になったこと  
-〇 4. カラフルなスニーカーの人気  
+2. 自分と意見の異なる人と理解し合うこと
 
----
+3. 自分の意見を変えずに主張を続けること
 
-### 問題２　筆者は、今の生活スタイルはどうだと考えているか。
+4. 互いに理由を挙げて自分の意見を主張すること 
 
-〇 1. 昨年と同じくらい効率を重視している。  
-〇 2. 昨年より効率を重視している。  
-✅ 3. 昨年よりリラックスを求めている。  
-〇 4. 最もリラックスした時期である。  
+### 問2
+筆者は、日本の共同体の伝統にはどんな欠点があると言っているか。
+
+1. 多数の意見が大きく取り上げられ、少数の意見が注目されない。
+
+2. 自分の立場をはっきりさせることは好まれず、あいまいな話しかしない。
+
+3. 同じ目標に向かうことが多く、異なる考えを認めない。
+
+4. ヨーロッパ社会の良いところを学んで、吸収する姿勢がない。
 
 ---
 
 ## 📘 Tiếng Việt (Bản dịch)
 
-Có lẽ trong số các độc giả đang đọc bài này, có nhiều người nhạy bén với những thay đổi trong xu hướng, nhưng bạn có biết rằng thiết kế giày dép gần đây được cho là có mối liên hệ chặt chẽ với phong cách sống của con người không?
+Trong truyền thống của Nhật Bản, rõ ràng không có thói quen tranh luận. Người Nhật không giỏi tranh luận. Hầu hết mọi người đều nghĩ rằng việc có cùng ý kiến là tốt, và người có ý kiến khác thường bị xem như kẻ thù.  
+Truyền thống cộng đồng của Nhật Bản có cả mặt tốt và mặt xấu. Việc không khăng khăng ý kiến cá nhân để mọi người cùng hợp tác hướng tới một mục tiêu chung là điều tốt. Tuy nhiên, mặt khác, những người có ý kiến khác biệt lại dễ bị cô lập. Người Nhật thường khó chấp nhận ý kiến khác biệt. Nếu điều đó trở nên cực đoan hơn, việc bày tỏ ý kiến bản thân sẽ bị xem là điều không nên làm. Do đó, người ta không tranh luận. Nếu có tranh luận, họ có xu hướng phân chia phe địch - phe ta. Đây là mặt xấu.  
+Ở xã hội châu Âu, tranh luận không phải là điều lạ. Ở Mỹ cũng có nhiều tranh luận hơn Nhật Bản. Điều này thể hiện rõ ở nhiều nơi. Ví dụ, đài BBC của Anh khi tổ chức các chương trình tọa đàm không chỉ về chính trị mà cả các vấn đề khác, mọi người thường bày tỏ các ý kiến khác nhau và tranh luận sôi nổi. Tranh luận không phải là la hét vào mặt nhau mà là triển khai lập luận của mình, nêu rõ lý do vì sao lại nghĩ như vậy. Phía đối lập cũng làm như thế, cả hai bên đưa ra căn cứ và tranh luận với nhau. Trong các chương trình tọa đàm trên TV Nhật Bản, mọi người thường chỉ nói giống nhau hoặc cãi vã to tiếng.
 
-Một trường đại học đã tiến hành nghiên cứu trong vài năm và phát hiện ra rằng, vào những thời điểm nhiều người chọn giày dép có thiết kế đơn giản, xu hướng chú trọng hiệu quả trong công việc và cuộc sống hàng ngày trở nên rõ rệt. Ngược lại, khi giày dép có thiết kế nổi bật và cầu kỳ tăng lên, điều này cho thấy mọi người đang tìm kiếm một cuộc sống thư giãn hơn.
+(Theo tác phẩm "Nhật Bản sẽ đi về đâu?" của Shūichi Katō – Nhà xuất bản Iwanami)
 
-Năm ngoái, tôi đã dự đoán trong chuyên mục này rằng “Năm nay, do thời đại chú trọng hiệu quả, giày dép đơn giản sẽ trở thành xu hướng”, và quả thật, xu hướng thời trang thu - đông năm nay đã nghiêng về các thiết kế đơn giản. Có lẽ đây là đỉnh điểm của sự bận rộn về mặt tâm lý.
-
-Gần đây, ngoài giày dép đơn giản, những đôi giày sneaker nhiều màu sắc và thiết kế độc đáo bắt đầu xuất hiện nhiều hơn, đặc biệt là ở giới trẻ. Điều này có thể là dấu hiệu cho thấy xu hướng tìm kiếm sự thư giãn và thể hiện bản thân đang gia tăng.
-
-(Trích bài: “Thiết kế giày dép phản ánh sự thay đổi trong cuộc sống” - Yamada Taro, Asahi Online, ngày 24 tháng 7 năm 2025)
-
----
-
-### Từ vựng bổ sung
-
-- **読者諸兄**: quý độc giả  
-- **効率を重視**: ưu tiên hiệu quả  
-- **リラックスした生活**: cuộc sống thư giãn  
+**村八分 (Mura hachibu)**: Bị cô lập, không được chấp nhận vào nhóm  
+**極端 (Kyokutan)**: Quá mức, cực đoan  
+**座談会 (Zadankai)**: Buổi tọa đàm, buổi thảo luận cùng nhau
 
 ---
 
-### Câu hỏi 1  
-Tác giả đang nói về điều gì?
+### 📝 Câu hỏi
 
-✅ 3. Dự đoán của tác giả về xu hướng đã trở thành sự thật.
+#### 問1  
+筆者は、「論争」とはどのようなものだと説明しているか。  
+Tác giả giải thích "tranh luận" là điều gì?
 
----
+1. Nêu ý kiến phản đối hoặc chỉ trích.  
+2. Hiểu nhau với người có ý kiến khác.  
+3. Giữ nguyên ý kiến của mình và tiếp tục khẳng định.  
+4. Cùng nhau đưa ra lý do và khẳng định ý kiến của mình. ✅
 
-### Câu hỏi 2  
-Tác giả đánh giá phong cách sống hiện tại như thế nào?
+#### 問2  
+筆者は、日本の共同体の伝統にはどんな欠点があると言っているか。  
+Tác giả nói truyền thống cộng đồng của Nhật Bản có khuyết điểm gì?
 
-✅ 3. Thư giãn hơn so với năm ngoái.
+1. Ý kiến số đông được đề cao, còn ý kiến thiểu số thì không được chú ý.  
+2. Không thích làm rõ lập trường của mình, chỉ nói chuyện mơ hồ.  
+3. Thường hướng tới một mục tiêu chung và không chấp nhận suy nghĩ khác biệt. ✅  
+4. Không có thái độ học hỏi và tiếp thu những điều tốt từ xã hội châu Âu.
