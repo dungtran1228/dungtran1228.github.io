@@ -1,0 +1,124 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <!-- ===== THÊM BUTTON Ở ĐÂY ===== -->
+    <div class="global-button-wrapper">
+      <button id="globalBtn" class="global-btn" type="button" aria-label="Quick actions">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="12" cy="12" r="3"></circle>
+          <path d="M12 1v6m0 6v6m11-7h-6m-6 0H1"></path>
+        </svg>
+        <span class="btn-text">Actions</span>
+      </button>
+    </div>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <!-- ===== CSS VÀ JAVASCRIPT ===== -->
+    <style>
+      .global-button-wrapper {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        z-index: 1000;
+      }
+
+      .global-btn {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background: #0969da;
+        color: white;
+        border: none;
+        padding: 10px 16px;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: 500;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        box-shadow: 0 3px 12px rgba(9, 105, 218, 0.12);
+        transition: all 0.2s ease;
+      }
+
+      .global-btn:hover {
+        background: #0860ca;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 16px rgba(9, 105, 218, 0.2);
+      }
+
+      .global-btn:active {
+        transform: translateY(0);
+      }
+
+      /* Responsive cho mobile */
+      @media (max-width: 768px) {
+        .global-button-wrapper {
+          top: 10px;
+          right: 10px;
+        }
+        
+        .global-btn {
+          padding: 8px 12px;
+          font-size: 12px;
+        }
+        
+        .btn-text {
+          display: none; /* Ẩn text trên mobile */
+        }
+      }
+
+      /* Dark mode support */
+      @media (prefers-color-scheme: dark) {
+        .global-btn {
+          background: #238636;
+        }
+        
+        .global-btn:hover {
+          background: #2ea043;
+        }
+      }
+    </style>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const btn = document.getElementById('globalBtn');
+        
+        btn.addEventListener('click', function() {
+          // Tùy chỉnh hành động ở đây
+          const action = confirm('Chọn hành động:\nOK = Scroll to top\nCancel = Go to home');
+          
+          if (action) {
+            // Scroll to top
+            window.scrollTo({
+              top: 0,
+              behavior: 'smooth'
+            });
+          } else {
+            // Go to home page
+            window.location.href = '/';
+          }
+        });
+        
+        // Thêm tooltip
+        btn.title = 'Quick actions - Click for options';
+      });
+    </script>
+
+  </body>
+
+</html>
