@@ -4,7 +4,7 @@ layout: default
 permalink: /n2/
 ---
 
-# Danh sách các bài học N2
+# Danh sách các bài đọc N2
 
 <ul>
   {% for page in site.pages %}
