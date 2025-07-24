@@ -17,7 +17,7 @@
           <circle cx="12" cy="12" r="3"></circle>
           <path d="M12 1v6m0 6v6m11-7h-6m-6 0H1"></path>
         </svg>
-        <span class="btn-text">Actions</span>
+        <span class="btn-text">Hirigana</span>
       </button>
     </div>
 
@@ -31,6 +31,10 @@
 
     <!-- ===== CSS VÀ JAVASCRIPT ===== -->
     <style>
+      rt{
+        color: #df1544;
+      }
+
       .global-button-wrapper {
         position: fixed;
         top: 20px;
@@ -39,7 +43,6 @@
       }
 
       .global-btn {
-        display: flex;
         align-items: center;
         gap: 8px;
         background: #0969da;
@@ -53,6 +56,9 @@
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         box-shadow: 0 3px 12px rgba(9, 105, 218, 0.12);
         transition: all 0.2s ease;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
       }
 
       .global-btn:hover {
@@ -99,23 +105,14 @@
         const btn = document.getElementById('globalBtn');
         
         btn.addEventListener('click', function() {
-          // Tùy chỉnh hành động ở đây
-          const action = confirm('Chọn hành động:\nOK = Scroll to top\nCancel = Go to home');
-          
-          if (action) {
-            // Scroll to top
-            window.scrollTo({
-              top: 0,
-              behavior: 'smooth'
+            const rubies = document.querySelectorAll('rt');
+            rubies.forEach(ruby => {
+                ruby.style.display = (ruby.style.display === 'none') ? 'inline' : 'none';
             });
-          } else {
-            // Go to home page
-            window.location.href = '/';
-          }
         });
         
         // Thêm tooltip
-        btn.title = 'Quick actions - Click for options';
+        //btn.title = 'Quick actions - Click for options';
       });
     </script>
 
