@@ -1,6 +1,5 @@
 ---
 title: Bài Trung Bình 2
-permalink: /n2/bai2/
 layout: page
 ---
 
