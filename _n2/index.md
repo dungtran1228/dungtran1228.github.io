@@ -8,25 +8,24 @@ permalink: /n2/
 
 Mô tả chung về luyện đọc hiểu N2...
 
-{% assign sub_indexes = site.pages 
-  | where_exp: "item", "item.path contains '_n2/' and item.path != '_n2/index.md' and item.path contains '/index.md'" 
-  | sort: "order" %}
+{% comment %} Tìm tất cả các file index.md trong thư mục con của _n2/ {% endcomment %}
+{% assign sub_indexes = site.pages | where_exp: "item", "item.path contains '_n2/'" | where_exp: "item", "item.path contains '/index.md'" | where_exp: "item", "item.path != '_n2/index.md'" | sort: "order" %}
 
 {% for sub_index in sub_indexes %}
-  {% assign category_folder = sub_index.path | split: '/' | slice: 1, 1 | first %}
-  {% assign category_path = '_n2/' | append: category_folder | append: '/' %}
-  {% assign category_index_path = '_n2/' | append: category_folder | append: '/index.md' %}
+  {% comment %} Lấy tên thư mục category từ path {% endcomment %}
+  {% assign path_parts = sub_index.path | split: '/' %}
+  {% assign category_folder = path_parts[1] %}
   
   <h2>{{ forloop.index }}. {{ sub_index.title }}</h2>
   <p>{{ sub_index.content | markdownify }}</p>
 
   <ul>
-    {% assign lessons = site.pages 
-      | where_exp: "page", "page.path contains category_path and page.path != category_index_path" 
-      | sort: "path" %}
-
-    {% for page in lessons %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% comment %} Tìm tất cả các file trong category này (trừ index.md) {% endcomment %}
+    {% for page in site.pages %}
+      {% assign page_parts = page.path | split: '/' %}
+      {% if page_parts[0] == '_n2' and page_parts[1] == category_folder and page.path != sub_index.path %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% endif %}
     {% endfor %}
   </ul>
 {% endfor %}
