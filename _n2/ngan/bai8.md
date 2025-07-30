@@ -1,6 +1,7 @@
 ---
 title: Bài Ngắn 8
 layout: page
+order: 8
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
@@ -24,3 +25,17 @@ layout: page
 4. <ruby>時代<rt>じだい</rt></ruby>の<ruby>流行<rt>りゅうこう</rt></ruby>がわからないことが<ruby>怖<rt>こわ</rt></ruby>いから。
 
 ## 📘 Tiếng Việt (Bản dịch)
+Dưới đây là bản dịch tiếng Việt của văn bản và câu hỏi:
+
+Khi những từ ngữ mới trở nên phổ biến trong giới trẻ, cha mẹ và những người lớn tuổi sẽ cảm thấy hơi sốc vì không hiểu được những từ đó. Điều này không chỉ đơn thuần là cảm nhận sự khác biệt thế hệ, mà còn là nỗi sợ hãi rằng ngôn ngữ có thể không còn thông hiểu, bởi vì họ cảm thấy sự khác biệt của thời đại một cách sâu sắc. Lý do là vì việc ngôn ngữ có thể thông hiểu chính là bằng chứng cho thấy những người cùng thời đang sống trong một thời đại chung, cái gọi là hiện đại. (Theo Kimie Abe, "Đọc lịch sử trong chính mình", Chikuma Shobo)
+
+**Từ vựng chú thích:**
+* あかし (akashi): Bằng chứng; cái cho thấy một điều gì đó là chắc chắn.
+
+**Câu hỏi 1:**
+Tác giả nói tại sao người lớn tuổi lại bị sốc khi những từ ngữ mới trở nên phổ biến?
+
+1.Vì việc nghe những từ không hiểu nghĩa khiến họ lo lắng.
+2.Vì họ cảm thấy như không sống cùng thời đại với người trẻ.
+3.Vì họ nghĩ rằng khoảng cách thế hệ sẽ không mở rộng.
+4.Vì sợ hãi không hiểu được xu hướng của thời đại.

@@ -16,3 +16,12 @@ order: 11
 4. その言語の話し手が若者ばかりになったとき
 
 ## 📘 Tiếng Việt (Bản dịch)
+Nếu trong tương lai, số lượng người Nhật không thành thạo tiếng Nhật tăng lên, tiếng Nhật sẽ đi theo con đường của một ngôn ngữ đang lụi tàn, một ngôn ngữ nguy hiểm. Người ta dự đoán rằng vào thế kỷ 21, một lượng lớn ngôn ngữ trên Trái Đất sẽ biến mất. Sự tuyệt chủng của một ngôn ngữ không phải là khi người nói cuối cùng qua đời. Trước đó, khi không còn người để nói chuyện, chức năng như một phương tiện giao tiếp sẽ kết thúc. Thậm chí trước đó nữa, khi không còn người nói trẻ tuổi, sự tuyệt chủng đã được báo trước. (Theo Fumio Inoue, "Tiếng Nhật có thể tồn tại được không? Từ góc nhìn ngôn ngữ học kinh tế", Nhà xuất bản PHP)
+
+**Câu hỏi 1:**
+Tác giả nói khi nào thì một ngôn ngữ bị tuyệt chủng?
+
+1. Khi không còn một người nói nào của ngôn ngữ đó.
+2. Khi tất cả những người sử dụng ngôn ngữ đó đều là người già.
+3. Khi hoàn toàn không còn ai để nói chuyện bằng ngôn ngữ đó.
+4. Khi tất cả những người nói ngôn ngữ đó đều là người trẻ.

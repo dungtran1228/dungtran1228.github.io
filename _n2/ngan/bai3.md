@@ -1,6 +1,7 @@
 ---
 title: Bài Ngắn 3
 layout: page
+order: 3
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）

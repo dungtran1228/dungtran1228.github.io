@@ -1,6 +1,7 @@
 ---
 title: Bài Ngắn 6
 layout: page
+order: 6
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
@@ -32,3 +33,20 @@ layout: page
 4. <ruby>長生<rt>ながい</rt></ruby>きできるかどうかには、<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>だけでなく、<ruby>体質<rt>たいしつ</rt></ruby>も<ruby>関係<rt>かんけい</rt></ruby>している。
 
 ## 📘 Tiếng Việt (Bản dịch)
+Khi được hỏi "Nếu muốn sống đến 100 tuổi, bạn sẽ làm gì?", nhiều người thường trả lời rằng "Hỏi bí quyết trường thọ từ những người sống lâu". Vậy, nếu một người trên 100 tuổi nói "Uống canh miso mỗi bữa", bạn có tin điều đó và uống canh miso mỗi bữa không?
+
+Liệu lý do sống lâu chỉ là canh miso thôi sao? Có thể người đó chỉ tình cờ sinh ra trong một gia đình có truyền thống trường thọ. Hoặc có thể họ có một thể chất may mắn, không mắc các bệnh truyền nhiễm như lao phổi trong thời đại mà y học chưa phát triển như hiện nay.
+
+Tất nhiên, việc hỏi bí quyết trường thọ cũng tốt, nhưng nghĩ rằng mình cũng có thể sống lâu nếu làm theo y hệt thì có lẽ hơi đơn giản quá chăng?
+
+**Giải thích từ ngữ:**
+* 長寿 (chōju): Sống lâu.
+* 秘訣 (hiketsu): Bí quyết, phương pháp đặc biệt mà người khác không biết.
+
+**Câu hỏi 1:**
+Điều mà tác giả muốn nói nhất ở đây là gì?
+
+1.Nếu muốn sống lâu, hãy noi gương những người trên 100 tuổi và sống cuộc sống tương tự.
+2.Sống lâu không có nghĩa là có thể sống một cuộc đời sung túc.
+3.Để sống lâu, không chỉ cần cải thiện lối sống mà còn cần sự trợ giúp của y tế.
+4.Việc có sống lâu được hay không không chỉ liên quan đến thói quen sinh hoạt mà còn liên quan đến thể chất.

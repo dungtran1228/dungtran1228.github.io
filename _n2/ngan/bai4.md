@@ -1,6 +1,7 @@
 ---
 title: Bài Ngắn 4
 layout: page
+order: 4
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）

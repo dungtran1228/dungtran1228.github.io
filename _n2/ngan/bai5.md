@@ -1,6 +1,7 @@
 ---
 title: Bài Ngắn 5
 layout: page
+order: 5
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
@@ -31,3 +32,23 @@ layout: page
 4. <ruby>世界中<rt>せかいじゅう</rt></ruby>に<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>博物館<rt>はくぶつかん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ること
 
 ## 📘 Tiếng Việt (Bản dịch)
+Dưới đây là bản dịch tiếng Việt của văn bản và câu hỏi:
+
+Với hoạt động của Columbus, Magellan, và Thuyền trưởng Cook, vào thế kỷ 17, các khám phá địa lý bao gồm cả Nam Thái Bình Dương về cơ bản đã kết thúc, và toàn cảnh Trái Đất dù chưa hoàn chỉnh nhưng đại khái đã được làm rõ. Khi đó, nhân loại phải đối mặt với một vấn đề lớn.
+
+Trái Đất đã ra đời như thế nào? Tại sao trên Trái Đất lại có nhiều động vật và thực vật như vậy? Khi các khám phá địa lý tạm lắng xuống, sự quan tâm của các nhà thám hiểm và mạo hiểm đã chuyển sang việc khám phá các loài động vật và thực vật chưa từng thấy trước đây.
+
+Nói rộng hơn, họ bắt đầu hướng đến các cuộc thám hiểm và mạo hiểm liên quan đến địa chất học, hoặc địa lý học. Những cuộc thám hiểm và mạo hiểm nhằm mang về bảo tàng những động vật kỳ lạ gặp ở những vùng đất xa lạ được làm thành tiêu bản, và hoa, lá được ép khô, đã bắt đầu.
+(Theo Shunichiro Matsushima, "Câu chuyện về thám hiểm và mạo hiểm", Iwanami Shoten)
+
+**Giải thích từ ngữ:**
+* おおむね (ōmune): Đại khái, nhìn chung.
+* 全容 (zenyō): Toàn cảnh, toàn bộ sự việc.
+
+**Câu hỏi 1:**
+Tác giả nói rằng sự quan tâm của các nhà thám hiểm và mạo hiểm đã thay đổi sang điều gì?
+
+1.Đo kích thước của Trái Đất.
+2.Tìm kiếm những vùng đất chưa từng đặt chân đến.
+3.Tìm kiếm những sinh vật chưa biết.
+4.Xây dựng các bảo tàng hoành tráng trên khắp thế giới.

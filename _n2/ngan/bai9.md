@@ -1,12 +1,10 @@
 ---
 title: Bài Ngắn 9
 layout: page
+order: 9
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
-
-Dưới đây là đoạn văn tiếng Nhật từ ảnh bạn cung cấp, được **chuyển sang hiragana kèm theo thẻ `<ruby>` để hiển thị cách đọc**:
-
 ---
 
 <ruby>深海魚<rt>しんかいぎょ</rt></ruby>の<ruby>捕食行動<rt>ほしょくこうどう</rt></ruby>には、その<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>適応<rt>てきおう</rt></ruby>した<ruby>独特<rt>どくとく</rt></ruby>の<ruby>様式<rt>ようしき</rt></ruby>が<ruby>見<rt>み</rt></ruby>られる。
@@ -37,3 +35,25 @@ Dưới đây là đoạn văn tiếng Nhật từ ảnh bạn cung cấp, đư�
 - ④<ruby>エネルギー<rt>エネルギー</rt></ruby>が<ruby>節約<rt>せつやく</rt></ruby>でき、<ruby>他<rt>ほか</rt></ruby>の<ruby>魚<rt>さかな</rt></ruby>に<ruby>食べ<rt>たべ</rt></ruby>られる<ruby>可能性<rt>かのうせい</rt></ruby>も<ruby>低く<rt>ひくく</rt></ruby>なるから。
 
 ## 📘 Tiếng Việt (Bản dịch)
+Dưới đây là bản dịch tiếng Việt của văn bản và câu hỏi:
+
+Hành vi săn mồi của các loài cá biển sâu có những kiểu dáng độc đáo thích nghi với môi trường của chúng. Điều này là do chúng sống trong điều kiện khắc nghiệt như tối tăm, nhiệt độ nước thấp và lượng thức ăn khan hiếm.
+
+Việc làm phát sáng một phần cơ thể để tìm kiếm hoặc thu hút các sinh vật khác có thể nói là một phương pháp tiêu biểu.
+
+Ngoài ra, thay vì chủ động bơi lội tìm kiếm thức ăn, còn có phương pháp phục kích. Điều này là do việc giảm khối lượng cơ bắp và không di chuyển nhiều hơn mức cần thiết sẽ tránh tiêu tốn quá nhiều thể lực, từ đó có lợi cho sự sống còn.
+
+Hơn nữa, nếu giữ yên không nổi bật, nguy cơ gặp phải kẻ thù tự nhiên di chuyển xung quanh để tìm kiếm thức ăn cũng sẽ giảm đi đáng kể.
+
+**Từ vựng chú thích:**
+* おびき寄せたりする: Lừa dối để kéo đến gần.
+* 待ち伏せ: Trốn và chờ đợi đối phương đến.
+* 天敵: Sinh vật ăn thịt các sinh vật khác.
+
+**Câu hỏi 1:**
+Tại sao cá biển sâu lại phục kích thay vì chủ động bơi lội để tìm kiếm thức ăn?
+
+① Vì nếu di chuyển quá nhiều, chúng sẽ bị các loài cá là thức ăn của chúng phát hiện.
+② Vì ở biển sâu tối tăm, mắt chúng không nhìn rõ và dễ gặp nguy hiểm.
+③ Vì lượng xương và cơ bắp giảm, chúng không thể bơi lâu được.
+④ Vì có thể tiết kiệm năng lượng và khả năng bị các loài cá khác ăn thịt cũng thấp hơn.

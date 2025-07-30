@@ -1,6 +1,7 @@
 ---
 title: Bài Ngắn 7
 layout: page
+order: 7
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
@@ -23,7 +24,7 @@ layout: page
 
 <ruby>株式会社円蔵<rt>かぶしきがいしゃえんぞう</rt></ruby>　<ruby>販売部<rt>はんばいぶ</rt></ruby> <ruby>高木勝<rt>たかぎまさる</rt></ruby>
 
-<ruby>[takagi@enzo.co.jp](mailto:takagi@enzo.co.jp)</rt></ruby>
+<ruby>[takagi@enzo.co.jp](mailto:takagi@enzo.co.jp)</ruby>
 
 ---
 
@@ -42,3 +43,28 @@ layout: page
 3. <ruby>在庫<rt>ざいこ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>しかないこと
 4. <ruby>日頃<rt>ひごろ</rt></ruby>から<ruby>感謝<rt>かんしゃ</rt></ruby>していること
 ## 📘 Tiếng Việt (Bản dịch)
+Dưới đây là bản dịch tiếng Việt của email và câu hỏi:
+
+Kính gửi Nakamura Takeshi,
+
+Xin chân thành cảm ơn quý khách đã đặt 5 chiếc "Tạp dề trẻ em A20" vào ngày 30 tháng 3.
+Tuy nhiên, sản phẩm này hiện đang hết hàng, vì vậy chúng tôi rất tiếc phải thông báo rằng chúng tôi không thể chấp nhận đơn hàng của quý khách lần này.
+Chúng tôi đã khẩn trương xác nhận với nhà sản xuất, nhưng thật không may, nhà sản xuất cũng đã hết hàng, và chúng tôi không thể chuẩn bị đủ số lượng mà quý khách đã đặt.
+Sản phẩm mà quý khách đã đặt dự kiến sẽ về hàng vào ngày 30 tháng 4, tức là một tháng nữa. Nếu quý khách đồng ý, chúng tôi sẽ ưu tiên giữ phần hàng đặt của quý khách, quý khách nghĩ sao?
+Rất mong nhận được phản hồi từ quý khách.
+
+Công ty Cổ phần Enzo, Phòng Kinh doanh, Takagi Masaru
+takagi@enzo.co.jp
+
+**Giải thích từ ngữ:**
+* 入荷 (nyuuka): Hàng hóa về đến cửa hàng, v.v.
+* 優先的に (yuusenteki ni): Ưu tiên hơn các khách hàng khác.
+* 確保 (kakuho): Đảm bảo có được một cách chắc chắn.
+
+**Câu hỏi 1:**
+Nội dung chính mà email này muốn truyền đạt là gì?
+
+Không thể đáp ứng đơn hàng lần này.
+Mong muốn tiếp tục nhận được đơn hàng trong tương lai.
+Hàng tồn kho còn ít.
+Bày tỏ lòng biết ơn hàng ngày.
