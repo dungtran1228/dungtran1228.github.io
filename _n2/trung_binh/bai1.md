@@ -5,8 +5,6 @@ layout: page
 
 ## 📖 日本語（Bản gốc tiếng Nhật）
 
-Cảm ơn bạn! Dưới đây là phiên bản Markdown tiếng Nhật **có thêm phiên âm bằng thẻ `<ruby>` và `<rt>` (hiragana)**:
-
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật kèm phiên âm）
