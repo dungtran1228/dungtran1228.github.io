@@ -1,7 +1,7 @@
 ---
-title: Bài Ngắn 
+title: Bài Ngắn 11
 layout: page
-order: 10
+order: 11
 ---
 
 ## 📖 日本語（Bản gốc tiếng Nhật）

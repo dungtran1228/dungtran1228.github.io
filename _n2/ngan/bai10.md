@@ -1,5 +1,5 @@
 ---
-title: Bài Ngắn 
+title: Bài Ngắn 10
 layout: page
 order: 10
 ---
