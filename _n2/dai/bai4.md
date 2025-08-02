@@ -46,3 +46,47 @@ layout: page
 
 ## 📘 Tiếng Việt (Bản dịch)
 
+Ban đầu, mọi người trên khắp thế giới đều sử dụng cùng một ngôn ngữ. Để tránh bị phân tán khắp mặt đất, họ đã nghĩ đến việc xây dựng một ngọn tháp cao vút tới trời làm biểu tượng của sự thống nhất. Đây chính là Tháp Babel.
+
+Tuy nhiên, Chúa đã thấy rằng việc con người âm mưu làm những điều như vậy là do tất cả đều nói cùng một ngôn ngữ. Ngài nghĩ rằng nếu cứ để mặc như vậy, con người sẽ làm những việc ngày càng lớn hơn và không thể kiểm soát được, vì vậy Ngài đã làm cho ngôn ngữ của họ trở nên lộn xộn để họ không thể hiểu nhau.
+
+Tôi đã đề cập lúc đầu rằng có hơn 3000 ngôn ngữ trên thế giới. Có lẽ câu chuyện này đã được nghĩ ra để giải thích tại sao ngôn ngữ lại trở nên đa dạng như vậy.
+
+Thực tế, việc có nhiều ngôn ngữ đa dạng như vậy ở các vùng khác nhau là một điều kỳ lạ và cũng rất bất tiện khi suy nghĩ về nó.
+
+Không ít người đã từng nghĩ rằng sẽ tiện lợi biết bao nếu ngôn ngữ trên toàn thế giới được thống nhất, vì khi đó, họ có thể đi bất cứ đâu và nói chuyện với bất cứ ai, và việc đi du lịch nước ngoài cũng sẽ dễ dàng hơn nhiều.
+
+Và tôi nghĩ rằng mọi người đều biết rằng vì lý do đó, đã có những nỗ lực tạo ra một ngôn ngữ nhân tạo gọi là "Esperanto" như một ngôn ngữ chung của thế giới.
+
+Tuy nhiên, chúng ta cũng có thể suy nghĩ theo chiều ngược lại. Nếu trên thế giới chỉ tồn tại một ngôn ngữ duy nhất, liệu có thể có một nền văn hóa phong phú, hấp dẫn và đa dạng như thế này không? Chính vì ngôn ngữ đa dạng, mà thế giới mới có thể hình thành nên những nền văn hóa đầy cá tính và phong phú đến vậy. Và khi tiếp xúc với những nền văn hóa đó, chúng ta lần đầu tiên nhận ra một sự thật nghiêm túc rằng có những người mang những giá trị quan, thói quen, tư tưởng, tín ngưỡng khác với chúng ta, tức là một "người khác" tuyệt đối, đang sống ở khắp nơi trên thế giới. Từ đó, chúng ta có thể thật sự ngạc nhiên và trở nên khiêm tốn từ tận đáy lòng. Hơn nữa, chúng ta có thể nảy sinh một mong muốn tha thiết là muốn nói chuyện và thấu hiểu những người đó.
+
+Nói cách khác, vì Tháp Babel đã thất bại, con người trên thế giới đã phải nói những ngôn ngữ khác nhau, và rơi vào tình trạng bất tiện là không thể giao tiếp dễ dàng. Nhưng ngược lại, nhờ điều đó, chúng ta đã có cơ hội học những ngôn ngữ chưa biết, và thông qua đó, chúng ta được ban tặng niềm vui khi có sự quan tâm và khao khát đối với các nền văn hóa khác. Có lẽ chúng ta nên suy nghĩ như vậy thì hơn.
+
+(Theo Yojiro Ishii, “Hoàng tử bé” và thế giới ngôn ngữ nước ngoài—Đo đạc tam giác của văn hóa”, Biên tập bởi Khoa Giáo dục Đại học Tokyo, “Bài giảng trực tiếp tại Đại học Tokyo dành cho học sinh trung học phổ thông, biên tập tinh khiết”, Nhà xuất bản Đại học Tokyo)
+
+**Từ vựng:**
+- **大それたこと (Oosoreta koto):** Việc vượt ra ngoài phạm vi thông thường, quá đáng.
+- **しでかす (Shidekasu):** Làm một việc gì đó to tát.
+- **理念 (Rinen):** Quan điểm cơ bản về việc mọi thứ nên như thế nào.
+- **厳粛な (Genshukuna):** Nghiêm túc, không thể thay đổi.
+- **想いを致し (Omoi o itashi):** Quan tâm đến những điều ở xa.
+- **切実な (Setsujitsuna):** Cấp bách, nghiêm trọng, cảm nhận mạnh mẽ vì liên quan đến bản thân.
+- **挫折 (Zasetsu):** Thất bại, không thành công.
+
+**Câu hỏi 1:** Theo tác giả, câu chuyện về "Tháp Babel" đã được nghĩ ra để làm gì?
+- Để nhắc nhở rằng con người là một tồn tại tự cho mình là trung tâm.
+- Để đưa ra lý do tại sao các ngôn ngữ trên thế giới lại đa dạng.
+- Để thể hiện mong muốn của con người là muốn hiểu nhau bằng cùng một ngôn ngữ.
+- Để truyền tải niềm vui khi học một ngôn ngữ mà mình không biết.
+
+**Câu hỏi 2:** "Người khác" tuyệt đối là những người như thế nào?
+- Những người đã tạo ra một nền văn hóa phong phú.
+- Những người sống mà không bị ràng buộc bởi các hạn chế xã hội.
+- Những người có suy nghĩ hoàn toàn khác với bản thân.
+- Những người không thể hiểu nhau như đồng đội.
+
+**Câu hỏi 3:** Tác giả nghĩ gì về việc có nhiều ngôn ngữ khác nhau tồn tại trong xã hội loài người?
+- Nó đã tạo ra những nền văn hóa đa dạng và là cơ hội để mọi người quan tâm đến các nền văn hóa khác.
+- Nó làm tăng cảm giác muốn hiểu nhau và làm tăng số lượng quốc gia và khu vực tạo thành nhóm.
+- Từ nhu cầu giao tiếp ngoài ngôn ngữ, nó đã trở thành nguyên nhân chính cho sự phát triển nhanh chóng của công nghệ truyền thông.
+- Nó gây khó khăn trong việc giao tiếp với người khác và khiến chúng ta yêu quý văn hóa của mình hơn.

@@ -58,3 +58,45 @@ layout: page
 
 ## 📘 Tiếng Việt (Bản dịch)
 
+Khi tìm kiếm trên mạng với từ khóa “bài văn cảm nghĩ về sách”, hàng loạt bài viết làm sẵn sẽ hiện ra. Có những trang web phân loại chi tiết theo "dành cho học sinh tiểu học", "dành cho học sinh trung học", "dành cho sinh viên đại học", và có cả những bài viết kinh điển như "Botchan", "Rashomon", "Kokoro" có thể được tìm thấy ngay lập tức. Chỉ cần sao chép y nguyên là xong. Thậm chí còn có một lời cảnh báo thân thiện: "Nếu bị phát hiện thì tự chịu trách nhiệm".
+
+Đối với những học sinh cảm thấy áy náy khi nộp bài sao chép cho nhà trường, có một "mẫu" để điền vào chỗ trống bằng suy nghĩ của riêng mình để hoàn thành bài viết. Hơn nữa, còn có một hình thức "đặt hàng dễ dàng" là "generator" (phần mềm tạo văn bản), trong đó bạn chỉ cần trả lời một vài câu hỏi về những gì bạn muốn viết là bài viết sẽ được tạo ra.
+
+Có vẻ như việc học sinh bị giáo viên khiển trách vì sao chép bài từ trên mạng đã nằm trong tính toán của "thế giới" này. Khi tiếp tục tìm kiếm các nội dung liên quan, bạn sẽ tìm thấy một trang web về "bài kiểm điểm" trong trường hợp bị phát hiện sao chép. Tại đây, có những mẫu bài viết được sắp xếp theo kiểu "nếu bắt đầu bằng ba câu như thế này...", kèm theo lời khuyên "hãy thay đổi thứ tự, thay đổi từ ngữ, và chỉnh sửa một chút" để viết bài kiểm điểm. Dù nghĩ đó chỉ là một trò đùa, nhưng tôi thực sự kinh ngạc trước sự chu đáo đến từng chi tiết của nó.
+
+Dù chỉ là bài viết cảm nghĩ của học sinh, giáo viên cũng phải chấm điểm và đọc. Việc đánh giá chất lượng đã khó, nhưng việc xác định xem có phải là sao chép từ mạng hay không chắc chắn là một việc vô cùng khó khăn.
+
+Có vẻ như các giáo viên cũng rất e ngại khi dễ dàng nói "làm tốt lắm". Một giáo sư đại học cuối cùng đã nghĩ ra một phần mềm phát hiện sao chép. Mục đích của phần mềm này là để kiểm tra xem báo cáo hay luận văn của sinh viên có sao chép từ văn bản trên mạng hay không. Khi một văn bản đã được số hóa được đưa vào phần mềm này, nó sẽ lùng sục trên mạng để tìm các câu trùng khớp và xác định xem đó là sao chép toàn bộ, sao chép một phần nhỏ, hay tỉ lệ sao chép lên đến 90%. Sử dụng phần mềm này sẽ giúp tiết kiệm rất nhiều công sức kiểm tra.
+
+Tuy nhiên, nếu bài viết nộp bị xác định là sao chép, thử thách tiếp theo đối với giáo viên là phải xử lý học sinh đó như thế nào.
+
+Ngày xưa có câu "Nói rồi sửa lỗi", nhưng chắc chắn, một trang web "chống lại phần mềm phát hiện sao chép" sẽ ra đời từ phía học sinh, và một cuộc rượt đuổi mới sẽ lại bắt đầu.
+
+(Theo Megumi Imaizumi, “Ngày phát minh nghiên cứu – Thời đại sao chép tràn lan, giáo viên bị thử thách”, YOMIURI ONLINE, 24/3/2010)
+
+**Từ vựng:**
+- **坊っちゃん, 羅生門, こころ:** đều là tên tiểu thuyết nổi tiếng.
+- **生成 (Seisei):** Sinh ra, tạo ra, hình thành.
+- **犬も歩けば棒に当たる (Inu mo arukeba bou ni ataru):** Một câu tục ngữ có nghĩa là "Khi làm việc gì đó, đôi khi bạn sẽ gặp may mắn" (nguyên văn nghĩa đen là "Chó đi thì có thể gặp gậy").
+- **出くわす (Dekuwasu):** Tình cờ gặp.
+- **不始末 (Fushimatsu):** Bất cẩn, vô trách nhiệm, gây rắc rối hoặc phiền phức cho người khác.
+- **至れり尽くせり (Itareri tsukuseri):** Chu đáo, tỉ mỉ đến từng chi tiết.
+- **至難の業 (Shinan no waza):** Việc cực kỳ khó khăn.
+
+**Câu hỏi 1:** Có bao nhiêu loại phương pháp viết "bài văn cảm nghĩ về sách" mà tác giả đã tìm thấy khi tìm kiếm trên mạng?
+1. Một
+2. Hai
+3. Ba
+4. Bốn
+
+**Câu hỏi 2:** "気が引ける" (ki ga hikeru) có nghĩa là gì?
+1. Biết đó là việc xấu nên không muốn làm.
+2. Không thể tự làm nên cảm thấy chán nản.
+3. Cảm thấy không hay, xấu hổ.
+4. Không thể tập trung.
+
+**Câu hỏi 3:** "Một cuộc rượt đuổi mới sẽ bắt đầu" có nghĩa là gì?
+1. Mọi biện pháp đối phó đều nhanh chóng mất hiệu quả.
+2. Sẽ không có biện pháp đối phó mới nào xuất hiện.
+3. Giáo viên sẽ xuất hiện để bảo vệ việc sao chép.
+4. Sẽ có nội quy trường học cấm sao chép.

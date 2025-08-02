@@ -55,3 +55,41 @@ layout: page
 
 ## 📘 Tiếng Việt (Bản dịch)
 
+Tại Nhật Bản, một quốc gia có tỷ lệ tự cung tự cấp lương thực thấp (40%), một lượng lớn thực phẩm vẫn còn ăn được nhưng bị trả lại vì sắp hết hạn sử dụng lại đang bị vứt bỏ. Người ta cho rằng nguyên nhân là do người tiêu dùng không hiểu ý nghĩa của hạn sử dụng hoặc quá khắt khe về độ tươi của thực phẩm, dẫn đến việc hàng hóa bị ế. Họ đề xuất rằng cần phải quảng bá việc thực phẩm vẫn có thể ăn được sau khi hết hạn và tiến hành các hoạt động nâng cao nhận thức để thay đổi suy nghĩ của người tiêu dùng.
+
+Tuy nhiên, tôi cho rằng chừng đó là chưa đủ để giảm thiểu việc lãng phí thực phẩm. Bởi vì, một số cuộc khảo sát cho thấy nhiều người biết ý nghĩa chính xác của hạn sử dụng và rằng việc ăn thực phẩm đã qua hạn sử dụng một chút không gây ra vấn đề về sức khỏe.
+
+Vậy tại sao thực phẩm sắp hết hạn sử dụng lại bị ế? Theo tôi, nguyên nhân là do thực phẩm sắp hết hạn và thực phẩm còn hạn dài được bán với cùng một mức giá. Nếu giá cả như nhau, việc người tiêu dùng quan tâm đến độ tươi của thực phẩm chọn loại tươi hơn một chút, tức là còn hạn dài, là điều đương nhiên.
+
+Ngược lại, nếu giảm giá trị của những sản phẩm sắp hết hạn, người tiêu dùng sẽ có thể lựa chọn giữa sản phẩm tươi, giá bình thường và sản phẩm kém tươi một chút nhưng giá thấp hơn.
+
+Mặc dù việc giảm giá sẽ giúp giảm lượng thực phẩm sắp hết hạn bị ế, nhưng các nhà sản xuất và cửa hàng bán lẻ lại không mấy mặn mà với điều này. Tình hình hiện tại, họ trả lại hoặc vứt bỏ những sản phẩm sắp hết hạn để đảm bảo an toàn cho người tiêu dùng. Tuy nhiên, vì thực phẩm vẫn có thể ăn được sau khi hết hạn, nên việc bán chúng không có vấn đề gì. Ngay cả khi có vấn đề về sức khỏe phát sinh do người tiêu dùng không bảo quản đúng cách thực phẩm đã mua, đó là trách nhiệm của chính họ. Ngoài ra, có ý kiến cho rằng việc giảm giá thường xuyên sẽ làm giảm số lượng người tiêu dùng mua với giá niêm yết và làm mất đi hình ảnh thương hiệu, nhưng từ quan điểm về trách nhiệm xã hội của doanh nghiệp, việc tiếp tục lãng phí thực phẩm với số lượng lớn là điều không mong muốn.
+
+Tình hình hiện tại, các nhà sản xuất và cửa hàng bán lẻ đang trả lại hoặc vứt bỏ thực phẩm sắp hết hạn mà không nỗ lực bán chúng. Tuy nhiên, nếu trao quyền lựa chọn có mua hay không cho người tiêu dùng, lượng hàng ế sẽ giảm và việc lãng phí thực phẩm cũng sẽ được giảm bớt. Do đó, người tiêu dùng nên chỉ đạo các nhà sản xuất và cửa hàng thực hiện việc giảm giá trước khi trả lại hoặc vứt bỏ, để người tiêu dùng có thể mua thực phẩm với giá rẻ hơn.
+
+(Từ “Vứt bỏ thực phẩm trước và sau khi hết hạn sử dụng” của Kazuyuki Kumakura, <Tiểu luận TOK, tháng 12 năm 2010, YOMIURI ONLINE của Yomiuri Shimbun>)
+
+**Từ vựng:**
+- **賞味期限 (Shoumikigen):** Hạn sử dụng tốt nhất, ngày tháng cho biết thực phẩm ngon nhất khi ăn.
+- **こだわりすぎる (Kodawari-sugiru):** Quá khắt khe, quá quan tâm.
+- **啓発 (Keihatsu):** Khai sáng, dạy cho người khác những điều mà họ chưa nhận ra, làm sâu sắc thêm kiến thức và hiểu biết.
+- **恒常的な (Koujou-tekina):** Thường xuyên, trở nên bình thường.
+- **委ねれば (Yudanereba):** Nếu giao phó, nếu ủy thác.
+
+**Câu hỏi 1:** Theo bài viết, lý do tại sao thực phẩm bị trả lại hoặc vứt bỏ vì sắp hết hạn sử dụng là gì?
+1. Vì người tiêu dùng coi trọng giá rẻ của thực phẩm.
+2. Vì người tiêu dùng không hiểu ý nghĩa của hạn sử dụng.
+3. Vì người tiêu dùng có xu hướng mua thực phẩm tươi ngon hơn.
+4. Vì hoạt động quảng bá của người tiêu dùng chưa đủ.
+
+**Câu hỏi 2:** Bài viết nói rằng "Nếu giảm giá, lượng thực phẩm sắp hết hạn bị ế sẽ giảm", tại sao lại nghĩ như vậy?
+1. Vì người tiêu dùng thích đồ rẻ.
+2. Vì không có người mua do lo ngại.
+3. Vì có những người nghĩ rằng dù hơi cũ một chút nhưng rẻ thì vẫn tốt.
+4. Vì cửa hàng giảm số lượng thực phẩm bán ra để giữ lợi nhuận.
+
+**Câu hỏi 3:** Điều mà tác giả muốn nói trong bài viết này là gì?
+1. Các nhà sản xuất và cửa hàng nên nghiêm túc hơn trong việc xem xét an toàn thực phẩm.
+2. Các nhà sản xuất và cửa hàng nên sáng tạo hơn trong việc bán cả những sản phẩm mới và tốt.
+3. Người tiêu dùng nên thay đổi quy tắc về hạn sử dụng.
+4. Người tiêu dùng nên ngừng quá khắt khe và cũng không nên thờ ơ.

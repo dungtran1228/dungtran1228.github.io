@@ -59,3 +59,41 @@ layout: page
 
 ## 📘 Tiếng Việt (Bản dịch)
 
+Có những người không biết cách xem ảnh, không hiểu thế nào là một bức ảnh đẹp. Họ nghĩ rằng nếu có một thước đo nào đó để đánh giá tác phẩm, họ có thể sử dụng nó để biết ảnh của mình tốt hay xấu.
+
+Nhìn chung, có ba cách để truyền đạt những gì chúng ta thấy cho người khác: "nói bằng lời", "viết thành văn bản" và "truyền đạt bằng hình ảnh". Thoạt nhìn, chúng có vẻ khác nhau, nhưng trên thực tế, khi chúng ta nói hoặc đọc, một hình ảnh về nội dung đó sẽ hiện lên trong đầu. Hình ảnh này thay đổi liên tục khi nội dung của lời nói hoặc văn bản được chuyển thành hình ảnh. Khi chúng ta nói hoặc đọc, chúng ta đang gợi lên các hình ảnh liên tưởng. Ngược lại, ảnh là phương tiện khiến chúng ta cảm nhận được chữ viết hoặc lời nói từ một hình ảnh.
+
+Khi gặp một bức ảnh "đẹp" tại một triển lãm ảnh, trên báo hay tạp chí, tác giả cố gắng nghĩ rằng mình không phải đang xem bức ảnh đó, mà là đang có mặt tại chính nơi mà bức ảnh đã ghi lại. Thay vì lùi lại một bước để thưởng thức bức ảnh như một vật thể do người khác chụp, tác giả nghĩ rằng mình cũng đang nhìn thấy cảnh đó tại cùng một địa điểm. Và tác giả tưởng tượng ra cả giọng nói của người trong ảnh, âm thanh xung quanh, mùi hương, và cả cảm giác khi chạm vào mọi thứ.
+
+Nếu chỉ coi ảnh là một thế giới hai chiều trên giấy, nó sẽ trở nên vô vị và tẻ nhạt. Nhưng khi chúng ta đắm mình vào bên trong hình ảnh, nó sẽ trở nên sống động như thể đang tồn tại ngay tại đó. Khi cảm thấy một bức ảnh đẹp, hãy chui vào trong tác phẩm như một ninja, và như Tôn Ngộ Không hay Doraemon, hãy tự do bay lượn trong không gian và thời gian đó.
+
+Ảnh là bản ghi lại một khoảnh khắc thực sự đã xảy ra. Nó đưa chúng ta trực tiếp đến những phong cảnh hay cuộc sống của con người mà chúng ta chưa từng thấy. Khi mở album, chúng ta có thể chui vào những bức ảnh chụp cùng ông bà, trở về tuổi thơ và nghe thấy giọng nói của họ.
+
+Một bức ảnh đẹp không phải là những thứ được chụp trong đó, mà là một bức ảnh khiến chúng ta say mê đến quên cả bản thân, như thể đang trò chuyện với nó mà không hay biết, một bức ảnh mà từ trong khung hình, chúng ta nghe thấy vô số lời nói.
+
+(Theo Masahiko Ishii, "Kizuki no Shashin-jutsu", Bungeishunju)
+
+**Từ vựng:**
+- **連想 (Rensou):** Liên tưởng, gợi lên những điều liên quan.
+- **感触 (Kanshoku):** Cảm giác khi chạm vào bằng tay, hoặc khi tiếp xúc với da.
+- **二次元 (Nijigen):** Hai chiều, không có chiều sâu, chỉ có chiều dài và chiều rộng.
+- **味も素っ気もない (Aji mo sokke mo nai):** Tẻ nhạt, vô vị.
+- **我を忘れて (Ware o wasurete):** Say mê, đắm chìm đến mức quên cả bản thân.
+
+**Câu hỏi 1:** “Thước đo” là gì?
+- Thứ để làm cơ sở đánh giá
+- Tác phẩm để tham khảo
+- Thứ để sửa chữa khuyết điểm
+- Thứ để tìm ra lỗi sai
+
+**Câu hỏi 2:** "Có mặt tại chính nơi mà bức ảnh đã ghi lại" có nghĩa là gì?
+- Tái hiện lại sự việc đã xảy ra trong ảnh
+- Thực sự đến thăm địa điểm được chụp trong ảnh
+- Có mặt cùng với người chụp ảnh khi họ chụp
+- Chính mình đang ở trong địa điểm được chụp trong ảnh
+
+**Câu hỏi 3:** Theo tác giả, "một bức ảnh đẹp" là loại ảnh như thế nào?
+- Một bức ảnh khiến chúng ta quên đi thế giới thực
+- Một bức ảnh như đang trò chuyện với người xem
+- Một bức ảnh giúp chúng ta nhớ lại quá khứ một cách chính xác
+- Một bức ảnh làm tăng trí tưởng tượng của người xem
