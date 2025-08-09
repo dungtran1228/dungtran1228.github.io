@@ -1,7 +1,7 @@
 ---
-title: N2 đọc hiểu Speed master
+title: N2 đọc hiểu Marugoto
 layout: default
-permalink: /n2/speed-master/
+permalink: /n2/marugoto/
 ---
 
 # Danh sách các bài đọc N2

@@ -5,6 +5,7 @@ theme: minima
 # Minima: custom header links
 header_pages:
   - _n2/speed-master/index.md
+  - _n2/marugoto/index.md
 
 include:
     - _n2
