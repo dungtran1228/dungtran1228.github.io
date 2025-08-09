@@ -19,14 +19,21 @@ Speed master N2 dokkai
   <p>{{ cat.content | markdownify }}</p>
 
   <ul>
-    {% comment %} Làm sạch cả p.path và cat.dir trước khi so sánh {% endcomment %}
+    {% comment %} Làm sạch cat.dir trước {% endcomment %}
     {% assign cat_dir_clean = cat.dir | remove_first: '/' | remove_last: '/' %}
     
-    {% assign cat_pages = site.pages
-      | where_exp: "p", "p.path | remove_first: '/' | remove_last: '/' contains cat_dir_clean"
-      | where_exp: "p", "p.name != 'index.md'"
-      | where_exp: "p", "p.name contains '.md'"
-      | sort: "name" %}
+    {% comment %} Lọc pages theo thư mục, sau đó làm sạch path để so sánh {% endcomment %}
+    {% assign all_pages = site.pages | where_exp: "p", "p.name != 'index.md'" %}
+    {% assign cat_pages = '' | split: '' %}
+    
+    {% for p in all_pages %}
+      {% assign p_path_clean = p.path | remove_first: '/' | remove_last: '/' %}
+      {% if p_path_clean contains cat_dir_clean and p.name contains '.md' %}
+        {% assign cat_pages = cat_pages | push: p %}
+      {% endif %}
+    {% endfor %}
+    
+    {% assign cat_pages = cat_pages | sort: "name" %}
     
     {% for p in cat_pages %}
       <li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>
