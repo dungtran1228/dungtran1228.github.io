@@ -22,7 +22,9 @@ Speed master N2 dokkai
     {% assign cat_pages = site.pages
       | where_exp: "p", "p.path contains cat.dir"
       | where_exp: "p", "p.name != 'index.md'"
+      | where_exp: "p", "p.name contains '.md'"
       | sort: "name" %}
+    
     {% for p in cat_pages %}
       <li><a href="{{ p.url }}">{{ p.title }}</a></li>
     {% endfor %}
