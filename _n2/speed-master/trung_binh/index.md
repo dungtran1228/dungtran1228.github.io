@@ -1,7 +1,6 @@
 ---
 title: Bài đọc trung bình
 layout: default
-permalink: /n2/trung_binh/
 order: 2
 ---
 

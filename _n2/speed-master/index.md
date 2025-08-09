@@ -27,7 +27,7 @@ Speed master N2 dokkai
       | sort: "name" %}
     
     {% for p in cat_pages %}
-      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+      <li><a href="{{ p.url }}">{{ p.title }} {{p.path}}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
