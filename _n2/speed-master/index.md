@@ -1,7 +1,7 @@
 ---
 title: N2 đọc hiểu
 layout: default
-permalink: /n2/
+permalink: /n2/speed-master/
 ---
 
 # Danh sách các bài đọc N2
