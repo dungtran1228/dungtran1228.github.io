@@ -8,25 +8,25 @@ permalink: /n2/speed-master/
 
 Speed master N2 dokkai
 
-{% comment %} Tìm tất cả index.md trong thư mục con của _n2 {% endcomment %}
 {% assign sub_indexes = site.pages
   | where_exp: "item", "item.path contains '_n2/'"
   | where_exp: "item", "item.name == 'index.md'"
-  | where_exp: "item", "item.path != '_n2/index.md'"
+  | where_exp: "item", "item.path != page.path"
   | sort: "order" %}
 
 {% for sub_index in sub_indexes %}
   {% assign path_parts = sub_index.path | split: '/' %}
   {% assign category_folder = path_parts[1] %}
-  
-  <h2>{{ forloop.index }}. {{ sub_index.title }}</h2>
-  {{ sub_index.content | markdownify }}
+
+  <h2>{{ forloop.index }}. <a href="{{ sub_index.url }}">{{ sub_index.title }}</a></h2>
+  {{ sub_index.excerpt | markdownify }}
 
   <ul>
-    {% assign category_pages = site.pages 
-       | where_exp: "p", "p.path contains '_n2/'"
-       | where_exp: "p", "p.path contains category_folder"
-       | where_exp: "p", "p.name != 'index.md'" %}
+    {% assign category_pages = site.pages
+      | where_exp: "p", "p.path contains '_n2/'"
+      | where_exp: "p", "p.path contains category_folder"
+      | where_exp: "p", "p.name != 'index.md'"
+      | sort: "order" %}
     {% for p in category_pages %}
       <li><a href="{{ p.url }}">{{ p.title }}</a></li>
     {% endfor %}
