@@ -1,5 +1,5 @@
 ---
-title: Bài 9 - Mua vé máy bay giá rẻ
+title: Bài 6
 layout: page
 order: 1
 ---
