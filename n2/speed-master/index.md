@@ -22,6 +22,7 @@ Speed master N2 dokkai
   <ul>
     {% assign cat_pages = site.pages
       | where_exp: "p", "p.name != 'index.md'"
+      | where_exp: "p", "p.name != 'index.md'"
       | where_exp: "p", "p.name contains '.md'"
       | sort: "name" %}
     
