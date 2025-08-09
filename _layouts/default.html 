@@ -31,7 +31,9 @@
 
     <!-- ===== CSS VÀ JAVASCRIPT ===== -->
     <style>
-      background: #faf9f5;
+      body{
+        background: #faf9f5;
+      }
       rt{
         color: #df1544;
       }
