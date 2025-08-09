@@ -9,7 +9,7 @@ permalink: /n2/marugoto/
 Speed master N2 dokkai
 
 {% assign categories = site.pages
-  | where_exp: "item", "item.path contains '_n2/speed-master/'"
+  | where_exp: "item", "item.path contains '_n2/marugoto/'"
   | where_exp: "item", "item.name == 'index.md'"
   | where_exp: "item", "item.path != page.path"
   | sort: "order" %}
