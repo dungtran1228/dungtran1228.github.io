@@ -31,6 +31,7 @@
 
     <!-- ===== CSS VÀ JAVASCRIPT ===== -->
     <style>
+      background: #faf9f5;
       rt{
         color: #df1544;
       }
