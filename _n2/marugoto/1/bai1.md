@@ -12,8 +12,16 @@ order: 1
 <ruby>現代<rt>げんだい</rt></ruby>は、<ruby>性別<rt>せいべつ</rt></ruby>や<ruby>立場<rt>たちば</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なく、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>す</rt></ruby>きな<ruby>食事<rt>しょくじ</rt></ruby>のスタイルを<ruby>自由<rt>じゆう</rt></ruby>に<ruby>選<rt>えら</rt></ruby>べる<ruby>時代<rt>じだい</rt></ruby>だ。<ruby>周<rt>まわ</rt></ruby>りにどう<ruby>思<rt>おも</rt></ruby>われるかよりも、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>をいかに<ruby>楽<rt>たの</rt></ruby>しめるかを<ruby>優先<rt>ゆうせん</rt></ruby>する<ruby>傾向<rt>けいこう</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>している「<ruby>一人<rt>ひとり</rt></ruby>ランチ」も、その<ruby>一例<rt>いちれい</rt></ruby>だろう。ただ、それだけでもなく、<ruby>他人<rt>たにん</rt></ruby>とのかかわりにあまり<ruby>積極的<rt>せっきょくてき</rt></ruby>でない<ruby>日本人<rt>にほんじん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>ったスタイルともいえる。<ruby>今日的<rt>きょうてき</rt></ruby>でもあり、<ruby>日本的<rt>にほんてき</rt></ruby>でもあるように<ruby>思<rt>おも</rt></ruby>うのだ。
 
 CHECK
-###Q1 そういうこととは、どういうことですか。
-###Q2 どんなところが「今日的」または「日本的」ですか。それぞれ答えてください。
+Q1  そういうこととは、どういうことですか。
+Q2  どんなところが「今日的」または「日本的」ですか。それぞれ答えてください。
+
 ## 📘 Tiếng Việt (Bản dịch)
 
 
+Những cụm từ như "ăn trưa một mình" hay "ăn mì ramen một mình" đã trở nên phổ biến. Nhiều người có lẽ sẽ nghĩ rằng những người này chỉ đơn giản là không có bạn bè hay người yêu để ăn cùng, nhưng thực tế không phải vậy. Trong số họ, không ít người chủ động chọn ăn một mình.
+
+Trước đây, việc phụ nữ vào ăn một mình tại các quán ramen hay gyudon thường bị nhìn với ánh mắt kỳ lạ, nhưng giờ đây điều đó đã không còn hiếm. Lối sống và cách ăn uống của mọi người đang ngày càng đa dạng hóa. Có lẽ chỉ đơn giản là như vậy.
+
+Ví dụ, quan điểm cũ cho rằng "đàn ông không nên quá mê đồ ngọt như phụ nữ" đã lỗi thời. Ngày nay, những người đàn ông yêu thích đồ ngọt được chấp nhận rộng rãi và thậm chí còn được gọi là "sweets danshi" (trai mê đồ ngọt). Phụ nữ cũng thoải mái thưởng thức những miếng bít tết lớn hay uống bia sảng khoái với ly bia trên tay.
+
+Thời đại ngày nay, bất kể giới tính hay địa vị, mọi người đều có thể tự do lựa chọn phong cách ăn uống mình yêu thích. Xu hướng ưu tiên việc tận hưởng khoảng thời gian của riêng mình hơn là bận tâm người khác nghĩ gì đang ngày càng gia tăng. "Ăn trưa một mình" cũng là một ví dụ điển hình. Tuy nhiên, nó không chỉ có vậy, mà còn có thể được coi là một phong cách phù hợp với bản chất người Nhật vốn không quá chủ động trong các mối quan hệ xã hội. Tôi nghĩ rằng đó là một phong cách vừa hiện đại, vừa rất Nhật Bản.

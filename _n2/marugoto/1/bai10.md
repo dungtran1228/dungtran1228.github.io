@@ -42,7 +42,7 @@ Hơn nữa, còn có trường hợp không được tích lũy dặm bay, khôn
 Vì vậy, những người muốn tích điểm dặm hoặc có yêu cầu về vị trí chỗ ngồi thì có thể sẽ không phù hợp với những cách này.
 
 CHECK
-###Q1. Ba cách mua vé máy bay rẻ được giới thiệu:
+Q1. Ba cách mua vé máy bay rẻ được giới thiệu:
 
 1.Mua vé càng sớm càng tốt (trước ít nhất 28 ngày).
 
@@ -50,7 +50,7 @@ CHECK
 
 3.Mua vé kèm gói dịch vụ (ví dụ: khách sạn).
 
-###Q2. Những cách này không phù hợp với:
+Q2. Những cách này không phù hợp với:
 
 1.Người muốn tích lũy dặm bay.
 

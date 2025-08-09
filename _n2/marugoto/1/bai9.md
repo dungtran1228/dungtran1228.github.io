@@ -17,4 +17,18 @@ order: 1
 
 さて、ご<ruby>注文<rp>（</rp><rt>ちゅうもん</rt><rp>）</rp></ruby>いただきました「<ruby>衣類乾燥機<rp>（</rp><rt>いるいかんそうき</rt><rp>）</rp></ruby>【スムーズドライ】<ruby>注文番号<rp>（</rp><rt>ちゅうもんばんごう</rt><rp>）</rp></ruby>００３－１２３４」は、<ruby>誠<rp>（</rp><rt>まこと</rt><rp>）</rp></ruby>に<ruby>申<rp>（</rp><rt>もう</rt><rp>）</rp></ruby>し<ruby>訳<rp>（</rp><rt>わけ</rt><rp>）</rp></ruby>ありませんが、<ruby>現在<rp>（</rp><rt>げんざい</rt><rp>）</rp></ruby>、<ruby>在庫切<rp>（</rp><rt>ざいこぎ</rt><rp>）</rp></ruby>れにつき、<ruby>入荷待<rp>（</rp><rt>にゅうかま</rt><rp>）</rp></ruby>ちの<ruby>状態<rp>（</rp><rt>じょうたい</rt><rp>）</rp></ruby>です。そのため、<ruby>発送<rp>（</rp><rt>はっそう</rt><rp>）</rp></ruby>までに２<ruby>週間<rp>（</rp><rt>しゅうかん</rt><rp>）</rp></ruby>ほどお<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>にちがかかる<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>がございます。<ruby>在庫<rp>（</rp><rt>ざいこ</rt><rp>）</rp></ruby>が<ruby>確定<rp>（</rp><rt>かくてい</rt><rp>）</rp></ruby>いたしましたら、<ruby>再度<rp>（</rp><rt>さいど</rt><rp>）</rp></ruby>メールにてご<ruby>連絡<rp>（</rp><rt>れんらく</rt><rp>）</rp></ruby>させていただき、そのまま<ruby>発想<rp>（</rp><rt>はっそう</rt><rp>）</rp></ruby>の<ruby>手配<rp>（</rp><rt>てはい</rt><rp>）</rp></ruby>をいたします。お<ruby>届<rp>（</rp><rt>とど</rt><rp>）</rp></ruby>け<ruby>予定<rp>（</rp><rt>よてい</rt><rp>）</rp></ruby>は、<ruby>発送後<rp>（</rp><rt>はっそうご</rt><rp>）</rp></ruby>、<ruby>翌日<rp>（</rp><rt>よくじつ</rt><rp>）</rp></ruby>～３<ruby>日程度<rp>（</rp><rt>かていど</rt><rp>）</rp></ruby>です（<ruby>地域<rp>（</rp><rt>ちいき</rt><rp>）</rp></ruby>により<ruby>異<rp>（</rp><rt>こと</rt><rp>）</rp></ruby>なります）。
 
-...
+## 📘 Tiếng Việt (Bản dịch)
+
+Người gửi: Công ty Cổ phần Smile ＜smile＠shop.co.jp＞
+Ngày giờ: 13:04:47, ngày 10 tháng 9 năm 2018
+Người nhận: [haru@jmail.com](mailto:haru@jmail.com)
+
+Tiêu đề: 【Smooth Dry】Thông báo về dự kiến gửi hàng
+
+Kính gửi chị Tanaka Haruka,
+
+Tôi là Yamada của Công ty Cổ phần Smile. Cảm ơn chị rất nhiều vì đã đặt hàng. Email này có thể sẽ cần thiết sau này, vì vậy xin vui lòng lưu giữ cẩn thận.
+
+Về đơn hàng “Máy sấy quần áo 【Smooth Dry】” (Mã đơn hàng 003-1234) mà chị đã đặt, chúng tôi rất xin lỗi vì hiện tại sản phẩm đang hết hàng và phải chờ nhập kho. Do đó, có thể sẽ mất khoảng 2 tuần trước khi chúng tôi có thể gửi hàng. Khi hàng về kho, chúng tôi sẽ liên lạc lại qua email và ngay lập tức tiến hành sắp xếp việc gửi hàng.
+
+Dự kiến thời gian giao hàng là từ 1 đến 3 ngày sau khi gửi (tùy khu vực).

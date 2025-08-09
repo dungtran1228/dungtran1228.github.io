@@ -17,3 +17,8 @@ Q2 <ruby>宇宙船<rt>うちゅうせん</rt></ruby>から<ruby>地球<rt>ちき
 
 ## 📘 Tiếng Việt (Bản dịch)
 
+Nhắc đến phi hành gia, từ xưa đến nay đây vẫn là một nghề nghiệp nổi tiếng mà trẻ em luôn ngưỡng mộ. Nhưng thực tế, họ làm những công việc gì? Và họ có cuộc sống như thế nào?
+
+Công việc chính của phi hành gia khi ở ngoài vũ trụ, trước hết là tiến hành các thí nghiệm và nghiên cứu chỉ có thể thực hiện được trong môi trường không trọng lực. Ngoài những thí nghiệm quan trọng như thí nghiệm y học, còn có những “thí nghiệm vũ trụ thú vị” — tức là các thí nghiệm được thực hiện dựa trên ý tưởng thu thập từ công chúng. Tiếp theo, họ đảm nhiệm việc quản lý và sửa chữa ISS (Trạm Vũ trụ Quốc tế) hay mô-đun “Kibō”. Để vận hành và duy trì ISS, họ sử dụng cánh tay robot để lắp đặt các thiết bị thí nghiệm, thay thế linh kiện. Ngoài ra, họ còn mặc bộ đồ vũ trụ để thực hiện các hoạt động bên ngoài con tàu — những việc mà cánh tay robot không thể làm được.
+
+Vậy điều kiện làm việc ra sao? Đối với người Nhật, giờ làm việc cũng giống như nhân viên dưới mặt đất, là 8 tiếng mỗi ngày, và được nghỉ vào thứ Bảy và Chủ Nhật. Lương được tính theo tiêu chuẩn của JAXA, tương tự các nhân viên khác trên mặt đất, nhưng có thêm các khoản phụ cấp đặc biệt như phụ cấp nguy hiểm. Vào ngày nghỉ, họ thường dọn dẹp bên trong tàu hoặc tập luyện cơ bắp, nhưng cũng giống như ở Trái Đất, họ có thể đọc sách hoặc xem DVD. ★ Và điều được yêu thích nhất, kể cả trong ngày nghỉ hay những lúc rảnh rỗi, là ngắm nhìn Trái Đất qua cửa sổ. Vì trạm vũ trụ quay quanh Trái Đất nhiều vòng trong thời gian ngắn, nên cảnh sắc luôn thay đổi và không bao giờ gây nhàm chán.

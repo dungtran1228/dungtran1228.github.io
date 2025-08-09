@@ -21,3 +21,10 @@ Q2: カーシェアリングは、レンタカーとどんなところが違<rub
 
 ## 📘 Tiếng Việt (Bản dịch)
 
+Gần đây, tôi thường xuyên thấy những tấm biển ghi “car sharing” (chia sẻ xe hơi) ở khắp nơi trong thành phố. Car sharing là dịch vụ mà các hội viên đã đăng ký sẽ cùng nhau sử dụng chung xe. Tại Nhật Bản, công ty car sharing đầu tiên ra đời vào năm 2002, và từ khoảng năm 2010, số lượng người sử dụng bắt đầu tăng dần.
+
+Vào khoảng thập niên 1990, khi nói đến thứ mà giới trẻ mong muốn sở hữu, đó thường là ô tô, và việc có xe hơi từng là một trong những biểu tượng của địa vị xã hội. Thế nhưng, những năm gần đây, người ta nói rằng xu hướng “xa rời ô tô” đang diễn ra, đặc biệt là ở giới trẻ. Ở các đô thị lớn, hệ thống giao thông công cộng như tàu điện, xe buýt đã phát triển, nên với những người không cần ô tô để đi làm, cơ hội sử dụng xe hơi là không nhiều. Hơn nữa, việc sở hữu xe phải tốn chi phí xăng, phí đỗ xe, thuế… Với tình hình việc làm bấp bênh hiện nay, không ít người cho rằng với điều kiện kinh tế này, chuyện mua ô tô là điều không thể. Bên cạnh đó, ý thức về các vấn đề môi trường như tắc nghẽn giao thông hay khí thải, cùng với sự thay đổi trong lối sống và sự đa dạng hóa giá trị quan, cũng khiến nhiều người thay đổi cách nhìn. ★ Thà dùng tiền vào những việc khác còn hơn bỏ ra một khoản lớn cho ô tô — suy nghĩ này ngày càng trở nên phổ biến.
+
+Chính vì vậy, để đáp ứng nhu cầu của những người không muốn sở hữu xe nhưng vẫn cần sử dụng khi cần thiết, dịch vụ car sharing đã ra đời. Điểm khác biệt của dịch vụ này so với thuê xe truyền thống là chỉ cần đăng ký hội viên, sau đó đặt xe qua mạng là có thể sử dụng bất cứ lúc nào trong 24 giờ. Chỉ cần đến trạm xe không người ở gần nhà, bạn có thể dùng ngay chiếc xe đang đỗ ở đó mà không cần làm các thủ tục rườm rà. Thời gian thuê cũng được tính theo đơn vị 15 phút hoặc 30 phút, rất tiện lợi cho những trường hợp như đi mua sắm gần nhà.
+
+Số lượng doanh nghiệp car sharing đang tăng lên qua từng năm, và số người đăng ký hội viên cũng ngày càng nhiều. Có lẽ trong tương lai, loại hình dịch vụ này sẽ còn tiếp tục mở rộng hơn nữa.
