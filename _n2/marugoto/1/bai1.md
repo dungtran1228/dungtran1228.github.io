@@ -7,70 +7,14 @@ layout: page
 
 ---
 
-## 📖 日本語（Bản gốc tiếng Nhật kèm phiên âm）
+## 📖 日本語
 
-<ruby>ヒト<rt>ひと</rt></ruby>が<ruby>他<rt>ほか</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby>と<ruby>最<rt>もっと</rt></ruby>も<ruby>異<rt>こと</rt></ruby>なっている<ruby>点<rt>てん</rt></ruby>として、<ruby>火<rt>ひ</rt></ruby>が<ruby>使<rt>つか</rt></ruby>えるということが<ruby>挙<rt>あ</rt></ruby>げられる。 <ruby>火<rt>ひ</rt></ruby>によって、<ruby>ヒト<rt>ひと</rt></ruby>は<ruby>他<rt>ほか</rt></ruby>の<ruby>動物<rt>どうぶつ</rt></ruby>から<ruby>身<rt>み</rt></ruby>を<ruby>守<rt>まも</rt></ruby>り、<ruby>夜間<rt>やかん</rt></ruby>に<ruby>活動<rt>かつどう</rt></ruby>することも<ruby>可能<rt>かのう</rt></ruby>になった。
+<ruby>皆さん<rp>（</rp><rt>みなさん</rt><rp>）</rp></ruby>は、<ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>を<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>く<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>れる<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>を<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>っていますか。そのためには、<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きく<ruby>分<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>けて３つの<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>があります。まずは、できるだけ<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>い<ruby>時期<rp>（</rp><rt>じき</rt><rp>）</rp></ruby>に<ruby>購入<rp>（</rp><rt>こうにゅう</rt><rp>）</rp></ruby>することです。<ruby>大体<rp>（</rp><rt>だいたい</rt><rp>）</rp></ruby>、どの<ruby>航空会社<rp>（</rp><rt>こうくうがいしゃ</rt><rp>）</rp></ruby>も、<ruby>飛行機<rp>（</rp><rt>ひこうき</rt><rp>）</rp></ruby>に<ruby>乗<rp>（</rp><rt>の</rt><rp>）</rp></ruby>る<ruby>日<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>の２８<ruby>日前<rp>（</rp><rt>にちまえ</rt><rp>）</rp></ruby>より<ruby>早<rp>（</rp><rt>はや</rt><rp>）</rp></ruby>く<ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>うと、かなり<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>く<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えるようになっています。<ruby>次<rp>（</rp><rt>つぎ</rt><rp>）</rp></ruby>に、<ruby>旅行会社<rp>（</rp><rt>りょこうがいしゃ</rt><rp>）</rp></ruby>で<ruby>格安<rp>（</rp><rt>かくやす</rt><rp>）</rp></ruby><ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>です。<ruby>旅行会社<rp>（</rp><rt>りょこうがいしゃ</rt><rp>）</rp></ruby>はある<ruby>程度<rp>（</rp><rt>ていど</rt><rp>）</rp></ruby>まとまった<ruby>数<rp>（</rp><rt>かず</rt><rp>）</rp></ruby>の<ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>を<ruby>航空会社<rp>（</rp><rt>こうくうがいしゃ</rt><rp>）</rp></ruby>から<ruby>仕入<rp>（</rp><rt>しい</rt><rp>）</rp></ruby>れているので、その<ruby>分<rp>（</rp><rt>ぶん</rt><rp>）</rp></ruby>、<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>く<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ります（<ruby>国内旅行<rp>（</rp><rt>こくないりょこう</rt><rp>）</rp></ruby>の<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>旅行会社<rp>（</rp><rt>りょこうがいしゃ</rt><rp>）</rp></ruby>ではなく、<ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>の<ruby>販売<rp>（</rp><rt>はんばい</rt><rp>）</rp></ruby>サイトが<ruby>便利<rp>（</rp><rt>べんり</rt><rp>）</rp></ruby>です）。<ruby>最後<rp>（</rp><rt>さいご</rt><rp>）</rp></ruby>は、<ruby>旅行会社<rp>（</rp><rt>りょこうがいしゃ</rt><rp>）</rp></ruby>でホテル<ruby>代<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>などとセットになった<ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>を<ruby>購入<rp>（</rp><rt>こうにゅう</rt><rp>）</rp></ruby>する<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>です。これは、<ruby>全体<rp>（</rp><rt>ぜんたい</rt><rp>）</rp></ruby>の<ruby>旅行費用<rp>（</rp><rt>りょこうひよう</rt><rp>）</rp></ruby>を<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>く<ruby>抑<rp>（</rp><rt>おさ</rt><rp>）</rp></ruby>えたいときや、<ruby>初<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めての<ruby>場所<rp>（</rp><rt>ばしょ</rt><rp>）</rp></ruby>に<ruby>旅行<rp>（</rp><rt>りょこう</rt><rp>）</rp></ruby>するときにおすすめの<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>です。
+<br>   ただし、<ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>を<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>うに<ruby>際<rp>（</rp><rt>さい</rt><rp>）</rp></ruby>して、<ruby>注意<rp>（</rp><rt>ちゅうい</rt><rp>）</rp></ruby>しなければならないこともあります。それは、キャンセル<ruby>料<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>が<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くかかってしまうということです。<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>にもよりますが、<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>い<ruby>会社<rp>（</rp><rt>かいしゃ</rt><rp>）</rp></ruby>だと、２<ruby>週間前<rp>（</rp><rt>しゅうかんまえ</rt><rp>）</rp></ruby>までにキャンセルしたとしても、<ruby>航空券代<rp>（</rp><rt>こうくうけんだい</rt><rp>）</rp></ruby>だけで、<ruby>約半分<rp>（</rp><rt>やくはんぶん</rt><rp>）</rp></ruby>が<ruby>戻<rp>（</rp><rt>もど</rt><rp>）</rp></ruby>ってこないことになります。さらに、<ruby>旅行会社<rp>（</rp><rt>りょこうがいしゃ</rt><rp>）</rp></ruby>や<ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>の<ruby>販売<rp>（</rp><rt>はんばい</rt><rp>）</rp></ruby>サイトを<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>した<ruby>場所<rp>（</rp><rt>ばしょ</rt><rp>）</rp></ruby>は、キャンセル<ruby>料<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>のみならず、<ruby>事務手数料<rp>（</rp><rt>じむてすうりょう</rt><rp>）</rp></ruby>など、<ruby>航空券以外<rp>（</rp><rt>こうくうけんいがい</rt><rp>）</rp></ruby>のお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>もかかってしまいます。★つまり、キャンセルした<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>は、<ruby>支払<rp>（</rp><rt>しはら</rt><rp>）</rp></ruby>ったお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>がわずかしか<ruby>返<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>ってこないこともあると<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>っておいた<ruby>方<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>がいいのです。さらに、マイルが<ruby>貯<rp>（</rp><rt>た</rt><rp>）</rp></ruby>まらない、<ruby>事前<rp>（</rp><rt>じぜん</rt><rp>）</rp></ruby>に<ruby>座席指定<rp>（</rp><rt>ざせきしてい</rt><rp>）</rp></ruby>ができない、などという<ruby>場合<rp>（</rp><rt>ばあい</rt><rp>）</rp></ruby>もあります。そのため、マイルを<ruby>貯<rp>（</rp><rt>た</rt><rp>）</rp></ruby>めている<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>や、<ruby>座席<rp>（</rp><rt>ざせき</rt><rp>）</rp></ruby>の<ruby>位置<rp>（</rp><rt>いち</rt><rp>）</rp></ruby>に<ruby>希望<rp>（</rp><rt>きぼう</rt><rp>）</rp></ruby>がある<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>には、<ruby>不向<rp>（</rp><rt>ふむ</rt><rp>）</rp></ruby>きかもしれません。
 
-<ruby>人類<rt>じんるい</rt></ruby>が<ruby>火<rt>ひ</rt></ruby>を<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れたのは、<ruby>約<rt>やく</rt></ruby>１００<ruby>万年前<rt>まんねんまえ</rt></ruby>のことだと<ruby>推定<rt>すいてい</rt></ruby>されている。<ruby>火<rt>ひ</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>でその<ruby>後<rt>ご</rt></ruby>の<ruby>人類<rt>じんるい</rt></ruby>の<ruby>進化<rt>しんか</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えたのは、<ruby>料理<rt>りょうり</rt></ruby>ができるようになったことであろう。<ruby>当時<rt>とうじ</rt></ruby>、<ruby>ヒト<rt>ひと</rt></ruby>が<ruby>食<rt>た</rt></ruby>べられる<ruby>植物<rt>しょくぶつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>少<rt>すく</rt></ruby>なかったが、<ruby>生<rt>なま</rt></ruby>で<ruby>食<rt>た</rt></ruby>べられないものを<ruby>煮<rt>に</rt></ruby>たり<ruby>焼<rt>や</rt></ruby>いたりすることで、<ruby>次第<rt>しだい</rt></ruby>にそれも<ruby>摂取<rt>せっしゅ</rt></ruby>されていった。
-
-**<ruby>料理<rt>りょうり</rt></ruby>して<ruby>食<rt>た</rt></ruby>べることは、<ruby>ヒト<rt>ひと</rt></ruby>の<ruby>身体<rt>しんたい</rt></ruby>に<ruby>変化<rt>へんか</rt></ruby>をもたらした。**
-
-たとえば、<ruby>ゴリラ<rt>ごりら</rt></ruby>は<ruby>主<rt>おも</rt></ruby>に<ruby>植物<rt>しょくぶつ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べているが、<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>栄養<rt>えいよう</rt></ruby>を<ruby>採<rt>と</rt></ruby>るためには<ruby>一日<rt>いちにち</rt></ruby>に<ruby>大量<rt>たいりょう</rt></ruby>に<ruby>食<rt>た</rt></ruby>べなければならない。<ruby>生<rt>なま</rt></ruby>の<ruby>植物<rt>しょくぶつ</rt></ruby>は<ruby>固<rt>かた</rt></ruby>いので、それを<ruby>か<rt>か</rt></ruby>むためには<ruby>顎<rt>あご</rt></ruby>の<ruby>筋肉<rt>きんにく</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くする<ruby>必要<rt>ひつよう</rt></ruby>があった。その<ruby>影響<rt>えいきょう</rt></ruby>で、<ruby>脳<rt>のう</rt></ruby>を<ruby>覆<rt>おお</rt></ruby>う<ruby>頭蓋骨<rt>ずがいこつ</rt></ruby>はあまり<ruby>大<rt>おお</rt></ruby>きくならなかった。
-
-<ruby>一方<rt>いっぽう</rt></ruby>、<ruby>ヒト<rt>ひと</rt></ruby>は、<ruby>調理<rt>ちょうり</rt></ruby>されて<ruby>柔<rt>やわ</rt></ruby>らかくなった<ruby>食物<rt>しょくもつ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるようになり、<ruby>噛<rt>か</rt></ruby>む<ruby>力<rt>ちから</rt></ruby>も<ruby>小<rt>ちい</rt></ruby>さく、<ruby>食<rt>た</rt></ruby>べものを<ruby>噛<rt>か</rt></ruby>むための<ruby>筋肉<rt>きんにく</rt></ruby>は<ruby>弱<rt>よわ</rt></ruby>くなっていった。その<ruby>反面<rt>はんめん</rt></ruby>、<ruby>頭蓋骨<rt>ずがいこつ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きくなり、のどの<ruby>発声器官<rt>はっせいきかん</rt></ruby>も<ruby>発達<rt>はったつ</rt></ruby>したと<ruby>考<rt>かんが</rt></ruby>えられている。このように、<ruby>人類<rt>じんるい</rt></ruby>は<ruby>身体<rt>しんたい</rt></ruby>を<ruby>発達<rt>はったつ</rt></ruby>させ、<ruby>思考<rt>しこう</rt></ruby>や<ruby>言語<rt>げんご</rt></ruby>を<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることができたのだ。
-
----
-
-**頭蓋骨：頭の骨**
-
----
-
-### 問題１  
-筆者は、火を使うことによって、人類は何ができるようになったと言っているか。
-
-〇 １．魚や動物を捕りやすくすること  
-〇 ２．栄養のある野菜を育てること  
-〇 ３．食べられるものを増やすこと  
-〇 ４．使いやすい道具を作ること
-
----
-
-### 問題２  
-料理して食べることは、ヒトの身体に変化をもたらしたとして、筆者があげていることは何か。
-
-〇 １．固いものを食べない分、骨が弱くなった。  
-〇 ２．あごが大きくなって、声が出せるようになった。  
-〇 ３．ほかの動物よりも脳が発達した。  
-〇 ４．栄養が取りやすくなって、体が大きくなった。
-
----
+CHECK
+Q1 <ruby>航空券<rp>（</rp><rt>こうくうけん</rt><rp>）</rp></ruby>を<ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>く<ruby>買<rp>（</rp><rt>か</rt><rp>）</rp></ruby>う<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>として<ruby>紹介<rp>（</rp><rt>しょうかい</rt><rp>）</rp></ruby>されているものを３つ<ruby>挙<rp>（</rp><rt>あ</rt><rp>）</rp></ruby>げてください。
+Q2 これらの<ruby>方法<rp>（</rp><rt>ほうほう</rt><rp>）</rp></ruby>が<ruby>向<rp>（</rp><rt>む</rt><rp>）</rp></ruby>いていないのは、どんな<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>ですか。
 
 ## 📘 Tiếng Việt (Bản dịch)
 
-Con người khác biệt lớn nhất so với các loài động vật khác là có thể sử dụng lửa. Nhờ có lửa, con người có thể tự bảo vệ mình khỏi các loài động vật khác và có thể hoạt động cả vào ban đêm.
-
-Người ta cho rằng loài người đã có được lửa từ khoảng một triệu năm trước. Việc sử dụng lửa có ảnh hưởng lớn đến sự tiến hóa của loài người sau này, đặc biệt là nhờ có thể nấu ăn. Vào thời đó, số lượng thực vật con người có thể ăn được là rất ít, nhưng bằng cách luộc hoặc nướng những loại không thể ăn sống, dần dần con người cũng có thể tiêu hóa được chúng.
-
-**Việc nấu chín và ăn thức ăn đã mang lại sự thay đổi cho cơ thể con người.**
-
-Ví dụ, khỉ đột chủ yếu ăn thực vật, và để hấp thụ đủ chất dinh dưỡng, chúng cần ăn một lượng lớn mỗi ngày. Vì thực vật sống rất cứng nên cần phải có cơ hàm mạnh để nhai. Do ảnh hưởng đó, hộp sọ bao phủ não không phát triển lớn được.
-
-Ngược lại, con người bắt đầu ăn thức ăn đã được nấu chín và trở nên mềm, nên lực nhai không còn mạnh và các cơ để nhai cũng yếu dần đi. Ngược lại, hộp sọ lại phát triển lớn hơn và cơ quan phát âm ở cổ họng cũng phát triển. Nhờ những thay đổi đó, con người đã phát triển cơ thể, có được tư duy và ngôn ngữ.
-
----
-
-**頭蓋骨: Xương đầu (hộp sọ)**
-
----
-
-### Câu hỏi 1  
-Tác giả nói rằng nhờ sử dụng lửa, con người có thể làm được điều gì?
-
-✅ ３．Tăng số lượng thức ăn có thể ăn được.
-
----
-
-### Câu hỏi 2  
-Theo tác giả, việc nấu ăn đã mang lại thay đổi gì cho cơ thể con người?
-
-✅ ３．Não bộ của con người phát triển hơn so với các loài động vật khác.
