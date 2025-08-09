@@ -6,7 +6,7 @@ permalink: /n2/
 
 # Danh sách các bài đọc N2
 
-Mô tả chung về luyện đọc hiểu N2...
+Speed master N2 dokkai
 
 {% comment %} Tìm tất cả các file index.md trong thư mục con của _n2/ {% endcomment %}
 {% assign sub_indexes = site.pages | where_exp: "item", "item.path contains '_n2/'" | where_exp: "item", "item.path contains '/index.md'" | where_exp: "item", "item.path != '_n2/index.md'" | sort: "order" %}
