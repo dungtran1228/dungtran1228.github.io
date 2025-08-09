@@ -17,6 +17,7 @@ Speed master N2 dokkai
 {% for cat in categories %}
   <h2>{{ forloop.index }}. {{ cat.title }}</h2>
   <p>{{ cat.content | markdownify }}</p>
+  <p>{{ cat.dir | markdownify }}</p>
 
   <ul>
     {% assign cat_pages = site.pages
