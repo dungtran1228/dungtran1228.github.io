@@ -1,5 +1,5 @@
 ---
-title: Bài 1
+title: Bài 1 - Án trưa 1 mình
 layout: page
 order: 1
 ---

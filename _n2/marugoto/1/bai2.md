@@ -1,5 +1,5 @@
 ---
-title: Bài 2
+title: Bài 2 - Dụng cụ tạo nên văn hóa NB
 layout: page
 order: 1
 ---

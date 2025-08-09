@@ -1,5 +1,5 @@
 ---
-title: Bài 3
+title: Bài 3 - Ruộng bậc thang
 layout: page
 order: 1
 ---

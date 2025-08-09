@@ -1,5 +1,5 @@
 ---
-title: Bài 6
+title: Bài 6 - Cách thưởng thức tranh
 layout: page
 order: 1
 ---

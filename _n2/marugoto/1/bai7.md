@@ -1,5 +1,5 @@
 ---
-title: Bài 7
+title: Bài 7 - Công việc của phi hành gia
 layout: page
 order: 1
 ---
