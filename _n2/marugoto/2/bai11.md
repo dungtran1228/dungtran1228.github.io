@@ -31,3 +31,41 @@ order: 1
 **Q2** <ruby>外国人観光客<rt>がいこくじんかんこうきゃく</rt></ruby>は、カプセルホテルについて、どんな<ruby>感想<rt>かんそう</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていますか？
 
 ## 📘 Tiếng Việt (Bản dịch)
+---
+
+## Khách sạn capsule – Sự thay đổi hình ảnh và sức hút với du khách nước ngoài
+
+Số lượng khách du lịch nước ngoài tăng mạnh đã khiến tình trạng thiếu khách sạn trở thành vấn đề, dẫn đến làn sóng xây dựng cơ sở lưu trú mới.
+Trong bối cảnh đó, các khách sạn capsule liên tiếp được khai trương ở trung tâm thành phố.
+
+**Khách sạn capsule** là loại hình lưu trú giá rẻ, dạng đơn giản, nơi khách ngủ trong một không gian hình con nhộng dài khoảng 2 mét, rộng khoảng 1 mét và cao khoảng 1 mét, được xếp thành hai tầng.
+Ra đời tại Osaka vào năm 1979, loại hình này được nam giới sử dụng nhiều vì tuy không gian chật hẹp nhưng vẫn đủ thoải mái.
+Tuy nhiên, hình ảnh của khách sạn capsule trước đây thường bị gắn liền với ý nghĩ rằng đây chỉ là chỗ ngủ giá rẻ, hoặc nơi nhân viên văn phòng ở lại qua đêm khi lỡ chuyến tàu cuối vì uống quá nhiều – nói chung là không mang hình ảnh tích cực.
+
+Thế nhưng, gần đây khách sạn capsule đã thay đổi.
+Nhiều nơi thiết kế **tầng riêng cho nữ**, nội thất **sáng sủa và thời trang hơn**, tạo cảm giác sạch sẽ và an toàn.
+Có khách sạn mang phong cách quán cà phê, có nơi thiết kế giống khoang hạng nhất máy bay, thậm chí có phòng dành cho nhóm ở cùng nhau – tất cả nhằm tạo sự mới mẻ và tiện nghi.
+
+Hơn nữa, loại hình khách sạn đặc trưng của Nhật Bản này đang được du khách nước ngoài yêu thích.
+Một số du khách nước ngoài đăng hình ảnh trải nghiệm khách sạn capsule lên **SNS**, thu hút sự chú ý.
+Bên trong không gian hẹp này lại chứa đầy đủ tiện nghi như **TV, đèn chiếu sáng, điều hòa, đồng hồ báo thức**, gợi nhớ đến thế giới trong phim khoa học viễn tưởng.
+★ Khi thấy hình ảnh mọi người vui vẻ trong capsule, nhiều người khác cũng muốn trải nghiệm và đã tìm đến.
+
+Một số khách sạn capsule mới còn thiết kế **chiều dài trên 2 mét** để phù hợp hơn với du khách nước ngoài.
+Trong tương lai, loại hình "khách sạn" này sẽ còn tiến hóa như thế nào vẫn là điều đáng chú ý.
+
+---
+
+### CHECK
+
+**Q1.** Điểm tốt của khách sạn capsule là gì?
+
+* Giá rẻ, tiện nghi, sạch sẽ, an toàn.
+* Thiết kế đa dạng, độc đáo, mang lại trải nghiệm mới lạ.
+
+**Q2.** Du khách nước ngoài có ấn tượng gì về khách sạn capsule?
+
+* Thấy thú vị và độc đáo, giống như trong phim khoa học viễn tưởng.
+* Muốn trải nghiệm sau khi xem hình ảnh trên mạng xã hội.
+
+---
