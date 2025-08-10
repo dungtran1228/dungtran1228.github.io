@@ -1,7 +1,7 @@
 ---
 title: Bài 10 - Mua vé máy bay giá rẻ
 layout: page
-order: 2
+order: 10
 ---
 
 ## 📖 日本語

@@ -5,7 +5,7 @@ order: 1
 ---
 
 ## 📖 日本語
-最近<ruby>さいきん</ruby>、<ruby>街中<rt>まちなか</rt></ruby>でカーシェアリングという<ruby>看板<rt>かんばん</rt></ruby>をよく<ruby>目<rt>め</rt></ruby>にするようになった。  
+<ruby>最近 <rt>さいきん</rt></ruby>、<ruby>街中<rt>まちなか</rt></ruby>でカーシェアリングという<ruby>看板<rt>かんばん</rt></ruby>をよく<ruby>目<rt>め</rt></ruby>にするようになった。  
 カーシェアリングとは、<ruby>登録<rt>とうろく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った<ruby>会員<rt>かいいん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>を<ruby>共同<rt>きょうどう</rt></ruby>で<ruby>使用<rt>しよう</rt></ruby>するサービスのことである。  
 <ruby>日本<rt>にほん</rt></ruby>では２００２<ruby>年<rt>ねん</rt></ruby>に<ruby>最初<rt>さいしょ</rt></ruby>のカーシェアリング<ruby>会社<rt>がいしゃ</rt></ruby>が<ruby>誕生<rt>たんじょう</rt></ruby>し、２０１０<ruby>年<rt>ねん</rt></ruby>ごろから<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。  
 
