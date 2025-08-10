@@ -4,7 +4,7 @@ layout: default
 order: 3
 ---
 
-Bài đọc 20 - 30
+Bài đọc 21 - 30
 
 <ul>
 {% assign current_dir = page.dir %}

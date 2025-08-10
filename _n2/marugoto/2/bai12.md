@@ -5,36 +5,27 @@ order: 1
 ---
 
 ## 📖 日本語
-<ruby>外国人観光客<rt>がいこくじんかんこうきゃく</rt></ruby>の<ruby>増加<rt>ぞうか</rt></ruby>により<ruby>ホテル不足<rt>ホテルぶそく</rt></ruby>が<ruby>問題<rt>もんだい</rt></ruby>となり、<ruby>宿泊施設<rt>しゅくはくしせつ</rt></ruby>の<ruby>建設<rt>けんせつ</rt></ruby>ラッシュが<ruby>起<rt>お</rt></ruby>こっている。  
+ところで、<ruby>普及<rt>ふきゅう</rt></ruby>によってネット・<ruby>場<rt>ば</rt></ruby>が<ruby>急激<rt>きゅうげき</rt></ruby>に<ruby>拡大<rt>かくだい</rt></ruby>したことで、<ruby>子供<rt>こども</rt></ruby>たちの<ruby>人間関係<rt>にんげんかんけい</rt></ruby>の<ruby>実態<rt>じったい</rt></ruby>が<ruby>見<rt>み</rt></ruby>えづらくなり、<ruby>眉<rt>まゆ</rt></ruby>をひそめている<ruby>大人<rt>おとな</rt></ruby>たちも<ruby>多<rt>おお</rt></ruby>いことでしょう。しかし、よく<ruby>考<rt>かんが</rt></ruby>えてみれば、<ruby>子供<rt>こども</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るという<ruby>名目<rt>めいもく</rt></ruby>でいま<ruby>進<rt>すす</rt></ruby>められているケータイ<ruby>対策<rt>たいさく</rt></ruby>も、じつは<ruby>環境管理型<rt>かんきょうかんりがた</rt></ruby>の<ruby>治安対策<rt>ちあんたいさく</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>発想<rt>はっそう</rt></ruby>から<ruby>生<rt>う</rt></ruby>まれているものではないでしょうか。
 
-そんな<ruby>中<rt>なか</rt></ruby>、<ruby>都心<rt>としん</rt></ruby>でカプセルホテルの<ruby>開業<rt>かいぎょう</rt></ruby>が<ruby>相次<rt>あいつ</rt></ruby>いでいる。  
+<ruby>機能<rt>きのう</rt></ruby>の<ruby>提供<rt>ていきょう</rt></ruby>を<ruby>事業者<rt>じぎょうしゃ</rt></ruby>に<ruby>義務<rt>ぎむ</rt></ruby>づける<ruby>有害<rt>ゆうがい</rt></ruby>サイト<ruby>規制法<rt>きせいほう</rt></ruby>が、２００９<ruby>年<rt>ねん</rt></ruby>４<ruby>月<rt>がつ</rt></ruby>に<ruby>施行<rt>しこう</rt></ruby>されました。ここで<ruby>規制<rt>きせい</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby>とされる<ruby>有害<rt>ゆうがい</rt></ruby>サイトとは、<ruby>子供<rt>こども</rt></ruby>たちの<ruby>健全<rt>けんぜん</rt></ruby><ruby>育成<rt>いくせい</rt></ruby>にとって<ruby>不都合<rt>ふつごう</rt></ruby>で<ruby>異質<rt>いしつ</rt></ruby>なものと、<ruby>私<rt>わたし</rt></ruby>たち<ruby>大人<rt>おとな</rt></ruby>たちが<ruby>判断<rt>はんだん</rt></ruby>したものです。そこへのアクセスの<ruby>規制<rt>きせい</rt></ruby>とは、<ruby>有害性<rt>ゆうがいせい</rt></ruby>の<ruby>中身<rt>なかみ</rt></ruby>について<ruby>子供<rt>こども</rt></ruby>たち<ruby>自身<rt>じしん</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>える<ruby>機会<rt>きかい</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えることなく、<ruby>認知<rt>にんち</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby>に<ruby>入<rt>い</rt></ruby>らないように<ruby>圏外<rt>けんがい</rt></ruby>へ<ruby>押<rt>お</rt></ruby>し<ruby>出<rt>だ</rt></ruby>してしまうことです。<ruby>子供<rt>こども</rt></ruby>たちの<ruby>健全<rt>けんぜん</rt></ruby><ruby>育成<rt>いくせい</rt></ruby>にとって、このような<ruby>対策<rt>たいさく</rt></ruby>が<ruby>有効<rt>ゆうこう</rt></ruby>であると<ruby>考<rt>かんが</rt></ruby>えるのは、<ruby>固定的<rt>こていてき</rt></ruby>で<ruby>単純<rt>たんじゅん</rt></ruby>なキャラとして<ruby>彼<rt>かれ</rt></ruby>らの<ruby>人格<rt>じんかく</rt></ruby>を<ruby>捉<rt>とら</rt></ruby>えているからではないでしょうか。
 
-カプセルホテルは、２<ruby>段<rt>だん</rt></ruby>に<ruby>積<rt>つ</rt></ruby>まれた<ruby>長<rt>なが</rt></ruby>さ<ruby>約<rt>やく</rt></ruby>２メートル、<ruby>幅<rt>はば</rt></ruby><ruby>約<rt>やく</rt></ruby>１メートル、<ruby>高<rt>たか</rt></ruby>さ<ruby>約<rt>やく</rt></ruby>１メートルのカプセル<ruby>状<rt>じょう</rt></ruby>の<ruby>空間<rt>くうかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>寝<rt>ね</rt></ruby>る、<ruby>低価格<rt>ていかかく</rt></ruby>の<ruby>簡易宿泊施設<rt>かんいしゅくはくしせつ</rt></ruby>のことだ。  
+<ruby>私<rt>わたし</rt></ruby>は、ケータイの<ruby>使用規制<rt>しようきせい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>一概<rt>いちがい</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>を<ruby>唱<rt>とな</rt></ruby>えているわけではありません。<ruby>出会<rt>であ</rt></ruby>い<ruby>系<rt>けい</rt></ruby>サイトなどで<ruby>被害<rt>ひがい</rt></ruby>にあう<ruby>子供<rt>こども</rt></ruby>たちがいる<ruby>現状<rt>げんじょう</rt></ruby>を<ruby>顧<rt>かえり</rt></ruby>みれば、<ruby>応急措置<rt>おうきゅうそち</rt></ruby>としての<ruby>有効性<rt>ゆうこうせい</rt></ruby>は<ruby>認<rt>みと</rt></ruby>めざるを<ruby>得<rt>え</rt></ruby>ないでしょう。しかし、あたかもそれが<ruby>根治療法<rt>こんちりょうほう</rt></ruby>であるかのように<ruby>錯覚<rt>さっかく</rt></ruby>し、<ruby>規制<rt>きせい</rt></ruby>をかければそれでことがすべて<ruby>足<rt>た</rt></ruby>りるかのような<ruby>認識<rt>にんしき</rt></ruby>上の<ruby>怠慢<rt>たいまん</rt></ruby>に<ruby>陥<rt>おちい</rt></ruby>ることは<ruby>避<rt>さ</rt></ruby>けなければなりません。
 
-1979<ruby>年<rt>ねん</rt></ruby>に<ruby>大阪<rt>おおさか</rt></ruby>で<ruby>誕生<rt>たんじょう</rt></ruby>して<ruby>以来<rt>いらい</rt></ruby>、この<ruby>狭<rt>せま</rt></ruby>さにしては<ruby>快適<rt>かいてき</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごせると<ruby>男性客<rt>だんせいきゃく</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>されてきた。  
+<ruby>人間関係<rt>にんげんかんけい</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するための<ruby>道具<rt>どうぐ</rt></ruby>としてケータイが<ruby>使<rt>つか</rt></ruby>われている<ruby>以上<rt>いじょう</rt></ruby>、その<ruby>使用規制<rt>しようきせい</rt></ruby>は、<ruby>単<rt>たん</rt></ruby>に<ruby>性風俗<rt>せいふうぞく</rt></ruby>などの<ruby>望<rt>のぞ</rt></ruby>ましくない<ruby>成人情報<rt>せいじんじょうほう</rt></ruby>のファイルタリングだけでなく、<ruby>学校裏<rt>がっこううら</rt></ruby>サイトなど、<ruby>大人<rt>おとな</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>ましくないと<ruby>考<rt>かんが</rt></ruby>える<ruby>人間関係<rt>にんげんかんけい</rt></ruby>のファイルタリングへと<ruby>拡張<rt>かくちょう</rt></ruby>されていきがちです。では、そのような「<ruby>教育的<rt>きょういくてき</rt></ruby>」<ruby>措置<rt>そち</rt></ruby>は、<ruby>心地<rt>ここち</rt></ruby>よい<ruby>類<rt>たぐい</rt></ruby>ともだけとつながろうとする<ruby>子供<rt>こども</rt></ruby>たち<ruby>自身<rt>じしん</rt></ruby>の<ruby>人間関係<rt>にんげんかんけい</rt></ruby>のファイルタリングと、いったいごとが<ruby>違<rt>ちが</rt></ruby>うといえるでしょうか。そもそも<ruby>私<rt>わたし</rt></ruby>たちは、セキュリティを<ruby>強化<rt>きょうか</rt></ruby>しさえすれば、<ruby>安全<rt>あんぜん</rt></ruby>で<ruby>快適<rt>かいてき</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>享受<rt>きょうじゅ</rt></ruby>できるのでしょうか。
 
-しかし、これまでのカプセルホテルのイメージはというと、<ruby>安<rt>やす</rt></ruby>くてただ<ruby>寝<rt>ね</rt></ruby>るためだけのスペースというか、<ruby>飲<rt>の</rt></ruby>み<ruby>過<rt>す</rt></ruby>ぎて<ruby>終電<rt>しゅうでん</rt></ruby>を<ruby>逃<rt>のが</rt></ruby>した<ruby>サラリーマン<rt>さらりーまん</rt></ruby>が<ruby>泊<rt>と</rt></ruby>まる<ruby>場所<rt>ばしょ</rt></ruby>というか、あまり<ruby>良<rt>よ</rt></ruby>いイメージとは<ruby>言<rt>い</rt></ruby>えなかった。  
-
-ところが、<ruby>最近<rt>さいきん</rt></ruby>のカプセルホテルはこれまでと<ruby>違<rt>ちが</rt></ruby>う。  
-
-<ruby>女性専用<rt>じょせいせんよう</rt></ruby>のフロアを<ruby>設<rt>もう</rt></ruby>けたり、<ruby>内装<rt>ないそう</rt></ruby>を<ruby>明<rt>あか</rt></ruby>るくおしゃれにするなど、<ruby>清潔<rt>せいけつ</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>なイメージに<ruby>変<rt>か</rt></ruby>わりつつある。  
-
-カフェっぽい<ruby>雰囲気<rt>ふんいき</rt></ruby>や、<ruby>飛行機<rt>ひこうき</rt></ruby>のファーストクラス<ruby>風<rt>ふう</rt></ruby>のデザイン、グループで<ruby>泊<rt>と</rt></ruby>まれる<ruby>部屋<rt>へや</rt></ruby>など、<ruby>工夫<rt>くふう</rt></ruby>を<ruby>凝<rt>こ</rt></ruby>らしたホテルも<ruby>登場<rt>とうじょう</rt></ruby>している。  
-
-また、この<ruby>日本独自<rt>にほんどくじ</rt></ruby>のホテルが、<ruby>外国人旅行者<rt>がいこくじんりょこうしゃ</rt></ruby>にウケているそうだ。  
-
-カプセルホテルに<ruby>泊<rt>と</rt></ruby>まった<ruby>外国人旅行者<rt>がいこくじんりょこうしゃ</rt></ruby>が、その<ruby>様子<rt>ようす</rt></ruby>をSNS にアップしたのがきっかけで、<ruby>注目<rt>ちゅうもく</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まったようだ。  
-
-<ruby>狭<rt>せま</rt></ruby>い<ruby>空間<rt>くうかん</rt></ruby>に<ruby>テレビ<rt>てれび</rt></ruby>や<ruby>照明<rt>しょうめい</rt></ruby>、エアコンや<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>どけい</rt></ruby>などの<ruby>機能的<rt>きのうてき</rt></ruby>な<ruby>設備<rt>せつび</rt></ruby>が<ruby>詰<rt>つ</rt></ruby>まっており、SF<ruby>映画<rt>えいが</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>を<ruby>思<rt>おも</rt></ruby>わせるらしい。  
-
-★カプセル<ruby>内<rt>ない</rt></ruby>で<ruby>楽<rt>たの</rt></ruby>しげに<ruby>過<rt>す</rt></ruby>ごす<ruby>様子<rt>ようす</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>自分<rt>じぶん</rt></ruby>も<ruby>体験<rt>たいけん</rt></ruby>してみたいと<ruby>訪<rt>おとず</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えているそうだ。  
-
-<ruby>新<rt>あたら</rt></ruby>しく<ruby>開業<rt>かいぎょう</rt></ruby>したカプセルホテルでは、<ruby>外国人観光客向<rt>がいこくじんかんこうきゃくむ</rt></ruby>けにカプセルの<ruby>長<rt>なが</rt></ruby>さを２メートル<ruby>以上<rt>いじょう</rt></ruby>にしているところも<ruby>増<rt>ふ</rt></ruby>えているそうだ。  
-
-<ruby>今後<rt>こんご</rt></ruby>さらにどんな”ホテル”に<ruby>進化<rt>しんか</rt></ruby>していくか、<ruby>興味<rt>きょうみ</rt></ruby>が<ruby>持<rt>も</rt></ruby>たれる。  
+（<ruby>土井隆義<rt>どいたかよし</rt></ruby>『キャラ<ruby>化<rt>か</rt></ruby>する／される<ruby>子供<rt>こども</rt></ruby>たち<ruby>排除型社会<rt>はいじょがたしゃかい</rt></ruby>における<ruby>新<rt>あたら</rt></ruby>たな<ruby>人間像<rt>にんげんぞう</rt></ruby>』<ruby>岩波<rt>いわなみ</rt></ruby>ブックレットより）
 
 **CHECK**  
-Q1 カプセルホテルのいい<ruby>点<rt>てん</rt></ruby>は何ですか？  
-Q2 <ruby>外国人観光客<rt>がいこくじんかんこうきゃく</rt></ruby>は、カプセルホテルについて、どんな<ruby>感想<rt>かんそう</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていますか？
+Q1 それとは何のことですか。
+Q2 この文章で筆者が言いたいことは何ですか。
 
 ## 📘 Tiếng Việt (Bản dịch)
+Nhân đây, việc điện thoại di động phổ biến rộng rãi đã khiến không gian giao tiếp trên mạng mở rộng một cách đột ngột, làm cho thực trạng các mối quan hệ của trẻ em trở nên khó nhìn thấy, và có lẽ cũng khiến nhiều người lớn phải cau mày. Tuy nhiên, nếu suy nghĩ kỹ, những biện pháp đối phó với điện thoại di động hiện đang được triển khai dưới danh nghĩa bảo vệ sự an toàn của trẻ em, thực chất chẳng phải được sinh ra từ cùng một tư duy với các biện pháp an ninh theo kiểu quản lý môi trường hay sao?  
+
+Luật kiểm soát các trang web độc hại, bắt buộc nhà cung cấp dịch vụ phải cung cấp chức năng lọc nội dung, đã được ban hành vào tháng 4 năm 2009. Ở đây, những “trang web độc hại” được coi là đối tượng kiểm soát là những thứ bị người lớn chúng ta phán đoán là không phù hợp và xa lạ đối với sự phát triển lành mạnh của trẻ em. Việc hạn chế truy cập vào những thứ đó, tức là đẩy chúng ra ngoài phạm vi nhận thức, mà không cho trẻ em cơ hội tự suy nghĩ về nội dung có hại đó. Việc cho rằng những biện pháp này có hiệu quả đối với sự phát triển lành mạnh của trẻ em, chẳng phải là vì ta đang nhìn nhận nhân cách của chúng một cách cố định và đơn giản như những “nhân vật” định hình sẵn hay sao?  
+
+Tôi không hẳn là phản đối toàn diện việc áp dụng quy định hạn chế sử dụng điện thoại di động. Nhìn vào thực trạng vẫn còn có trẻ em bị hại trên các trang web kết bạn, hẹn hò, chúng ta buộc phải thừa nhận hiệu quả của nó như một biện pháp khẩn cấp. Tuy nhiên, chúng ta cần tránh rơi vào sự lười biếng trong nhận thức, khi ảo tưởng rằng đó là phương pháp chữa trị tận gốc và rằng chỉ cần áp dụng quy định thì mọi việc sẽ được giải quyết.  
+
+Chừng nào điện thoại di động vẫn được sử dụng như một công cụ để duy trì các mối quan hệ, thì các quy định hạn chế sử dụng nó sẽ không chỉ dừng lại ở việc lọc những thông tin người lớn không mong muốn như nội dung khiêu dâm, mà còn dễ dàng mở rộng sang việc lọc những mối quan hệ xã hội mà người lớn cho là không mong muốn, chẳng hạn như các “trang web ngầm” trong trường học. Vậy, những “biện pháp mang tính giáo dục” như thế liệu có gì khác với việc trẻ em tự lọc các mối quan hệ của mình để chỉ kết nối với những người mà chúng thấy dễ chịu hay không? Ngay từ đầu, liệu chúng ta có thể tận hưởng một cuộc sống an toàn và thoải mái chỉ bằng cách tăng cường an ninh hay không?  
+
+(Trích từ 土井隆義 “Những đứa trẻ bị biến thành/đang biến thành ‘nhân vật’ – Hình ảnh con người mới trong xã hội loại trừ” – Iwanami Booklet)

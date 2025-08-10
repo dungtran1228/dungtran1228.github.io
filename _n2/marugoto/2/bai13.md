@@ -19,3 +19,23 @@ CHECK
 Q1 社会人になりたての卒業生たちが、仕事を辞めたいと考える理由は何ですか。
 Q2 精神科の診療室に来る仕事で成功した人は、何を求めていますか。
 ## 📘 Tiếng Việt (Bản dịch)
+
+Thành ngữ "tạm thời, bất kể là gì" dẫn đến việc các sinh viên quyết định đi làm thường chia thành hai con đường cực đoan. Một là, dù nghĩ rằng mình không thích công việc đó, nhưng khi bắt đầu làm, họ lại bất ngờ cảm thấy thú vị, có mối quan hệ tốt với đồng nghiệp và trở nên hăng say làm việc. Con đường còn lại là, sau khi vào làm, họ vẫn không tìm thấy sự hứng thú với công việc hay công ty, và rồi nghỉ việc chỉ sau vài năm. Nhiều người trong số họ thậm chí còn nghỉ việc mà không tìm được nơi làm mới, và cuối cùng trở thành lao động tự do (freeter). Dù không rõ con đường nào có nhiều người đi hơn, nhưng trong trường hợp của tôi, tôi nhận được khá nhiều lời tâm sự "muốn nghỉ việc" từ những sinh viên vừa mới ra trường.
+
+Khi tôi hỏi những sinh viên đó, "Tại sao lại muốn nghỉ việc? Mọi chuyện tệ đến vậy sao? Hay là do lương quá thấp?", hầu hết họ đều trả lời rằng "vấn đề không phải là sự vất vả hay mức lương thấp". Điều mà họ cảm thấy có vấn đề là "công việc đơn điệu" và "ý kiến của mình không được lắng nghe". Nói cách khác, dường như sự thiếu động lực và thiếu cảm giác được là chính mình đã dẫn đến sự bất mãn với công việc.
+
+Khi tôi hỏi tiếp, "Vậy thì làm thế nào để bạn có thể cố gắng?", họ trả lời rằng "sẽ tốt hơn nếu có thể thấy rõ ràng hôm nay mình đã cố gắng đến đâu để gần hơn với mục tiêu". Dường như hình ảnh trong đầu họ giống như một bộ đếm số lượt truy cập trên nhật ký cá nhân (blog) được công khai trên mạng.
+
+Cũng giống như nhật ký trên mạng, nếu có nhiều người chú ý đến mình, và mức độ chú ý đó có thể được nắm bắt bằng những con số như số lượt truy cập, và hơn nữa, những con số đó lại tăng lên từng ngày. Có lẽ chính điều đó mang lại cho những người trẻ cảm giác "động lực" và "được là chính mình". Nói theo cách ngược lại, có thể việc giới trẻ đã nhận ra niềm vui khi "được nhiều người quan tâm" nhờ sự phổ biến của internet đã khiến cho giai đoạn làm tân binh, khi họ chỉ là "một trong số đông", trở nên tẻ nhạt và vô nghĩa hơn.
+
+Tuy nhiên, nếu hỏi liệu một người có thực sự tìm thấy "lẽ sống" chỉ bằng cách được nhiều người chú ý và nổi bật hay không, thì câu trả lời cũng không phải vậy. Thường xuyên có những người đến phòng khám tâm thần với nỗi khổ tâm rằng, "dù đã thành công trong công việc và được nhiều người chú ý, nhưng lại cảm thấy trống rỗng". Khi tôi hỏi những người đó, "Vậy thì tại thời điểm này, bạn nghĩ sự viên mãn là gì?", họ lại đưa ra câu trả lời hoàn toàn trái ngược với những người trẻ muốn nghỉ việc: "Không cần ai biết đến, dù thu nhập có giảm đi cũng được, chỉ cần có thể sống một cuộc sống ổn định, với những thói quen đều đặn như ăn uống đúng giờ hay dọn dẹp phòng ốc".
+
+---
+
+**CHECK**
+
+**Q1** Sinh viên vừa ra trường muốn nghỉ việc vì lý do gì?
+Sinh viên vừa ra trường cảm thấy công việc đơn điệu và ý kiến của họ không được lắng nghe.
+
+**Q2** Những người thành công trong công việc đến phòng khám tâm thần tìm kiếm điều gì?
+Họ tìm kiếm một cuộc sống ổn định, với những thói quen đều đặn, không cần ai biết đến hay thu nhập cao.

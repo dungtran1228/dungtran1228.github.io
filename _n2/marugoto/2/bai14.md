@@ -15,3 +15,18 @@ CHECK
 Q1 筆者の子供は、具体的にどんなアレルギー反応を起こしたか。
 Q2 アレルギーによる事故を防ぐために、どうすればいいと筆者は考えているか。
 ## 📘 Tiếng Việt (Bản dịch)
+"Cái này có trứng không?" Con trai tôi thường hỏi như vậy mỗi khi thấy đồ ăn. Thực ra, câu nói đó có nghĩa là "Con cũng muốn ăn". Con tôi bị dị ứng trứng. Thằng bé vẫn bình thường cho đến năm 2 tuổi, bỗng nhiên một ngày, nó bị phản ứng dị ứng nghiêm trọng và suýt mất mạng. ★Dị ứng thường có nguyên nhân không rõ ràng, và dường như tình trạng sức khỏe tại thời điểm đó cũng có thể gây ra phản ứng. Dù đến giờ vẫn không biết nguyên nhân là gì, nhưng từ ngày hôm đó, nó không thể ăn trứng được nữa.
+
+Dị ứng là một từ thường gặp, nhưng có lẽ nhiều người chưa biết hết về sự nguy hiểm, đặc biệt là dị ứng thực phẩm. Chẳng hạn, đôi khi có những người nước ngoài lần đầu tiên đến Nhật Bản ăn mì soba và bị sốc phản ứng dị ứng. Trong những trường hợp như vậy, người ta thường nghĩ rằng chỉ nổi một chút mề đay, nhưng thực tế nó rất nguy hiểm. Trong trường hợp của con trai tôi, khoảng 40 phút sau khi ăn trứng, nó bắt đầu ho một cách lạ lùng. Sau đó, nó càng lúc càng khó thở, nổi mề đay khắp người và chúng tôi phải gọi xe cấp cứu. Nếu chậm vài phút, tính mạng của nó đã gặp nguy hiểm.
+
+Nếu lần đầu tiên ăn một món gì đó mà thấy cơ thể có dấu hiệu bất thường trong vòng vài ngày, bạn nên đi khám ngay lập tức. Dị ứng có thể phản ứng chỉ sau vài chục phút, hoặc cũng có thể phản ứng sau vài ngày. Việc phát hiện sớm mình bị dị ứng với thứ gì là điều quan trọng nhất. Bạn có thể nghĩ rằng "Nếu đi xét nghiệm mà không có gì thì tốn tiền, tốn thời gian". Nhưng đây là một vấn đề liên quan đến tính mạng. Có rất nhiều chất gây dị ứng khác nhau. Trứng và các loại hạt là những chất thường gặp, nhưng cá và thịt cũng có thể gây dị ứng. Để ngăn chặn những tai nạn đáng tiếc, tôi mong rằng không chỉ cha mẹ và người thân của những người bị dị ứng, mà toàn xã hội sẽ hiểu rõ hơn về sự nguy hiểm của dị ứng.
+
+---
+
+**CHECK**
+
+**Q1** Con của tác giả đã có những phản ứng dị ứng cụ thể nào?
+Khoảng 40 phút sau khi ăn trứng, con của tác giả bắt đầu ho lạ, sau đó khó thở, nổi mề đay khắp người.
+
+**Q2** Theo tác giả, cần làm gì để phòng tránh các tai nạn do dị ứng?
+Tác giả cho rằng cần phát hiện sớm mình bị dị ứng với chất gì và mong muốn toàn xã hội hiểu rõ hơn về sự nguy hiểm của dị ứng.

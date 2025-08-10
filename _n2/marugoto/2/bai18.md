@@ -25,3 +25,28 @@ CHECK
 Q1 和食が日本人の長寿を支えているのはどうしてですか。
 Q2 和食の無形文化遺産への登録によって、国内ではどんな影響がありましたか。
 ## 📘 Tiếng Việt (Bản dịch)
+Khi "Washoku" (Ẩm thực Nhật Bản) được UNESCO công nhận là Di sản văn hóa phi vật thể vào năm 2013, Bộ Nông nghiệp, Lâm nghiệp và Thủy sản Nhật Bản đã nêu ra bốn đặc điểm sau:
+
+1. **Sử dụng nguyên liệu đa dạng, tươi mới và tôn trọng hương vị tự nhiên của chúng.**
+   Nhật Bản trải dài từ Bắc xuống Nam, có thiên nhiên phong phú với biển, núi và làng quê, vì vậy nhiều loại nguyên liệu đặc trưng của từng vùng miền đã được sử dụng. Bên cạnh đó, các kỹ thuật và dụng cụ nấu ăn để làm nổi bật hương vị tự nhiên của nguyên liệu cũng rất phát triển.
+
+2. **Chế độ dinh dưỡng cân bằng, hỗ trợ lối sống lành mạnh.**
+   Phong cách ăn uống cơ bản của người Nhật là "một món canh, ba món mặn" được xem là chế độ dinh dưỡng cân bằng lý tưởng. Hơn nữa, việc khéo léo sử dụng "umami" (vị ngon) giúp người Nhật có một chế độ ăn uống ít chất béo từ động vật, góp phần vào tuổi thọ cao và ngăn ngừa béo phì.
+
+3. **Thể hiện vẻ đẹp của thiên nhiên và sự thay đổi của các mùa.**
+   Thể hiện vẻ đẹp của thiên nhiên và sự chuyển mình của bốn mùa trong bữa ăn cũng là một đặc điểm. Người Nhật trang trí món ăn bằng hoa hay lá theo mùa, sử dụng bát đĩa phù hợp với từng mùa để tận hưởng cảm giác mùa.
+
+4. **Có mối liên hệ sâu sắc với các sự kiện hàng năm như Tết Nguyên đán.**
+   Văn hóa ẩm thực Nhật Bản được nuôi dưỡng và gắn liền với các sự kiện hàng năm. Việc chia sẻ "thức ăn" - món quà từ thiên nhiên, và cùng nhau thưởng thức bữa ăn đã giúp thắt chặt mối quan hệ gia đình và cộng đồng.
+
+Nhân dịp được công nhận lần này, ẩm thực Nhật Bản đã trở nên nổi tiếng hơn trên khắp thế giới. Trong khi đó ở trong nước, dù việc người Nhật dần xa rời ẩm thực truyền thống từng là một vấn đề, nhưng hiện nay, chúng ta thấy ẩm thực Nhật Bản được giới thiệu nhiều hơn trên các phương tiện truyền thông. Món ăn Nhật Bản từng bị xem là lỗi thời và không hợp thời đại, nhưng điều đó đã không còn. Có thể nói, ẩm thực Nhật Bản đã bắt đầu mang một sức hấp dẫn mới, phù hợp hơn với thời hiện đại.
+
+---
+
+### **CHECK**
+
+**Q1** Tại sao ẩm thực Nhật Bản lại góp phần giúp người Nhật sống thọ hơn?
+Ẩm thực Nhật Bản giúp người Nhật sống thọ hơn nhờ chế độ dinh dưỡng cân bằng dựa trên "một món canh, ba món mặn" và việc khéo léo sử dụng "umami" để giảm bớt lượng dầu mỡ từ động vật.
+
+**Q2** Việc ẩm thực Nhật Bản được công nhận là Di sản văn hóa phi vật thể đã mang lại những tác động gì ở trong nước?
+Sau khi được công nhận, dù việc người Nhật xa rời ẩm thực truyền thống từng là một vấn đề, nhưng các phương tiện truyền thông đã bắt đầu giới thiệu về ẩm thực Nhật Bản nhiều hơn, và nó đã trở nên hấp dẫn hơn, phù hợp với thời đại.

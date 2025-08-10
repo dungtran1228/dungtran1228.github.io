@@ -15,3 +15,18 @@ CHECK
 Q1 苦しいときに笑うのが体のためになるのはどうしてですか。
 Q2 その遺伝子とは何を指していますか。
 ## 📘 Tiếng Việt (Bản dịch)
+Người ta thường nói "càng khó khăn, càng phải cười". Có lẽ một số người sẽ nghĩ "Nếu mà cười được thì tôi đã cười rồi!". Quả thật, cười khi đang gặp khó khăn là điều không hề dễ. Tuy nhiên, nếu cố gắng cười một chút, bạn sẽ nhận được những lợi ích không chỉ tại thời điểm đó mà còn về sau.
+
+Lý do là vì các nghiên cứu gần đây đã chỉ ra rằng, ngay cả khi là nụ cười gượng gạo, não bộ vẫn bị nhầm lẫn và tiết ra các hormone giúp thư giãn và mang lại cảm giác vui vẻ. ★Việc tạo ra nụ cười sẽ làm các cơ mặt chuyển động, kích thích vùng não tiết ra hormone. Hơn nữa, việc thường xuyên cười không chỉ giúp ổn định tinh thần mà còn giúp sống khỏe mạnh và trường thọ. Khi có tinh thần lạc quan, các gen duy trì sức khỏe sẽ hoạt động. Ngược lại, khi có tinh thần tiêu cực, các gen đó sẽ ngừng hoạt động, khiến bạn dễ mắc bệnh và tuổi thọ cũng ngắn hơn.
+
+Khi gặp khó khăn, chúng ta thường muốn than vãn hay phàn nàn. Nhưng trước đó, hãy thử cười một lần. Cười thế nào cũng được. Bạn sẽ cảm nhận được tinh thần mình trở nên bình tĩnh hơn một chút.
+
+---
+
+**CHECK**
+
+**Q1** Tại sao cười khi gặp khó khăn lại có lợi cho cơ thể?
+Vì ngay cả nụ cười gượng gạo cũng làm cho não bộ tiết ra các hormone giúp thư giãn và mang lại cảm giác vui vẻ.
+
+**Q2** "Gen đó" trong bài viết là gì?
+"Gen đó" là gen duy trì sức khỏe.

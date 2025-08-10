@@ -15,3 +15,18 @@ CHECK
 Q1 ロケ地誘致を行うのは、何のためですか。
 Q2 ロケ地巡りの観光客が増えた後、何をしなければなりませんか。
 ## 📘 Tiếng Việt (Bản dịch)
+Tại các quốc gia trên thế giới, trào lưu du lịch đến thăm các địa điểm quay phim và phim truyền hình đang ngày càng phổ biến. Tại Nhật Bản, trong những năm gần đây, việc người hâm mộ ghé thăm những địa điểm có thật từng là bối cảnh của các bộ phim hoạt hình được gọi là "thánh địa hành hương" và trở thành một chủ đề nóng hổi. Các thị trấn được chọn làm bối cảnh có thể kỳ vọng vào những lợi ích kinh tế lớn do lượng khách du lịch tăng lên.
+
+Vì thế, một số thị trấn đã nỗ lực thu hút các đoàn làm phim nước ngoài với hy vọng tăng lượng khách du lịch. Tại một thành phố địa phương ở Kyushu, để thúc đẩy sự phát triển của khu vực, chính quyền đã tích cực quảng bá đến các công ty sản xuất phim châu Á và đã thành công trong việc thu hút một đoàn làm phim Thái Lan. Nhờ đó, lượng khách du lịch Thái Lan đến thành phố này đã tăng đột biến. Tại ngôi đền nổi tiếng được chọn làm bối cảnh, du khách liên tục chụp ảnh với những tư thế giống nhân vật chính trong phim.
+
+Tuy nhiên, du lịch theo bối cảnh phim thường chỉ là một trào lưu nhất thời. Ban đầu, các thị trấn rất hào hứng với việc quảng bá tên tuổi, nhưng để duy trì danh tiếng như một địa điểm du lịch không hề dễ dàng. Vấn đề là phải làm gì sau khi trào lưu này qua đi. Chắc hẳn các nhà quản lý ở các địa phương đang đau đầu tìm kiếm một phương pháp hiệu quả để thu hút khách du lịch một cách bền vững.
+
+---
+
+**CHECK**
+
+**Q1** Tại sao người ta lại tổ chức các hoạt động thu hút các đoàn làm phim đến quay?
+Họ thu hút các đoàn làm phim đến quay với mục đích tăng lượng khách du lịch, từ đó kỳ vọng vào những lợi ích kinh tế và thúc đẩy sự phát triển của khu vực.
+
+**Q2** Sau khi lượng khách du lịch đến thăm các bối cảnh phim tăng lên, các địa phương cần phải làm gì?
+Sau khi lượng khách du lịch tăng lên, các địa phương cần tìm ra phương pháp hiệu quả để duy trì danh tiếng như một địa điểm du lịch và thu hút khách du lịch một cách bền vững.

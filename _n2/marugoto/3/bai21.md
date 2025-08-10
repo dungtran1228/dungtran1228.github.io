@@ -1,0 +1,26 @@
+---
+title: Bài 21 - 芥川龍之介 
+layout: page
+order: 1
+---
+
+## 📖 日本語
+
+「<ruby>芥川賞<rt>あくたがわしょう</rt></ruby>」は<ruby>日本<rt>にほん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>文学賞<rt>ぶんがくしょう</rt></ruby>で、<ruby>特<rt>とく</rt></ruby>に<ruby>優<rt>すぐ</rt></ruby>れた<ruby>小説<rt>しょうせつ</rt></ruby>を<ruby>発表<rt>はっぴょう</rt></ruby>した<ruby>新人作家<rt>しんじんさっか</rt></ruby>に<ruby>与<rt>あた</rt></ruby>えられる。この<ruby>賞<rt>しょう</rt></ruby>のもととなった<ruby>芥川龍之介<rt>あくたがわりゅうのすけ</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>を<ruby>代表<rt>だいひょう</rt></ruby>する<ruby>小説家<rt>しょうせつか</rt></ruby>の<ruby>一人<rt>ひとり</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>の<ruby>文学史<rt>ぶんがくし</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>足跡<rt>あしあと</rt></ruby>を<ruby>残<rt>のこ</rt></ruby>した。
+
+<ruby>芥川龍之介<rt>あくたがわりゅうのすけ</rt></ruby>は１８９２<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれ、<ruby>中学時代<rt>ちゅうがくじだい</rt></ruby>から<ruby>優秀<rt>ゆうしゅう</rt></ruby>な<ruby>成績<rt>せいせき</rt></ruby>をおさめ、<ruby>東京帝国大学<rt>とうきょうていこくだいがく</rt></ruby>（<ruby>現在<rt>げんざい</rt></ruby>の<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>）に<ruby>入学<rt>にゅうがく</rt></ruby>した。そして、<ruby>学生時代<rt>がくせいじだい</rt></ruby>に「<ruby>新思潮<rt>しんしちょう</rt></ruby>」という<ruby>同人誌<rt>どうじんし</rt></ruby>をつくり、➀そこで<ruby>発表<rt>はっぴょう</rt></ruby>した『<ruby>鼻<rt>はな</rt></ruby>』が<ruby>夏目漱石<rt>なつめそうせき</rt></ruby>に<ruby>認<rt>みと</rt></ruby>められたことをきっかけに、<ruby>広<rt>ひろ</rt></ruby>く<ruby>人々<rt>ひとびと</rt></ruby>に<ruby>知<rt>し</rt></ruby>られるようになった。その<ruby>後<rt>のち</rt></ruby>、<ruby>教師<rt>きょうし</rt></ruby>をしながら<ruby>作家活動<rt>さっかかつどう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>け、<ruby>妻<rt>つま</rt></ruby>と<ruby>子供<rt>こども</rt></ruby>にも<ruby>恵<rt>めぐ</rt></ruby>まれて<ruby>幸<rt>しあわ</rt></ruby>せな<ruby>生活<rt>せいかつ</rt></ruby>をしていたように<ruby>思<rt>おも</rt></ruby>われるが、１９２７<ruby>年<rt>ねん</rt></ruby>に３５<ruby>歳<rt>さい</rt></ruby>の<ruby>若<rt>わか</rt></ruby>さで<ruby>自<rt>みずか</rt></ruby>ら<ruby>命<rt>いのち</rt></ruby>を<ruby>絶<rt>た</rt></ruby>った。
+
+どうして<ruby>自<rt>みずか</rt></ruby>ら<ruby>命<rt>いのち</rt></ruby>を<ruby>絶<rt>た</rt></ruby>ってしまったのか、<ruby>現在<rt>げんざい</rt></ruby>でもいろいろな<ruby>議論<rt>ぎろん</rt></ruby>がされている。<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>遺書<rt>いしょ</rt></ruby>には「ただ、ぼんやりした<ruby>不安<rt>ふあん</rt></ruby>があった」とある。しかし、<ruby>死<rt>し</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えようとしている<ruby>時期<rt>じき</rt></ruby>に<ruby>書<rt>か</rt></ruby>いた「<ruby>河童<rt>かっぱ</rt></ruby>」という<ruby>作品<rt>さくひん</rt></ruby>では、<ruby>河童<rt>かっぱ</rt></ruby>の<ruby>社会<rt>しゃかい</rt></ruby>という<ruby>例<rt>れい</rt></ruby>をもとに、<ruby>人間<rt>にんげん</rt></ruby>の<ruby>社会<rt>しゃかい</rt></ruby>を<ruby>厳<rt>きび</rt></ruby>しく<ruby>批判<rt>ひはん</rt></ruby>している。そのことから、<ruby>当時<rt>とうじ</rt></ruby>の<ruby>芥川<rt>あくたがわ</rt></ruby>の<ruby>思想<rt>しそう</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby>の<ruby>社会<rt>しゃかい</rt></ruby>が<ruby>追<rt>お</rt></ruby>い<ruby>付<rt>つ</rt></ruby>いていなかったために、<ruby>生<rt>い</rt></ruby>きているのが<ruby>辛<rt>つら</rt></ruby>くなってしまったのではないかと<ruby>推測<rt>すいそく</rt></ruby>されている。
+
+そんな<ruby>悲<rt>かな</rt></ruby>しい<ruby>最後<rt>さいご</rt></ruby>で<ruby>短<rt>みじか</rt></ruby>い<ruby>人生<rt>じんせい</rt></ruby>を<ruby>終<rt>お</rt></ruby>えた<ruby>芥川<rt>あくたがわ</rt></ruby>だが、<ruby>数々<rt>かずかず</rt></ruby>の<ruby>名言<rt>めいげん</rt></ruby>を<ruby>残<rt>のこ</rt></ruby>していることでも<ruby>有名<rt>ゆうめい</rt></ruby>だ。たとえば「<ruby>人生<rt>じんせい</rt></ruby>は<ruby>一箱<rt>ひとはこ</rt></ruby>のマッチに<ruby>似<rt>に</rt></ruby>ている。<ruby>重大<rt>じゅうだい</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>うのはばかばかしい。<ruby>重大<rt>じゅうだい</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>わねば<ruby>危険<rt>きけん</rt></ruby>である。」という<ruby>言葉<rt>ことば</rt></ruby>だ。<ruby>私<rt>わたし</rt></ruby>はこれを「たかがマッチ<ruby>棒<rt>ぼう</rt></ruby>だが、<ruby>扱<rt>あつか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えると<ruby>火事<rt>かじ</rt></ruby>になりかねない。<ruby>人生<rt>じんせい</rt></ruby>も<ruby>同<rt>おな</rt></ruby>じで<ruby>気楽<rt>きらく</rt></ruby>に<ruby>生<rt>い</rt></ruby>きたほうがいいが、<ruby>気<rt>き</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>いてはいけない」という<ruby>意味<rt>いみ</rt></ruby>で<ruby>理<rt>り</rt></ruby>解<rt>かい</rt></ruby>する。<ruby>人生<rt>じんせい</rt></ruby>も<ruby>同<rt>おな</rt></ruby>じで、<ruby>気楽<rt>きらく</rt></ruby>に<ruby>生<rt>い</rt></ruby>きたほうがいいが、<ruby>気<rt>き</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>いてはいけない」という<ruby>意味<rt>いみ</rt></ruby>で<ruby>理<rt>り</rt></ruby>解<rt>かい</rt></ruby>する。また、こんな<ruby>言葉<rt>ことば</rt></ruby>もある――「<ruby>幸福<rt>こうふく</rt></ruby>とは、<ruby>幸福<rt>こうふく</rt></ruby>を<ruby>問題<rt>もんだい</rt></ruby>にしない<ruby>時<rt>とき</rt></ruby>を<ruby>言<rt>い</rt></ruby>う。」。これは、「<ruby>何気<rt>なにげ</rt></ruby>ない<ruby>日々<rt>ひび</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にこそ、<ruby>幸<rt>しあわ</rt></ruby>せがある」ということだろうか。
+
+<ruby>作品<rt>さくひん</rt></ruby>については、<ruby>人間<rt>にんげん</rt></ruby>の<ruby>本質<rt>ほんしつ</rt></ruby>をあぶり<ruby>出<rt>だ</rt></ruby>しながら、<ruby>自<rt>みずか</rt></ruby>らの<ruby>価値観<rt>かちかん</rt></ruby>を<ruby>追求<rt>ついきゅう</rt></ruby>するという<ruby>彼<rt>かれ</rt></ruby>の<ruby>基本姿勢<rt>きほんしせい</rt></ruby>が<ruby>感<rt>かん</rt></ruby>じられる。★それだけに、ヒトの<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>内面<rt>ないめん</rt></ruby>が<ruby>描<rt>えが</rt></ruby>かれ、<ruby>深<rt>ふか</rt></ruby>く<ruby>考<rt>かんが</rt></ruby>えさせられるが、どれも<ruby>短編<rt>たんぺん</rt></ruby>なので<ruby>読<rt>よ</rt></ruby>みやすい。<ruby>人間<rt>にんげん</rt></ruby>の<ruby>本質<rt>ほんしつ</rt></ruby>を<ruby>描<rt>えが</rt></ruby>くことと、<ruby>自<rt>みずか</rt></ruby>らの<ruby>価値観<rt>かちかん</rt></ruby>を<ruby>表現<rt>ひょうげん</rt></ruby>すること、この ２つの<ruby>テーマ<rt>てーま</rt></ruby>　に
+
+## CHECK
+Q1 この文章で、コミュニケーション力が高い人とは、どんな人ですか。
+Q2 「世間話の効用」にはどんなものがありますか。
+
+## 📘 Tiếng Việt (Bản dịch)
+CHECK
+Q1 「そこ」とは何のことですか。
+Q2 「２つのテーマ」とはどのようなものですか。
