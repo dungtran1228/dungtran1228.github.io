@@ -5,19 +5,31 @@ order: 1
 ---
 
 ## 📖 日本語
-最近<ruby>さいきん</ruby>、街中<ruby>まちなか</ruby>でカーシェアリングという看板<ruby>かんばん</ruby>をよく目<ruby>め</ruby>にするようになった。カーシェアリングとは、登録<ruby>とうろく</ruby>を行<ruby>おこな</ruby>った会員<ruby>かいいん</ruby>の間<ruby>あいだ</ruby>で車<ruby>くるま</ruby>を共同<ruby>きょうどう</ruby>で使用<ruby>しよう</ruby>するサービスのことである。日本<ruby>にほん</ruby>では２００２年<ruby>ねん</ruby>に最初<ruby>さいしょ</ruby>のカーシェアリング会社<ruby>がいしゃ</ruby>が誕生<ruby>たんじょう</ruby>し、２０１０年<ruby>ねん</ruby>ごろから少<ruby>すこ</ruby>しずつ利用者<ruby>りようしゃ</ruby>が増<ruby>ふ</ruby>えている。
+最近<ruby>さいきん</ruby>、<ruby>街中<rt>まちなか</rt></ruby>でカーシェアリングという<ruby>看板<rt>かんばん</rt></ruby>をよく<ruby>目<rt>め</rt></ruby>にするようになった。  
+カーシェアリングとは、<ruby>登録<rt>とうろく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った<ruby>会員<rt>かいいん</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>を<ruby>共同<rt>きょうどう</rt></ruby>で<ruby>使用<rt>しよう</rt></ruby>するサービスのことである。  
+<ruby>日本<rt>にほん</rt></ruby>では２００２<ruby>年<rt>ねん</rt></ruby>に<ruby>最初<rt>さいしょ</rt></ruby>のカーシェアリング<ruby>会社<rt>がいしゃ</rt></ruby>が<ruby>誕生<rt>たんじょう</rt></ruby>し、２０１０<ruby>年<rt>ねん</rt></ruby>ごろから<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。  
 
-１９９０年代<ruby>ねんだい</ruby>ごろまでは、若者<ruby>わかもの</ruby>が欲<ruby>ほ</ruby>しいものといえば車<ruby>くるま</ruby>で、車<ruby>くるま</ruby>を持<ruby>も</ruby>つことがステータスの一<ruby>ひと</ruby>つだったが、近年<ruby>きんねん</ruby>、若者<ruby>わかもの</ruby>を中心<ruby>ちゅうしん</ruby>に車離<ruby>くるまばな</ruby>れが進<ruby>すす</ruby>んでいると言<ruby>い</ruby>われている。大都市<ruby>だいとし</ruby>では電車<ruby>でんしゃ</ruby>やバスなどの公共交通<ruby>こうきょうこうつう</ruby>機関<ruby>きかん</ruby>が発達<ruby>はったつ</ruby>しており、車<ruby>くるま</ruby>で通勤<ruby>つうきん</ruby>しない人<ruby>ひと</ruby>にとっては、車<ruby>くるま</ruby>の利用機会<ruby>りようきかい</ruby>はそれほど多<ruby>おお</ruby>くない。また、車<ruby>くるま</ruby>を持<ruby>も</ruby>つと、ガソリン代<ruby>だい</ruby>や駐車場代<ruby>ちゅうしゃじょうだい</ruby>、税金<ruby>ぜいきん</ruby>などがかかる。近年<ruby>きんねん</ruby>の不安定<ruby>ふあんてい</ruby>な雇用状況<ruby>こようじょうきょう</ruby>により、今<ruby>いま</ruby>の経済状態<ruby>けいざいじょうたい</ruby>では車<ruby>くるま</ruby>を買うどころではないという人もいるだろう。さらに、渋滞<ruby>じゅうたい</ruby>や排気<ruby>はいき</ruby>ガスなどの環境問題<ruby>かんきょうもんだい</ruby>への意識<ruby>いしき</ruby>の高<ruby>たか</ruby>まりライフスタイルの変化<ruby>へんか</ruby>もあり、価値観<ruby>かちかん</ruby>が多様化<ruby>たようか</ruby>している。★車<ruby>くるま</ruby>にお金<ruby>かね</ruby>をかけるくらいならほかのことに使<ruby>つか</ruby>いたい、と考<ruby>かんが</ruby>える人<ruby>ひと</ruby>が増<ruby>ふ</ruby>えてもおかしくないだろう。
+１９９０<ruby>年代<rt>ねんだい</rt></ruby>ごろまでは、<ruby>若者<rt>わかもの</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいものといえば<ruby>車<rt>くるま</rt></ruby>で、<ruby>車<rt>くるま</rt></ruby>を<ruby>持<rt>も</rt></ruby>つことがステータスの<ruby>一<rt>ひと</rt></ruby>つだったが、<ruby>近年<rt>きんねん</rt></ruby>、<ruby>若者<rt>わかもの</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>車離<rt>くるまばな</rt></ruby>れが<ruby>進<rt>すす</rt></ruby>んでいると<ruby>言<rt>い</rt></ruby>われている。  
+<ruby>大都市<rt>だいとし</rt></ruby>では<ruby>電車<rt>でんしゃ</rt></ruby>やバスなどの<ruby>公共交通機関<rt>こうきょうこうつうきかん</rt></ruby>が<ruby>発達<rt>はったつ</rt></ruby>しており、<ruby>車<rt>くるま</rt></ruby>で<ruby>通勤<rt>つうきん</rt></ruby>しない<ruby>人<rt>ひと</rt></ruby>にとっては、<ruby>車<rt>くるま</rt></ruby>の<ruby>利用機会<rt>りようきかい</rt></ruby>はそれほど<ruby>多<rt>おお</rt></ruby>くない。  
+また、<ruby>車<rt>くるま</rt></ruby>を<ruby>持<rt>も</rt></ruby>つと、ガソリン<ruby>代<rt>だい</rt></ruby>や<ruby>駐車場代<rt>ちゅうしゃじょうだい</rt></ruby>、<ruby>税金<rt>ぜいきん</rt></ruby>などがかかる。  
+<ruby>近年<rt>きんねん</rt></ruby>の<ruby>不安定<rt>ふあんてい</rt></ruby>な<ruby>雇用状況<rt>こようじょうきょう</rt></ruby>により、<ruby>今<rt>いま</rt></ruby>の<ruby>経済状態<rt>けいざいじょうたい</rt></ruby>では<ruby>車<rt>くるま</rt></ruby>を<ruby>買<rt>か</rt></ruby>うどころではないという<ruby>人<rt>ひと</rt></ruby>もいるだろう。  
+さらに、<ruby>渋滞<rt>じゅうたい</rt></ruby>や<ruby>排気ガス<rt>はいきガス</rt></ruby>などの<ruby>環境問題<rt>かんきょうもんだい</rt></ruby>への<ruby>意識<rt>いしき</rt></ruby>の<ruby>高<rt>たか</rt></ruby>まり、ライフスタイルの<ruby>変化<rt>へんか</rt></ruby>もあり、<ruby>価値観<rt>かちかん</rt></ruby>が<ruby>多様化<rt>たようか</rt></ruby>している。  
+★<ruby>車<rt>くるま</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>をかけるくらいならほかのことに<ruby>使<rt>つか</rt></ruby>いたい、と<ruby>考<rt>かんが</rt></ruby>える<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えてもおかしくないだろう。  
 
-そこで、車<ruby>くるま</ruby>を所有<ruby>しょゆう</ruby>したいとは思<ruby>おも</ruby>わないが必要<ruby>ひつよう</ruby>な時<ruby>とき</ruby>に利用<ruby>りよう</ruby>したいという人<ruby>ひと</ruby>の要望<ruby>ようぼう</ruby>に応<ruby>こた</ruby>える新<ruby>あたら</ruby>しいサービス、カーシェアリングが生<ruby>う</ruby>まれた。このサービスが従来<ruby>じゅうらい</ruby>からあるレンタカーと違<ruby>ちが</ruby>う点<ruby>てん</ruby>は、会員登録<ruby>かいいんとうろく</ruby>をしておけば、ネットで予約<ruby>よやく</ruby>するだけで２４時間利用可能<ruby>じかんりようかのう</ruby>な点<ruby>てん</ruby>である。近所<ruby>きんじょ</ruby>にある無人<ruby>むじん</ruby>のカーステーションに行<ruby>い</ruby>けば、面倒<ruby>めんどう</ruby>な手続<ruby>てつづ</ruby>きなしですぐに、そこに止<ruby>と</ruby>めてある車<ruby>くるま</ruby>を使<ruby>つか</ruby>うことができる。利用時間<ruby>りようじかん</ruby>も１５分<ruby>ふん</ruby>あるいは３０分<ruby>ふん</ruby>単位<ruby>たんい</ruby>になっていて、近所<ruby>きんじょ</ruby>に買い物に行くのに使う場合など、手軽<ruby>てがる</ruby>に使<ruby>つか</ruby>えて便利<ruby>べんり</ruby>だ。
+そこで、<ruby>車<rt>くるま</rt></ruby>を<ruby>所有<rt>しょゆう</rt></ruby>したいとは<ruby>思<rt>おも</rt></ruby>わないが<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>時<rt>とき</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>したいという<ruby>人<rt>ひと</rt></ruby>の<ruby>要望<rt>ようぼう</rt></ruby>に<ruby>応<rt>こた</rt></ruby>える<ruby>新<rt>あたら</rt></ruby>しいサービス、カーシェアリングが<ruby>生<rt>う</rt></ruby>まれた。  
+このサービスが<ruby>従来<rt>じゅうらい</rt></ruby>からあるレンタカーと<ruby>違<rt>ちが</rt></ruby>う<ruby>点<rt>てん</rt></ruby>は、<ruby>会員登録<rt>かいいんとうろく</rt></ruby>をしておけば、ネットで<ruby>予約<rt>よやく</rt></ruby>するだけで２４<ruby>時間<rt>じかん</rt></ruby><ruby>利用可能<rt>りようかのう</rt></ruby>な<ruby>点<rt>てん</rt></ruby>である。  
+<ruby>近所<rt>きんじょ</rt></ruby>にある<ruby>無人<rt>むじん</rt></ruby>のカーステーションに<ruby>行<rt>い</rt></ruby>けば、<ruby>面倒<rt>めんどう</rt></ruby>な<ruby>手続<rt>てつづ</rt></ruby>きなしですぐに、そこに<ruby>止<rt>と</rt></ruby>めてある<ruby>車<rt>くるま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うことができる。  
+<ruby>利用時間<rt>りようじかん</rt></ruby>も１５<ruby>分<rt>ふん</rt></ruby>あるいは３０<ruby>分<rt>ふん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>になっていて、<ruby>近所<rt>きんじょ</rt></ruby>に<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>くのに<ruby>使<rt>つか</rt></ruby>う<ruby>場合<rt>ばあい</rt></ruby>など、<ruby>手軽<rt>てがる</rt></ruby>に<ruby>使<rt>つか</rt></ruby>えて<ruby>便利<rt>べんり</rt></ruby>だ。  
 
-カーシェアリング事業者<ruby>じぎょうしゃ</ruby>は年々増加<ruby>ねんねんぞうか</ruby>しており、会員登録者数<ruby>かいいんとうろくしゃすう</ruby>も増<ruby>ふ</ruby>えている。今後<ruby>こんご</ruby>も、このようなサービスが拡大<ruby>かくだい</ruby>していくのではないだろうか。
+カーシェアリング<ruby>事業者<rt>じぎょうしゃ</rt></ruby>は<ruby>年々増加<rt>ねんねんぞうか</rt></ruby>しており、<ruby>会員登録者数<rt>かいいんとうろくしゃすう</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えている。  
+<ruby>今後<rt>こんご</rt></ruby>も、このようなサービスが<ruby>拡大<rt>かくだい</rt></ruby>していくのではないだろうか。  
 
 ---
 
 **CHECK**  
-Q1: カーシェアリングのサービスができたのは、どうしてですか。  
-Q2: カーシェアリングは、レンタカーとどんなところが違<ruby>ちが</ruby>いますか。  
+**Q1** カーシェアリングのサービスができたのは、どうしてですか。  
+**Q2** カーシェアリングは、レンタカーとどんなところが違いますか。
+
 
 ## 📘 Tiếng Việt (Bản dịch)
 
