@@ -6,6 +6,8 @@ theme: minima
 header_pages:
   - _n2/speed-master/index.md
   - _n2/marugoto/index.md
+  - _exam/index.md
 
 include:
     - _n2
+    - _exam
