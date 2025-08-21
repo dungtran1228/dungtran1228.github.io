@@ -43,8 +43,41 @@ AとBが<ruby>共通<rt>きょうつう</rt></ruby>して<ruby>重要<rt>じゅ�
 2. <ruby>小<rt>ちい</rt></ruby>さな<ruby>目標<rt>もくひょう</rt></ruby>から<ruby>着実<rt>ちゃくじつ</rt></ruby>に<ruby>達成<rt>たっせい</rt></ruby>していくこと  
 3. <ruby>先<rt>さき</rt></ruby>に<ruby>進<rt>すす</rt></ruby>めなくなった<ruby>時<rt>とき</rt></ruby>には<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>すること  
 4. うまくいかなくても<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>をあきらめないこと
-## 📘 Tiếng Việt (Bản dịch)
 
+## 📘 Tiếng Việt (Bản dịch)
+A
+Rất khó để thay đổi hoặc chuyển đổi những định kiến, niềm tin và khuôn mẫu giá trị trong chính mình. Đặc biệt, các vận động viên thể thao được nuôi dạy với tư tưởng "một khi đã bắt đầu thì phải làm cho đến cùng". Suy nghĩ này thấm sâu vào họ, khiến họ khó có thể nghi ngờ. Nhiều vận động viên tin rằng việc thay đổi mục tiêu giữa chừng là một việc xấu, là từ bỏ mục tiêu.
+Nhưng có thực sự cần phải kiên quyết bám lấy một mục tiêu đến cùng không? (Lược bỏ)
+Tất nhiên, việc kiên trì theo đuổi một con đường duy nhất cũng rất quan trọng. Nhưng tôi nghĩ rằng, khi mọi việc không suôn sẻ, việc thay đổi góc nhìn một chút hoặc thay đổi mục tiêu một cách táo bạo cũng là một cách tiếp cận quan trọng.
+(Theo Dai Tamesue, "'Chơi' là chiến thắng - 'Homo Ludens', bạn cũng hãy nhảy lên\!")
+
+B
+Khi hỏi các vận động viên thể thao ngày nay về mục tiêu của họ, họ thường trả lời là "muốn thi đấu ở tầm thế giới". Đây có lẽ là kết quả của việc ngày càng có nhiều vận động viên thi đấu thành công trong các giải đấu và đội tuyển quốc tế. Tuy nhiên, điều tôi muốn nhấn mạnh là nhiều vận động viên mất động lực giữa chừng vì mục tiêu quá lớn hoặc quá xa vời, khiến họ không thể hình dung cụ thể những việc cần làm.
+Để biến một giấc mơ lớn thành hiện thực, cần phải nỗ lực mỗi ngày trong một thời gian dài. Để duy trì ý chí, cần có cảm giác thành tựu, cảm thấy rằng mình đang tiến lên từng chút một. Khi mục tiêu quá lớn và bạn không biết phải làm gì, tôi muốn bạn hãy xem xét lại mục tiêu của mình và nghĩ về điều cần thiết nhất cho bản thân hiện tại.
+\<br\>
+
+-----
+
+**Câu hỏi 69:**
+
+Về cách đặt mục tiêu của các vận động viên, đoạn A và B cho rằng họ thường có xu hướng như thế nào?
+
+  * A và B đều cho rằng họ thường đặt mục tiêu không rõ ràng.
+  * A và B đều cho rằng họ thường có niềm tin rằng phải tiếp tục theo đuổi một mục tiêu duy nhất.
+  * **A cho rằng họ thường tin rằng không được thay đổi mục tiêu, còn B cho rằng họ thường đặt mục tiêu quá lớn.**
+  * A cho rằng họ thường quá chú trọng vào việc đạt được mục tiêu, còn B cho rằng họ thường đặt mục tiêu giống như các vận động viên thi đấu ở tầm thế giới.
+
+-----
+
+**Câu hỏi 70:**
+
+Điểm chung mà A và B coi là quan trọng là gì?
+
+  * Đặt mục tiêu có thể đạt được một cách chắc chắn.
+  * Tiến từng bước chắc chắn để đạt được mục tiêu nhỏ.
+  * **Thay đổi mục tiêu khi không thể tiến lên được nữa.**
+  * Không từ bỏ mục tiêu ban đầu ngay cả khi gặp khó khăn.
+  
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>
 </div>

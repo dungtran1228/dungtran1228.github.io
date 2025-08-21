@@ -50,7 +50,46 @@ question_number: 8
 2. <ruby>大人<rt>おとな</rt></ruby>が<ruby>知識<rt>ちしき</rt></ruby>を<ruby>習得<rt>しゅうとく</rt></ruby>するには、<ruby>学生時代<rt>がくせいじだい</rt></ruby>より<ruby>多<rt>おお</rt></ruby>く<ruby>復習<rt>ふくしゅう</rt></ruby>しなければならない。  
 3. <ruby>復習<rt>ふくしゅう</rt></ruby>を<ruby>習慣<rt>しゅうかん</rt></ruby>にすれば、<ruby>老化<rt>ろうか</rt></ruby>による<ruby>記憶力<rt>きおくりょく</rt></ruby>の<ruby>衰<rt>おとろ</rt></ruby>えを<ruby>防<rt>ふせ</rt></ruby>ぐことができる。  
 4. <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>忘<rt>わす</rt></ruby>れてしまった<ruby>知識<rt>ちしき</rt></ruby>でも、<ruby>復習<rt>ふくしゅう</rt></ruby>すれば<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>すことができる。
+
 ## 📘 Tiếng Việt (Bản dịch)
+Một trong những nguyên nhân lớn khiến người lớn khó tiếp thu kiến thức là họ không ôn tập một cách nghiêm túc.
+Khi còn là học sinh, việc ôn tập đã được đưa vào chương trình học, do đó kiến thức dễ được ghi nhớ. Ngược lại, khi tự học lúc đã trưởng thành, nếu không chủ động tạo cơ hội ôn tập, chúng ta thường có xu hướng nghĩ rằng "mình đã hiểu rồi, ổn rồi" chỉ sau một lần đọc sách.
+Đặc điểm của não bộ là nó sẽ lưu trữ thông tin nhận được qua mắt và tai, sau đó tự động cất giấu những thông tin được cho là không cần thiết vào sâu trong bộ nhớ. Vậy làm thế nào để phân loại "thông tin cần thiết" và "thông tin vô dụng"? Đó là dựa vào việc liệu cùng một thông tin có được lặp lại hay không. Khoảng thời gian này được cho là một tháng, tức là, nếu thông tin được lặp lại ít nhất hai lần trong vòng một tháng, não sẽ nhận diện đó là "thông tin cần thiết" và kiến thức sẽ được ghi nhớ. Ngược lại, nếu một thông tin chỉ được ghi nhớ một lần và không được lặp lại trong vòng một tháng, cuối cùng nó sẽ bị não "cất đi" như một "thông tin vô dụng".
+Kết quả là, những kiến thức tưởng chừng đã ghi nhớ sẽ biến mất khỏi trí nhớ sau một thời gian, và khi làm bài kiểm tra, bạn không thể nhớ lại được. Lúc đó, bạn sẽ cảm thấy chán nản và nghĩ rằng "trí nhớ của mình kém đi vì tuổi tác" hoặc "mình đã từng làm được mà". Tuy nhiên, thực tế thường là không phải do lão hóa mà chỉ đơn giản là do bạn đã không ôn tập.
+(Theo Hideki Wada, "Phương pháp học tập cho tuổi 40 - Làm thế nào để tăng động lực và sự tập trung")
+
+---
+
+**Câu hỏi 66:**
+
+Theo tác giả, tại sao khi còn là học sinh, kiến thức lại dễ được ghi nhớ hơn?
+
+* Vì học sinh có trí nhớ tốt hơn người lớn.
+* Vì học sinh không có suy nghĩ chủ quan là đã "hiểu rồi".
+* **Vì ở trường, họ được học đi học lại một kiến thức nhiều lần.**
+* Vì ở trường, họ chỉ được dạy những kiến thức cần phải ghi nhớ.
+
+---
+
+**Câu hỏi 67:**
+
+Theo tác giả, làm thế nào để kiến thức được ghi nhớ trong vòng một tháng?
+
+* Liên kết thông tin đã học với những thông tin đã có.
+* Nhớ lại và sắp xếp lại thông tin đã học.
+* Ghi nhớ liên tục những thông tin có liên quan.
+* **Ghi nhớ lại thông tin đã học thêm một lần nữa.**
+
+---
+
+**Câu hỏi 68:**
+
+Điều nào sau đây phù hợp với quan điểm của tác giả?
+
+* **Khi người lớn học, điều quan trọng là phải chủ động ôn tập.**
+* Để người lớn tiếp thu kiến thức, họ phải ôn tập nhiều hơn khi còn là học sinh.
+* Nếu biến việc ôn tập thành thói quen, bạn có thể ngăn ngừa sự suy giảm trí nhớ do lão hóa.
+* Ngay cả những kiến thức đã quên, bạn vẫn có thể nhớ lại nếu ôn tập.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

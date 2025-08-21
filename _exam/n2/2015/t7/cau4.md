@@ -23,7 +23,23 @@ question_number: 4
 3. <ruby>子<rt>こ</rt></ruby>どもを<ruby>常識的<rt>じょうしきてき</rt></ruby>な<ruby>価値観<rt>かちかん</rt></ruby>に<ruby>従<rt>したが</rt></ruby>わせること  
 4. <ruby>子<rt>こ</rt></ruby>ども<ruby>自身<rt>じしん</rt></ruby>が<ruby>持<rt>も</rt></ruby>つ<ruby>価値観<rt>かちかん</rt></ruby>を<ruby>認<rt>みと</rt></ruby>めること
 ## 📘 Tiếng Việt (Bản dịch)
+Trong việc nuôi dạy con cái, người ta thường nói "khen ngợi" là rất quan trọng, nhưng tôi lại có suy nghĩ hơi khác.
+Khen ngợi là một sự đánh giá về giá trị, và khi cha mẹ khen ngợi, đó là hành vi mà họ muốn củng cố ở con cái. Đứa trẻ lớn lên trong khi bị tiêm nhiễm các giá trị đó của cha mẹ. Tức là, "khen ngợi" bao hàm một "mệnh lệnh" từ cha mẹ đến con cái. Theo nghĩa đó, nó có thể được coi là giống như hành vi "la mắng", tức là cấm con làm một điều gì đó.
+(Theo Ryunosuke Koike, "Bài học về sự bình tâm")
+(Chú thích) bị tiêm nhiễm: ở đây có nghĩa là bị gieo vào đầu.
+\<br\>
 
+-----
+
+**Câu hỏi 58:**
+
+Theo tác giả, "khen ngợi" là hành động gì của cha mẹ?
+
+  * **Ép đặt giá trị của bản thân cho con cái.**
+  * Cho con cái thấy nhiều giá trị khác nhau.
+  * Buộc con cái phải tuân theo những giá trị thông thường.
+  * Công nhận những giá trị mà bản thân đứa trẻ có.
+  
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>
 </div>

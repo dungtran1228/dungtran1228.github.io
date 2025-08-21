@@ -72,7 +72,23 @@ question_number: 11
 2. 10:30から19:00まで<ruby>利用<rt>りよう</rt></ruby>する<ruby>場合<rt>ばあい</rt></ruby>、2<ruby>回分<rt>かいぶん</rt></ruby>の<ruby>利用料金<rt>りようりょうきん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う。  
 3. <ruby>団体<rt>だんたい</rt></ruby>で<ruby>利用<rt>りよう</rt></ruby>する<ruby>場合<rt>ばあい</rt></ruby>、<ruby>予約<rt>よやく</rt></ruby>は2<ruby>か月前<rt>かげつまえ</rt></ruby>にしておく。  
 4. <ruby>予約<rt>よやく</rt></ruby>と<ruby>料金<rt>りょうきん</rt></ruby>の<ruby>支払<rt>しはら</rt></ruby>いは、<ruby>利用<rt>りよう</rt></ruby>の<ruby>前日<rt>ぜんじつ</rt></ruby>までに<ruby>済<rt>す</rt></ruby>ませておく。
+
 ## 📘 Tiếng Việt (Bản dịch)
+**Câu hỏi 74:**
+
+Theo thông tin trong ghi chú của bạn Chen, nhóm của bạn có 25 người, nên sẽ được áp dụng mức giá ưu đãi dành cho đoàn thể là 1.000 yên/người. Ngoài ra, nhóm còn mua thêm gói "Volume Set" với giá 2.000 yên/người.
+Vì vậy, tổng chi phí cho mỗi người là 1.000 yên (phí sử dụng) + 2.000 yên (tiền set) = 3.000 yên.
+
+Đáp án đúng là: **利用料金1000円とバーベキューセット代2000円** (Phí sử dụng 1.000 yên và phí set BBQ 2.000 yên)
+
+**Câu hỏi 75:**
+
+* **Lựa chọn thứ nhất:** Không được mang dụng cụ nấu nướng.
+* **Lựa chọn thứ hai:** Thời gian sử dụng từ 10:30 đến 19:00 bao gồm cả hai khoảng thời gian ① (10:30~14:30) và ② (15:00~19:30), nên cần phải thanh toán hai lần phí sử dụng.
+* **Lựa chọn thứ ba:** Đặt chỗ trước 2 tháng chỉ là ưu tiên đối với đoàn thể, không phải là quy định bắt buộc.
+* **Lựa chọn thứ tư:** Việc thanh toán diễn ra vào ngày sử dụng, không phải trước đó.
+
+Đáp án đúng là: **10:30から19:00まで利用する場合、2回分の利用料金を払う** (Khi sử dụng từ 10:30 đến 19:00, bạn phải trả phí sử dụng 2 lần).
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

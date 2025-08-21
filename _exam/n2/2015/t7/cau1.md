@@ -28,6 +28,21 @@ question_number: 1
 
 ## 📘 Tiếng Việt (Bản dịch)
 
+Những người học ngoại ngữ dù rất nghiêm túc nhưng vẫn mắc lỗi. Mắc lỗi là điều không thể tránh khỏi, nhưng khi đã cố gắng ghi nhớ và áp dụng các quy tắc, lại bị nói "đó là một ngoại lệ", thì họ sẽ cảm thấy nản lòng.
+Nếu phân tích kỹ những lỗi sai này, chúng ta sẽ có thể tạo ra những cuốn sách giáo khoa tuyệt vời. Về bản chất, sách giáo khoa cần phải được thiết kế để người học có thể hiểu rõ những điểm khó và những lỗi thường gặp, từ đó giải thích một cách thật dễ hiểu.
+(Theo Ryunosuke Kuroda, "Thứ Tư Ngoại Ngữ - Nhập Môn Ngôn Ngữ Học Với Tư Cách Là Một Phương Pháp Học")
+(Chú thích) Lỗi sai: cách sử dụng sai.
+\<br\>
+
+**Câu hỏi 55:**
+
+Theo tác giả, sách giáo khoa ngoại ngữ nên như thế nào?
+
+  * Nên được tạo ra để người học có thể cảm nhận được thành quả.
+  * Nên được thiết kế để người học có thể học tập một cách nghiêm túc.
+  * **Nên giải thích cẩn thận những điểm mà người học dễ mắc lỗi.**
+  * Nên giải thích tất cả các quy tắc để thúc đẩy tinh thần học tập của người học.
+  
 <hr>
 
 <div style="margin-top: 2em;">

@@ -28,7 +28,22 @@ question_number: 2
 <hr>
 
 ## 📘 Tiếng Việt (Bản dịch)
+Hãy cùng nhận quà nào!
+Xin chân thành cảm ơn quý vị đã đến tham dự "Lễ hội hoa và cây lần thứ 7 tại thị trấn Kawakami" ngày hôm nay.
+Có 8 quầy dập tem khác nhau được đặt trong khu vực lễ hội, quý vị hãy dập tem vào thẻ của mình. Thẻ dập tem có sẵn tại mỗi quầy. Sau khi dập được 5 loại tem trở lên, quý vị vui lòng mang thẻ đến quầy lễ tân tổng hợp ở lối vào để đổi lấy hạt giống hoa.
+Ngoài ra, đối với những người đã dập đủ tất cả các loại tem và hợp tác điền vào bảng khảo sát tại quầy lễ tân tổng hợp, chúng tôi sẽ tặng một chậu hoa.
+Nếu có bất kỳ thắc mắc nào, xin vui lòng hỏi các nhân viên tại lễ hội.
 
+---
+
+**Câu hỏi 56:**
+
+Để nhận được chậu hoa, bạn phải làm gì?
+
+* Hợp tác điền vào bảng khảo sát tại quầy lễ tân tổng hợp, sau đó dập đủ 8 loại tem khác nhau rồi quay lại quầy lễ tân tổng hợp.
+* Hợp tác điền vào bảng khảo sát tại quầy dập tem đầu tiên, sau đó dập đủ 5 loại tem khác nhau rồi đến quầy lễ tân tổng hợp.
+* Dập đủ 5 loại tem khác nhau, sau đó hợp tác điền vào bảng khảo sát tại quầy dập tem cuối cùng.
+* **Dập đủ 8 loại tem khác nhau, sau đó đến quầy lễ tân tổng hợp để hợp tác điền vào bảng khảo sát.**
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>
 </div>

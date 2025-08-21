@@ -43,7 +43,39 @@ question_number: 7
 4. <ruby>年代<rt>ねんだい</rt></ruby>や<ruby>性別<rt>せいべつ</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いを<ruby>超<rt>こ</rt></ruby>えて<ruby>売<rt>う</rt></ruby>れる<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>開発<rt>かいはつ</rt></ruby>している。
 
 ## 📘 Tiếng Việt (Bản dịch)
+Khi đến quầy đồ uống để mua nước, bạn sẽ nhận ra rằng các sản phẩm đã trở nên đa dạng hơn rất nhiều. Để người tiêu dùng chọn sản phẩm của mình, các nhà sản xuất không chỉ chú trọng vào hương vị mà còn cả thiết kế chai lọ.
+Một nhà sản xuất đã phát triển một sản phẩm trà xanh mới nhằm mục đích để người ta uống trong giờ làm việc. Để thay thế cà phê, một loại đồ uống thường được sử dụng khi làm việc, họ đã làm cho trà có vị đậm hơn bình thường. Ngoài ra, thay vì chai nhựa PET, họ sử dụng chai kim loại, loại thường được dùng cho cà phê, và mở rộng miệng chai để người dùng có thể thưởng thức hương thơm. Màu sắc của chai được thiết kế với các tông màu xanh đậm, đen và vàng để thể hiện sự đậm đà và cao cấp của sản phẩm. Nhờ những nỗ lực này, sản phẩm đã đạt được doanh số bán hàng tốt đúng như mong đợi.
+Ví dụ này cho thấy các nhà sản xuất chú trọng vào bao bì vì người tiêu dùng có sở thích riêng về chất liệu và hình dạng của chai lọ. Theo kết quả của một cuộc khảo sát người tiêu dùng về chai trà xanh, những người dưới 60 tuổi cảm thấy chai kim loại có vẻ cao cấp và có ấn tượng tốt, nhưng những người trên 60 tuổi lại cảm thấy có sự phản đối.
+\<br\>
 
+-----
+
+**Câu hỏi 63:**
+
+Tại sao nói sản phẩm này có doanh số bán hàng tốt "đúng như mong đợi"?
+
+  * Vì sản phẩm bán chạy cho những người trước đây thường uống cà phê khi làm việc.
+  * Vì sản phẩm bán chạy cho những người thường xuyên uống cà phê cao cấp.
+  * Vì sản phẩm bán chạy cho những người đang tìm kiếm một loại trà xanh khác biệt.
+  * Vì sản phẩm bán chạy cho những người muốn thưởng thức hương thơm của trà xanh.
+
+**Câu 64:**
+
+Kết quả khảo sát người tiêu dùng được đề cập trong đoạn văn là gì?
+
+  * Có sự khác biệt về cảm giác phản đối đối với chai kim loại giữa nam và nữ.
+  * Đối với chai kim loại, sở thích của người dùng thay đổi đáng kể ở độ tuổi 60.
+  * Chai nhựa PET với hình dạng và màu sắc mới lạ được ưa chuộng bất kể giới tính.
+  * Những người trên 60 tuổi, bất kể nam hay nữ, đều thích những chai nhựa PET có hình dạng và màu sắc quen thuộc.
+
+**Câu 65:**
+
+Điều gì có thể được rút ra từ đoạn văn về những nỗ lực của nhà sản xuất?
+
+  * Họ đang phản ánh sở thích của người tiêu dùng không chỉ về hương vị mà còn cả bao bì.
+  * Họ đang dần chú trọng ngoại hình hơn hương vị.
+  * Họ đang cố gắng cải thiện ấn tượng của người tiêu dùng về nhà sản xuất.
+  * Họ đang phát triển các sản phẩm bán chạy bất kể sự khác biệt về tuổi tác và giới tính.
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>
 </div>

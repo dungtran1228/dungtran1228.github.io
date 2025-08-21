@@ -54,7 +54,50 @@ question_number: 10
 2. みんなが<ruby>自分自身<rt>じぶんじしん</rt></ruby>の<ruby>ふるさと<rt>ふるさと</rt></ruby>を<ruby>いい<rt>いい</rt></ruby><ruby>場所<rt>ばしょ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>えるようにしたい。  
 3. <ruby>ヨソモノ<rt>よそもの</rt></ruby>であっても、<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れてくれるような<ruby>ふるさと<rt>ふるさと</rt></ruby>を<ruby>つく<rt>つく</rt></ruby>りたい。  
 4. <ruby>ふるさと<rt>ふるさと</rt></ruby>のない<ruby>人<rt>ひと</rt></ruby>にも、<ruby>ふるさと<rt>ふるさと</rt></ruby>というものの<ruby>良<rt>よ</rt></ruby>さを<ruby>伝<rt>つた</rt></ruby>えられるようにしたい。
+
 ## 📘 Tiếng Việt (Bản dịch)
+A
+Nếu nghĩ kỹ lại, tôi đã luôn là một "người lạ" (yosomono) kể từ khi còn học mẫu giáo. Vì bố mẹ tôi thường xuyên chuyển công tác, tôi phải chuyển trường cứ khoảng bốn năm một lần. Cứ đến khi tôi bắt đầu quen với lớp thì lại phải chuyển nhà. Tôi đã học hai trường mẫu giáo, hai trường tiểu học và hai trường trung học cơ sở. Mỗi lần như vậy, với tư cách là một học sinh mới, tôi lại quan sát lớp học từ góc nhìn của một người lạ. Ai là "trùm" của lớp? Kết thân với ai thì dễ được kết nạp vào nhóm? Ai với ai thì thân nhau, ai với ai thì không ưa nhau? Tôi chỉ cố gắng nắm bắt những điều như vậy. Tôi biết mình là một cậu học sinh khó ưa, nhưng nếu không làm như vậy thì rất khó để hòa nhập vào lớp.
+
+Ngày nay, tôi vẫn cảm thấy mình đang làm **những điều tương tự**. Mỗi khi đến một cộng đồng, tôi lại cố gắng tìm hiểu xem ai là người có quyền lực, ý kiến của ai là đúng, ý kiến của ai được coi trọng. Ai với ai thì thân thiết. Và sau khoảng bốn năm, tôi lại rời khỏi cộng đồng đó. Cuộc sống của tôi vẫn giống như một học sinh mới chuyển trường.
+
+Vì có một tuổi thơ như vậy nên tôi cảm thấy khó khăn khi được hỏi "Quê bạn ở đâu?". Vì tôi chỉ sống ở mỗi nơi khoảng bốn năm, nên tôi đành phải chọn bừa một nơi nào đó làm quê hương. Nơi tôi sinh ra thì rõ ràng, nhưng tôi chỉ sống ở đó hai năm đầu đời. Tất nhiên là tôi không còn ký ức gì về nơi đó.
+
+Vì vậy, tôi ngưỡng mộ những người có "quê hương". Mỗi khi nghe ai đó nói "Tôi muốn quay về làm việc ở quê" hoặc "Tôi muốn giúp quê hương mình phát triển", tôi lại cảm thấy **ghen tị**. Ngược lại, tôi cảm thấy buồn khi nghe những lời nói xấu về quê hương. "Vì là vùng nông thôn", "Không có gì cả", "Hay cản trở nhau", "Không thể làm những điều mới mẻ". Thật đáng tiếc khi có một quê hương mà lại nói xấu về nó. Tôi mong muốn quê hương là một nơi tốt đẹp. Và vì vậy, tôi muốn giúp đỡ. Mặc dù tôi vẫn là một người lạ ở bất cứ nơi nào tôi đến, tôi vẫn muốn cố gắng để quê hương trở nên tốt đẹp hơn từ vị trí của mình. Bởi vì, mỗi nơi đều là quê hương của rất nhiều người.
+(Theo Ryo Yamazaki, "Thời đại của thiết kế cộng đồng")
+
+---
+
+**Câu hỏi 71:**
+
+"Những điều tương tự" được đề cập là gì?
+
+* Nỗ lực để được kết nạp vào một nhóm.
+* Cố gắng không tham gia vào một nhóm.
+* Cố gắng tìm những người phù hợp với mình.
+* **Quan sát các mối quan hệ xã hội.**
+
+---
+
+**Câu hỏi 72:**
+
+Tại sao tác giả lại cảm thấy "ghen tị"?
+
+* Vì ký ức về quê hương của mình mơ hồ.
+* Vì mình chỉ có những ký ức không vui về quê hương.
+* **Vì mình không có một nơi nào để gọi là quê hương.**
+* Vì mình không biết những điều tốt đẹp về quê hương.
+
+---
+
+**Câu hỏi 73:**
+
+Điều nào sau đây phù hợp với quan điểm của tác giả?
+
+* Muốn tạo ra một nơi lý tưởng mà bất cứ ai cũng có thể gọi là quê hương.
+* **Muốn mọi người đều nghĩ rằng quê hương của họ là một nơi tốt đẹp.**
+* Muốn tạo ra một quê hương có thể chấp nhận ngay cả những "người lạ" như mình.
+* Muốn truyền đạt những điều tốt đẹp về quê hương cho những người không có quê hương.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

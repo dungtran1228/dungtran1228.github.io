@@ -4,7 +4,7 @@ layout: default
 question_number: 5
 ---
 
-# Câu 5 - Đề thi N2 tháng 7/2015
+# Câu 5 - Đề thi N2 tháng 7/2010
 ## 📖 日本語
 ## <ruby>市場競争<rt>しじょうきょうそう</rt></ruby>は、<ruby>誰<rt>だれ</rt></ruby>にとっても<ruby>厳<rt>きび</rt></ruby>しいものである。
 
@@ -20,8 +20,23 @@ question_number: 5
 2. <ruby>市場競争<rt>しじょうきょうそう</rt></ruby>によって<ruby>豊<rt>ゆた</rt></ruby>かになる<ruby>機会<rt>きかい</rt></ruby>が<ruby>与<rt>あた</rt></ruby>えられる。  
 3. <ruby>市場競争<rt>しじょうきょうそう</rt></ruby>がなければ<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>生活<rt>せいかつ</rt></ruby>は<ruby>送<rt>おく</rt></ruby>れない。  
 4. <ruby>市場競争<rt>しじょうきょうそう</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>しないで<ruby>生<rt>い</rt></ruby>きることはできない。
-## 📘 Tiếng Việt (Bản dịch)
 
+## 📘 Tiếng Việt (Bản dịch)
+Cạnh tranh trên thị trường là điều khắc nghiệt đối với tất cả mọi người.
+Để tồn tại, chúng ta phải tuân theo kỷ luật của cạnh tranh thị trường. Có thể có những người rất thích cạnh tranh, nhưng cũng có rất nhiều người không thích bị ép phải cạnh tranh. Chắc chắn cũng có nhiều người muốn thoát khỏi cạnh tranh để có một cuộc sống an nhàn, yên ổn.
+Tuy nhiên, lý do chúng ta vẫn sử dụng cơ chế cạnh tranh thị trường là vì lợi ích của nó lớn hơn nhược điểm. Việc có thể trở nên giàu có hơn và cơ hội làm giàu được trao cho tất cả mọi người là những lợi ích lớn của nó.
+(Theo Fumio Ohtake, "Cạnh tranh và cảm giác công bằng")
+
+---
+
+**Câu hỏi 59:**
+
+Điều nào sau đây phù hợp với quan điểm của tác giả?
+
+* Cuộc sống an nhàn được đảm bảo nhờ cạnh tranh thị trường.
+* **Cơ hội làm giàu được trao cho tất cả mọi người nhờ cạnh tranh thị trường.**
+* Không có cạnh tranh thị trường thì không thể có cuộc sống sung túc.
+* Không thể sống mà không tham gia vào cạnh tranh thị trường.
 <div style="margin-top: 2em;">
-  <a href="/exam/n2/2015/">← Quay lại danh sách</a>
+  <a href="/exam/n2/2010/">← Quay lại danh sách</a>
 </div>

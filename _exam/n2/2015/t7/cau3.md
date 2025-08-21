@@ -25,7 +25,21 @@ System: _、<ruby>名器<rt>めいき</rt></ruby>よりも<ruby>素晴<rt>すば
 4. <ruby>新<rt>あたら</rt></ruby>しい<ruby>木材<rt>もくざい</rt></ruby>で<ruby>作<rt>つく</rt></ruby>られていて、<ruby>名器<rt>めいき</rt></ruby>のような<ruby>音<rt>おと</rt></ruby>が<ruby>出<rt>だ</rt></ruby>せるもの
 
 ## 📘 Tiếng Việt (Bản dịch)
+Một nhà sản xuất nhạc cụ đã phát triển một kỹ thuật mới giúp biến gỗ mới thành gỗ cũ. Họ nói rằng kỹ thuật này có thể tái tạo một cách nhân tạo những thay đổi xảy ra trên gỗ theo thời gian, chỉ trong một thời gian ngắn.
+Những nhạc cụ bằng gỗ như đàn violin được cho là sẽ tạo ra âm thanh tuyệt vời sau hàng trăm năm sản xuất. Các nhạc cụ nổi tiếng thường rất hiếm và đắt tiền, khó có thể sở hữu.
+Việc sử dụng kỹ thuật này sẽ giúp các nhạc cụ chất lượng cao, sánh ngang với các nhạc cụ nổi tiếng, trở nên dễ tiếp cận hơn. Có thể sẽ không còn xa nữa khi chúng ta có thể nghe một dàn nhạc giao hưởng với những nhạc cụ như vậy.
+(Chú thích) ~sánh ngang: tương tự như
 
+---
+
+**Câu hỏi 57:**
+
+"Những nhạc cụ như vậy" là loại nhạc cụ như thế nào?
+
+* Được làm bằng công nghệ mới và có thể tạo ra âm thanh tuyệt vời hơn cả nhạc cụ nổi tiếng.
+* Được làm bằng gỗ cũ và có thể tạo ra âm thanh tuyệt vời hơn cả nhạc cụ nổi tiếng.
+* Được chế tạo qua một thời gian dài và có thể tạo ra âm thanh giống như nhạc cụ nổi tiếng.
+* **Được làm bằng gỗ mới và có thể tạo ra âm thanh giống như nhạc cụ nổi tiếng.**
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>
 </div>

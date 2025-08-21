@@ -50,6 +50,41 @@ question_number: 6
 4. <ruby>思考力<rt>しこうりょく</rt></ruby>を<ruby>つ<rt>つ</rt></ruby>けるためには、<ruby>あいまい<rt>あいまい</rt></ruby>な<ruby>考<rt>かんが</rt></ruby>えは<ruby>書<rt>か</rt></ruby>かないほうがいい。
 
 ## 📘 Tiếng Việt (Bản dịch)
+Trong cuộc trò chuyện, người nghe thường ở gần, và trong khi bày tỏ suy nghĩ, ta tiếp tục phát triển ý tưởng ngay tại đó. (Lược bỏ)
+Ngược lại, khi **viết**, ta thường ở một mình, dành nhiều thời gian để viết ra hoặc vừa nghĩ vừa viết trên giấy hoặc máy tính. Việc suy nghĩ được lưu lại dưới dạng chữ viết mà không biến mất cũng là một điểm khác biệt lớn so với nói. Giống như việc đọc một cuốn sách in, người đọc có thể suy nghĩ theo tốc độ của riêng mình, việc viết cũng là một cách để phát triển ý tưởng theo nhịp độ của bản thân, có thể lặp đi lặp lại.
+Hơn nữa, khi viết ra những gì đã nghĩ, những ý tưởng mơ hồ và thiếu rõ ràng sẽ rất khó để thành câu. Nếu là khi nói, ta vẫn có thể truyền đạt "sự mơ hồ" đó cho người nghe. Nhưng với ngôn ngữ viết, sự **"mơ hồ"** này thường không thể được truyền đạt. Ta không thể dùng cử chỉ hay biểu cảm khuôn mặt để diễn đạt. Vì vậy, việc viết đòi hỏi phải diễn đạt suy nghĩ một cách rõ ràng chứ không phải mơ hồ. Theo nghĩa đó, viết là hành động biến những ý tưởng lộn xộn thành ngôn từ rõ ràng, và chính vì vậy, việc viết giúp phát triển khả năng tư duy.
+(Theo Tatsuya Kariya, "Phương pháp tư duy đa chiều - Công tắc sáng tạo ai cũng có")
+
+---
+
+**Câu hỏi 60:**
+
+Đặc điểm của cách diễn đạt bằng **viết** mà tác giả đề cập là gì?
+
+* Viết càng lâu thì càng viết giỏi.
+* Có thể viết trong khi tưởng tượng phản ứng của người đọc.
+* Có thể sắp xếp ý tưởng nhanh chóng nhờ sử dụng công cụ.
+* **Có thể phát triển ý tưởng bằng cách sửa đi sửa lại nhiều lần.**
+
+---
+
+**Câu hỏi 61:**
+
+Tại sao **"sự mơ hồ"** thường không được truyền đạt khi viết?
+
+* Vì không có sự trao đổi với người đọc.
+* Vì cách người đọc tiếp nhận sẽ khác nhau.
+* Vì có ít từ để diễn tả những cảm giác tinh tế.
+* **Vì không có phương tiện biểu đạt nào khác ngoài chữ viết.**
+
+---
+
+**62. Điều mà tác giả muốn nói nhất trong đoạn văn này là gì?**
+
+* Viết tốt hơn nói để truyền đạt ý tưởng cho người khác.
+* **Bày tỏ suy nghĩ bằng cách viết sẽ giúp nâng cao khả năng tư duy.**
+* Nếu dành thời gian viết đi viết lại nhiều lần, bạn có thể viết được một bài văn dễ hiểu.
+* Để phát triển khả năng tư duy, không nên viết những ý tưởng mơ hồ.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>
