@@ -4,7 +4,7 @@ layout: default
 order: 1
 ---
 
-Các bài đọc dài mô phỏng đoạn văn trong đề thi thực tế, giúp bạn luyện kỹ năng đọc hiểu chuyên sâu và quản lý thời gian làm bài.
+Các bài đọc ngắn mô phỏng đoạn văn trong đề thi thực tế, giúp bạn luyện kỹ năng đọc hiểu chuyên sâu và quản lý thời gian làm bài.
 
 <ul>
 {% assign current_dir = page.dir %}
