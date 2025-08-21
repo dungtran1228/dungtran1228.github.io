@@ -1,26 +1,26 @@
 {% assign current_dir = page.dir %}
-{% assign child_indexes = site.pages | where_exp: "p", "p.dir != current_dir and p.dir startswith current_dir and p.name == 'index.md'" %}
-{% assign immediate_children = '' | split: '' %}
-{% for p in child_indexes %}
-  {% assign rest = p.dir | remove_first: current_dir %}
-  {% assign parts = rest | split: '/' %}
-  {% if parts.size == 2 and parts[1] == '' %}
-    {% assign immediate_children = immediate_children | push: p %}
-  {% endif %}
-{% endfor %}
 
-{% if immediate_children.size > 0 %}
+{%- assign items = '' -%}
+{%- for p in site.pages -%}
+  {%- if p.name == 'index.md' and p.dir != current_dir and p.dir contains current_dir -%}
+    {%- assign rest = p.dir | remove_first: current_dir -%}
+    {%- assign parts = rest | split: '/' -%}
+    {%- if parts.size == 2 and parts[1] == '' -%}
+      {%- capture items -%}{{ items }}<li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>{%- endcapture -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- if items != '' -%}
 <ul>
-  {% assign sorted = immediate_children | sort: 'title' %}
-  {% for p in sorted %}
-    <li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>
-  {% endfor %}
+  {{ items }}
 </ul>
-{% else %}
-  <ul>
-  {% assign siblings = site.pages | where_exp: "p", "p.dir == current_dir and p.name != 'index.md'" | sort: 'title' %}
-  {% for p in siblings %}
-    <li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>
-  {% endfor %}
-  </ul>
-{% endif %} 
+{%- else -%}
+<ul>
+  {%- for p in site.pages -%}
+    {%- if p.dir == current_dir and p.name != 'index.md' -%}
+      <li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>
+{%- endif -%} 
