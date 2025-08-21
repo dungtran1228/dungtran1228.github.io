@@ -1,20 +1,16 @@
 ---
-title: Exam
+title: Đề thi N1
 layout: default
-permalink: /exam/
+order: 1
 ---
 
-<h1>Exam</h1>
-
-{% assign categories = site.pages
-  | where_exp: "item", "item.path contains '_exam/'"
-  | where_exp: "item", "item.name == 'index.md'"
-  | where_exp: "item", "item.path != page.path"
-  | where_exp: "item", "(item.path | split: '/') | size == 3" %}
+Các đề thi và bài luyện tập trình độ N1 - Cao cấp
 
 <ul>
-{% assign categories = categories | sort: 'title' %}
-{% for cat in categories %}
-  <li><a href="{{ cat.url }}">{{ cat.title | default: cat.name | remove: '.md' }}</a></li>
+{% assign current_dir = page.dir %}
+{% for p in site.pages %}
+  {% if p.dir == current_dir and p.name != 'index.md' %}
+    <li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>
+  {% endif %}
 {% endfor %}
-</ul> 
+</ul>
