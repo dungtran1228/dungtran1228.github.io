@@ -12,7 +12,7 @@ Các đề thi và bài luyện tập trình độ N2 - Trung cấp khá
   | where_exp: "item", "item.path contains 'exam/n2/'"
   | where_exp: "item", "item.name == 'index.md'"
   | where_exp: "item", "item.path != page.path"
-  | where_exp: "item", "(item.dir | remove_first: page.dir) contains '/' == false" %}
+  | where_exp: "item", "item.year != nil" %}
 
 {% for year_page in years %}
 - [{{ year_page.year }}](/exam/n2/{{ year_page.year }}/)
