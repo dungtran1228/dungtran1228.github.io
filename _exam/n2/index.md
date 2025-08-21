@@ -15,5 +15,6 @@ Các đề thi và bài luyện tập trình độ N2 - Trung cấp khá
   | sort: "year" %}
 
 {% for year_page in years %}
+  {{ year_page | jsonify }}
 - [{{ year_page.year }}](/exam/n2/{{ year_page.year }}/)
 {% endfor %}
