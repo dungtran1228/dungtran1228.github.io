@@ -48,6 +48,39 @@ question_number: 9
 4. これからは<ruby>科<rt>か</rt></ruby><ruby>学<rt>がく</rt></ruby><ruby>嫌<rt>ぎら</rt></ruby>いをなくさなければならない。
 
 ## 📘 Tiếng Việt (Bản dịch)
+---
+
+### **Bài văn dịch**
+
+Những người trẻ ngày nay sinh ra trong một xã hội khoa học đã tương đối hoàn chỉnh. Đó là một xã hội mà điện thoại di động và hệ thống định vị ô tô đã trở nên phổ biến. Vì không được chứng kiến quá trình phát triển, họ không biết các thiết bị đó hoạt động dựa trên nguyên lý nào. Dù không biết, họ vẫn có thể hưởng lợi từ chúng.
+
+Họ tin rằng chỉ cần sạc pin, họ có thể liên lạc với bất kỳ ai, vào bất kỳ lúc nào. Nhiều người không biết sóng điện từ là gì hay các thiết bị đó được tạo nên từ những gì. Họ có lẽ chưa bao giờ nghĩ rằng điện thoại di động có thể mất sóng dù chỉ cách nhau vài chục mét.
+
+Từ lâu, "sự xa rời khoa học" này đã là một vấn đề đáng lo ngại. Vì vậy, người ta đã tìm tòi nhiều cách khác nhau để giáo dục khoa học cho trẻ em. Tuy nhiên, có một điều tôi cảm nhận được. Những người làm công việc giáo dục này đều là những người yêu khoa học. Vì vậy, tất cả họ đều nói một câu giống nhau: "Tôi muốn các em được biết niềm vui của khoa học". Mỗi khi nghe câu nói này, tôi không thể không cảm thấy thái độ áp đặt "niềm vui". Muốn người khác biết niềm vui đọc sách. Muốn người khác cảm nhận niềm vui thể thao. Thái độ này tồn tại sâu sắc trong nhiều lĩnh vực khác. Tuy nhiên, tôi nghĩ với khoa học, đây không phải là một vấn đề đơn giản như vậy. Những người không thích đọc sách hay thể thao thì không cần làm những việc đó. Vẫn còn rất nhiều thú vui khác. Nhưng việc né tránh khoa học thì gần như là điều không thể để sống trong xã hội hiện đại. Điều đó có nghĩa là, đây không phải là một vấn đề có thể giải quyết bằng cách "thích" hay "không thích" nữa rồi.
+
+(Theo Hirosi Mori, "Ý nghĩa của việc trở nên khoa học là gì")
+
+(Chú thích 1) カーナビ (kānavi): Thiết bị định vị dẫn đường trên ô tô
+(Chú thích 2) 模索する (mosakusuru): Tìm kiếm, thăm dò
+(Chú thích 3) 悠長な (yūchōna): Thong thả, chậm rãi
+(Chú thích 4) もはや (mohaya): Hiện tại thì đã...
+(Chú thích 5) 片づける (katazukeru): Giải quyết, xong xuôi
+
+---
+
+### **Trả lời các câu hỏi**
+
+**Câu 66:** Tác giả nhìn nhận người trẻ ngày nay như thế nào?
+
+* **B.** Dù lớn lên trong xã hội khoa học, họ vẫn sử dụng các thiết bị như điện thoại di động mà không biết nguyên lý của chúng.
+
+**Câu 67:** "Có một điều tôi cảm nhận được" là cảm nhận gì?
+
+* **D.** Việc giáo dục khoa học chỉ toàn nhấn mạnh về "niềm vui" của nó.
+
+**Câu 68:** Điều nào phù hợp với quan điểm của tác giả?
+
+* **A.** Trong thời đại hiện nay, không thể sống mà không liên quan đến khoa học.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

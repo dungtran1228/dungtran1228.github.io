@@ -22,6 +22,17 @@ question_number: 3
 4. <ruby>ヒ<rt>ひ</rt></ruby><ruby>ト<rt>と</rt></ruby>と<ruby>動<rt>どう</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>とのちがいを<ruby>意<rt>い</rt></ruby><ruby>識<rt>しき</rt></ruby>して<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>してきたこと
 
 ## 📘 Tiếng Việt (Bản dịch)
+Động vật thường ăn thức ăn ở nhiệt độ phòng. Tuy nhiên, con người không thích thức ăn ở nhiệt độ phòng, ví dụ như "món nguội thì không ngon". Thay vào đó, chúng ta thích đồ ăn nóng hoặc lạnh. Con người đã tìm mọi cách để kích thích sự thèm ăn, như dùng vị cay, mùi nồng, hay nhiệt độ nóng/lạnh. Cách diễn đạt này nhằm nhấn mạnh sự khác biệt giữa người và động vật, nhưng nói cách khác, chính điều này đã tạo nên văn hóa ẩm thực của con người.
+(Trích từ "Vị Umami là gì?" của Kurihara Kenzo)
+
+**Câu hỏi 57**
+
+"Điều này" là gì?
+
+* Việc thích ăn thức ăn ở nhiệt độ phòng
+* Việc tìm cách để khiến bản thân muốn ăn
+* Việc nấu ăn phù hợp với sở thích cá nhân của từng người
+* Việc nấu ăn có ý thức về sự khác biệt giữa người và động vật
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

@@ -23,6 +23,18 @@ question_number: 4
 4. <ruby>ス<rt>す</rt></ruby><ruby>タ<rt>た</rt></ruby><ruby>ッ<rt>っ</rt></ruby><ruby>フ<rt>ふ</rt></ruby>の<ruby>能<rt>のう</rt></ruby><ruby>力<rt>りょく</rt></ruby>の<ruby>限<rt>げん</rt></ruby><ruby>界<rt>かい</rt></ruby>まで<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>をさせるべきだ。
 
 ## 📘 Tiếng Việt (Bản dịch)
+---
+Để phát triển công ty, bản thân tôi nhận thấy mình có rất nhiều việc không thể tự làm được. Vì thế, nếu không yêu cầu nhân viên thì sẽ không thể đạt được mục tiêu. Ngay cả những việc tôi hoàn toàn không thể làm, tôi vẫn phải yêu cầu họ "phải làm được", nếu không năng lực của tôi sẽ trở thành giới hạn của tổ chức. Do đó, điều tôi muốn truyền đạt đến tất cả các quản lý là "Hãy gạt khả năng của bản thân sang một bên và yêu cầu nhân viên làm những gì cần làm".
+(Trích từ "NHK Shigotogaku no Susume, số tháng 10-11/2010", được biên soạn bởi NHK và NHK Publishing)
+
+**Câu hỏi 58**
+
+Điều mà tác giả muốn nói với các quản lý là gì?
+
+* Nên giao cho nhân viên những công việc vượt quá khả năng của quản lý.
+* Nên tuyển dụng những nhân viên có năng lực cao hơn quản lý.
+* Nên yêu cầu những việc có thể đạt được phù hợp với năng lực của nhân viên.
+* Nên giao việc cho nhân viên đến giới hạn năng lực của họ.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

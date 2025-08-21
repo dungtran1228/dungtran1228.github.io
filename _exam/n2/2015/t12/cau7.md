@@ -49,6 +49,41 @@ question_number: 7
 4. だれでも<ruby>理<rt>り</rt></ruby><ruby>解<rt>かい</rt></ruby>できるような<ruby>知<rt>ち</rt></ruby><ruby>識<rt>しき</rt></ruby>だけを<ruby>選<rt>えら</rt></ruby>べること
 
 ## 📘 Tiếng Việt (Bản dịch)
+---
+
+### **Bài văn dịch**
+
+Con người có xu hướng chỉ truyền đạt những điểm mấu chốt một cách nhanh chóng và vô tình bỏ qua nhiều giải thích khi nói về những gì mình đã biết rõ. Điều này có thể khiến người được dạy khó hiểu. Khi dạy người khác, nếu không quay lại thời điểm mình bắt đầu hiểu để truyền đạt một cách cẩn thận, thì có lẽ họ sẽ không thể hiểu được.
+
+Ngoài ra, trong quá trình đó, tôi nghĩ việc người được dạy tích cực đặt câu hỏi là rất quan trọng. Khi có câu hỏi, người dạy sẽ biết rõ người học chưa hiểu gì và đã hiểu gì. Hơn nữa, có nhiều trường hợp sự hiểu biết được đào sâu khi cùng một nội dung được giải thích lặp đi lặp lại.
+
+Cá nhân tôi nghĩ rằng rất hiếm trường hợp người học có thể hiểu chỉ sau một lần giải thích.
+
+Tôi cũng tin rằng cách dạy lý tưởng không phải là truyền đạt tất cả, mà là truyền đạt phần lớn và để phần cuối người học tự suy nghĩ và tự hiểu.
+
+Kiến thức được tiếp nhận một cách thụ động cũng dễ dàng biến mất một cách thụ động. Tuy nhiên, những gì được tự mình lĩnh hội lại rất khó quên. Giống như việc cho học sinh tiểu học nghe một bài giảng ở đại học sẽ hoàn toàn không hiểu gì, nếu không dạy những gì người học cần và phù hợp với trình độ của họ thì sẽ không có ý nghĩa gì. Đó là một loại “nghệ nhân” đòi hỏi sự điều chỉnh vô cùng tinh tế. Tôi nghĩ đó chính là niềm vui lớn nhất của người làm công việc giảng dạy.
+
+(Theo Yoshiharu Habu, "Đại cục quan – Tấm lòng không thua chính mình")
+
+(Chú thích 1) ケース: Trường hợp
+(Chú thích 2) 体得する: Lĩnh hội, tự mình nắm bắt
+(Chú thích 3) チンプンカンプンな: Hoàn toàn không hiểu gì
+
+---
+
+### **Trả lời các câu hỏi**
+
+**Câu 60:** Điều mà người dạy thường làm là gì?
+
+* **B.** Dùng lời giải thích đơn giản để kết thúc những gì mình đã biết rõ.
+
+**Câu 61:** Cách dạy lý tưởng là gì?
+
+* **D.** Để phần cuối, người học tự suy nghĩ và tự hiểu.
+
+**Câu 62:** "Một loại nghệ nhân" ở đây có nghĩa là gì?
+
+* **C.** Có khả năng thay đổi nội dung và cách dạy phù hợp với người học.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

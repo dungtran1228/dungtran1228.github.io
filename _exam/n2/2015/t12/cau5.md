@@ -24,6 +24,22 @@ question_number: 5
 4. <ruby>不<rt>ふ</rt></ruby><ruby>満<rt>まん</rt></ruby>があっても<ruby>我<rt>が</rt></ruby><ruby>慢<rt>まん</rt></ruby>したほうがいい。
 
 ## 📘 Tiếng Việt (Bản dịch)
+---
+Nếu bạn im lặng, không phản đối hay bày tỏ cảm giác khó chịu của mình để tránh làm người khác không thoải mái, thì người kia sẽ mất đi cơ hội để hiểu bạn, và cả hai sẽ không thể giao tiếp một cách chân thật.
+
+Tất nhiên, người khác cũng có quyền bày tỏ cảm xúc và suy nghĩ của họ, nên đôi khi xung đột có thể xảy ra.
+
+Tuy nhiên, nếu bạn tránh để xảy ra xung đột hay những bất đồng, không dám nói lên ý kiến của mình hoặc không dám nhờ sự giúp đỡ từ cha mẹ, cấp trên hay giáo viên, thì dù tình huống đó có vẻ suôn sẻ, mối quan hệ lại được xây dựng trên sự hiểu lầm.
+(Trích từ "Nhập môn Assertiveness - Phương pháp tự thể hiện bản thân, tôn trọng cả mình và đối phương" của Hiraki Noriko)
+
+**Câu hỏi 59**
+
+Điều tác giả muốn nói về xung đột và các mối quan hệ là gì?
+
+* Nên thể hiện bản thân sao cho không làm người khác khó chịu.
+* Phải hiểu cảm xúc của người khác.
+* Nên thẳng thắn bày tỏ cảm xúc của mình.
+* Dù có bất mãn cũng nên chịu đựng.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

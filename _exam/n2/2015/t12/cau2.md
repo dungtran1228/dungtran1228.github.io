@@ -28,7 +28,31 @@ question_number: 2
 2. 12<ruby>月<rt>がつ</rt></ruby>11<ruby>日<rt>にち</rt></ruby>までに<ruby>会<rt>かい</rt></ruby><ruby>議<rt>ぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>Aを<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>する。  
 3. 12<ruby>月<rt>がつ</rt></ruby>17<ruby>日<rt>にち</rt></ruby>までに<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby><ruby>案<rt>あん</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>パ<rt>ぱ</rt></ruby><ruby>ン<rt>ん</rt></ruby><ruby>フ<rt>ふ</rt></ruby><ruby>レ<rt>れ</rt></ruby><ruby>ッ<rt>っ</rt></ruby><ruby>ト<rt>と</rt></ruby>を<ruby>準<rt>じゅん</rt></ruby><ruby>備<rt>び</rt></ruby>する。  
 4. 12<ruby>月<rt>がつ</rt></ruby>18<ruby>日<rt>にち</rt></ruby>に<ruby>会<rt>かい</rt></ruby><ruby>議<rt>ぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>Bの<ruby>テ<rt>て</rt></ruby><ruby>ー<rt>ー</rt></ruby><ruby>ブ<rt>ぶ</rt></ruby><ruby>ル<rt>る</rt></ruby>や<ruby>い<rt>い</rt></ruby><ruby>す<rt>す</rt></ruby>などを<ruby>準<rt>じゅん</rt></ruby><ruby>備<rt>び</rt></ruby>する。
+
 ## 📘 Tiếng Việt (Bản dịch)
+
+---
+## Chuẩn bị đón tiếp khách tham quan nhà máy
+
+**Thời gian tham quan:** 10:00 ~ 12:00, thứ Sáu, ngày 18 tháng 12
+**Khách tham quan:** Trường tiếng Nhật Ikeguchi (20 người)
+
+* **Trước thứ Năm, ngày 10 tháng 12:** Đặt phòng họp A để sử dụng trong ngày tham quan.
+* **Thứ Sáu, ngày 11 tháng 12:** Họp sơ bộ với Trường tiếng Nhật Ikeguchi (giáo viên Sekiguchi).
+    * **Thời gian:** 11:00 ~ 12:00
+    * **Địa điểm:** Phòng họp B (không cần đặt trước)
+    * **Nội dung xác nhận:** Trình độ tiếng Nhật của khách tham quan, ngôn ngữ của tài liệu giới thiệu công ty (tiếng Nhật hay tiếng Anh).
+* **Trước thứ Năm, ngày 17 tháng 12:** Chuẩn bị tài liệu giới thiệu công ty (20 cuốn).
+* **Trước 9:30, thứ Sáu, ngày 18 tháng 12:** Chuẩn bị phòng họp A (bàn, ghế, tài liệu giới thiệu công ty).
+
+**Câu hỏi 56**
+
+Điều nào sau đây là đúng về những việc Nakajima cần chuẩn bị?
+
+1.  Xác nhận trình độ tiếng Nhật của khách tham quan vào ngày 10 tháng 12.
+2.  Đặt phòng họp A trước ngày 11 tháng 12.
+3.  Chuẩn bị tài liệu giới thiệu công ty trước ngày 17 tháng 12.
+4.  Chuẩn bị bàn ghế, v.v. tại phòng họp B vào ngày 18 tháng 12.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

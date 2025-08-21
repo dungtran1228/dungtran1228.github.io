@@ -43,6 +43,27 @@ question_number: 8
 4. <ruby>価<rt>か</rt></ruby><ruby>格<rt>かく</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くしても<ruby>売<rt>う</rt></ruby>れる<ruby>点<rt>てん</rt></ruby>
 
 ## 📘 Tiếng Việt (Bản dịch)
+Trong những năm gần đây, các nhà sản xuất đồ chơi đang tập trung vào việc tạo ra đồ chơi dành cho người lớn và doanh số bán hàng đã tăng lên đáng kể. Một phần lý do là vì tỷ lệ sinh giảm, khiến các công ty cần mở rộng thị trường sang đối tượng người lớn. Tuy nhiên, mức tăng trưởng doanh số này không thể chỉ giải thích bằng lý do đó. Đằng sau nó là chiến lược của các nhà sản xuất đồ chơi nhằm thu hút người lớn mua sản phẩm của họ.
+
+Hầu như không có ai khi còn nhỏ được mua tất cả đồ chơi mà mình muốn. Có một số lượng đáng ngạc nhiên người lớn vẫn giữ mãi khao khát về những món đồ chơi mà họ từng ao ước. Các nhà sản xuất đồ chơi đã nắm bắt được tâm lý này. Tuy nhiên, người lớn thường ngại mua đồ chơi trẻ em, đồng thời cũng cảm thấy những món đồ đó không đủ sức hấp dẫn. Do đó, đồ chơi dành cho người lớn cần có những điểm đặc biệt để thu hút họ. Ví dụ, mô hình tàu hỏa có thể được làm từ chất liệu đặc biệt để sau khi hoàn thành có thể dùng làm vật trang trí nội thất. Đàn mini lắp ráp có thể được lắp xong và chơi nhạc thực sự, và trò chơi thẻ bài với màu sắc nhã nhặn có thể giúp người chơi thư giãn. Như vậy, đồ chơi dành cho người lớn có những sức hấp dẫn khác ngoài việc chỉ để chơi.
+
+Ngoài ra, đồ chơi dành cho người lớn thường có giá cao. Thậm chí, một số món đồ còn trở nên phổ biến hơn vì được coi là có giá trị khi có giá cao. Thông thường, các nhà sản xuất không thể đặt giá sản phẩm quá cao, nhưng với đồ chơi dành cho người lớn thì điều đó hoàn toàn có thể. Đây là một thị trường đầy tiềm năng đối với các nhà sản xuất đồ chơi.
+
+---
+
+### **Câu trả lời**
+
+**Câu 63:** "Nắm bắt được điều đó" nghĩa là gì?
+
+* **C.** Có nhiều người lớn vẫn giữ mãi khao khát đối với đồ chơi.
+
+**Câu 64:** Đồ chơi dành cho người lớn có những điểm đặc biệt nào?
+
+* **A.** Chúng được tạo ra để người chơi cảm nhận được những giá trị khác ngoài mục đích thông thường.
+
+**Câu 65:** Điều gì khiến thị trường đồ chơi dành cho người lớn trở nên hấp dẫn đối với các nhà sản xuất?
+
+* **D.** Có thể bán được sản phẩm ngay cả khi đặt giá cao.
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>

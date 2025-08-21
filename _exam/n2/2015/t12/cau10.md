@@ -48,7 +48,29 @@ question_number: 10
 
 
 ## 📘 Tiếng Việt (Bản dịch)
+---
 
+**A**
+Để đạt được kết quả tốt trong công việc, tôi khuyên bạn nên sử dụng sổ tay. Sổ tay không chỉ dùng để quản lý lịch trình hay ghi lại thông tin thu thập được, mà còn có thể dùng để ghi lại những nhận thức và suy nghĩ hàng ngày về công việc, bất cứ lúc nào và bất cứ nơi nào. Khi bận rộn với công việc mỗi ngày, việc ghi chép cẩn thận thường trở nên phiền phức, nhưng nếu chỉ ghi lại như một tờ ghi chú thì sẽ thoải mái hơn. Hơn nữa, nếu bạn ghi lại trong sổ tay, bạn có thể xem lại suy nghĩ của mình sau này.
+
+Vậy thì, nên viết như thế nào? Việc phân loại theo chủ đề hay cố gắng sắp xếp gọn gàng sẽ trở thành gánh nặng và khó duy trì, vì vậy cứ viết theo thứ tự ngày tháng là được. Tốt nhất là nên ghi tất cả những gì liên quan đến công việc vào cùng một cuốn sổ.
+
+**B**
+Sổ tay là để ghi lại những thông tin mới. Có lẽ bạn đã có suy nghĩ này từ ký ức thời học sinh, khi bạn đã cố gắng ghi chép và học thuộc lòng.
+
+Tuy nhiên, cách sử dụng sổ tay không chỉ có thế. Nếu biết cách sử dụng sổ tay một cách hiệu quả, bạn có thể xem xét lại suy nghĩ của chính mình. Trong công việc, khả năng đưa ra ý tưởng mới và giải quyết các vấn đề khó khăn là rất cần thiết. Để nuôi dưỡng những khả năng đó, việc ghi lại không chỉ thông tin mà còn cả những nhận thức và suy nghĩ của bản thân để sắp xếp lại chúng là một phương pháp hiệu quả. Tốt nhất là nên tách riêng sổ ghi chép thông tin và sổ ghi chép suy nghĩ. Bằng cách đó, bạn sẽ không bị lạc trong những thông tin đã thu thập và hình thành thái độ tự vấn bản thân về cách suy nghĩ.
+
+---
+
+### **Trả lời các câu hỏi**
+
+**Câu 69:** Điểm chung về lợi ích của việc viết vào sổ tay trong quan điểm của A và B là gì?
+
+* **A.** Có thể xem lại suy nghĩ của chính mình sau này.
+
+**Câu 70:** A và B đã nói gì về cách viết sổ tay?
+
+* **D.** A nói rằng nên viết mọi thứ vào một cuốn sổ, còn B nói rằng nên tách riêng sổ ghi chép thông tin và sổ ghi chép suy nghĩ.
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2015/">← Quay lại danh sách</a>
 </div>
