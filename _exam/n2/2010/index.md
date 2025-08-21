@@ -1,17 +1,28 @@
 ---
-title: Đề thi năm 2010
+title: Đề thi N2 năm 2010
 layout: default
-order: 3
-permalink: /exam/2010/
+year: 2010
+permalink: /exam/n2/2010/
 ---
 
-Tổng hợp các đề thi JLPT năm 2010
+# Đề thi N2 năm 2010
 
-<ul>
-{% assign current_path = page.path | remove: 'index.md' %}
-{% for p in site.pages %}
-  {% if p.path contains current_path and p.path != page.path and p.name != 'index.md' %}
-    <li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>
-  {% endif %}
+{% assign months = site.pages
+  | where_exp: "item", "item.path contains 'exam/n2/2010/'"
+  | where_exp: "item", "item.name == 'index.md'"
+  | where_exp: "item", "item.path != page.path"
+  | sort: "month" %}
+
+{% for month_page in months %}
+## {{ forloop.index }}. {{ month_page.title }}
+
+{% assign questions = site.pages
+  | where_exp: "item", "item.path contains month_page.path | remove: 'index.md'"
+  | where_exp: "item", "item.name != 'index.md'"
+  | sort: "question_number" %}
+
+{% for question in questions %}
+- [{{ question.title }}]({{ question.url }})
 {% endfor %}
-</ul>
+
+{% endfor %}

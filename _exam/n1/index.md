@@ -1,17 +1,19 @@
 ---
 title: Đề thi N1
 layout: default
-order: 1
 permalink: /exam/n1/
 ---
 
+# Đề thi N1
+
 Các đề thi và bài luyện tập trình độ N1 - Cao cấp
 
-<ul>
-{% assign current_path = page.path | remove: 'index.md' %}
-{% for p in site.pages %}
-  {% if p.path contains current_path and p.path != page.path and p.name != 'index.md' %}
-    <li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>
-  {% endif %}
+{% assign years = site.pages
+  | where_exp: "item", "item.path contains 'exam/n1/'"
+  | where_exp: "item", "item.name == 'index.md'"
+  | where_exp: "item", "item.path != page.path"
+  | sort: "year" %}
+
+{% for year_page in years %}
+- [{{ year_page.year }}](/exam/n1/{{ year_page.year }}/)
 {% endfor %}
-</ul>

@@ -2,10 +2,10 @@
 title: Câu 1
 layout: default
 question_number: 1
-permalink: /exam/n2/2010/t12/cau1/
+permalink: /exam/n2/2010/t7/cau1/
 ---
 
-# Câu 1 - Đề thi N2 tháng 12/2010
+# Câu 1 - Đề thi N2 tháng 7/2010
 
 ## Đề bài
 [Nội dung câu hỏi sẽ được thêm vào đây]
