@@ -16,8 +16,9 @@ permalink: /exam/n2/2010/
 {% for month_page in months %}
 ## {{ forloop.index }}. {{ month_page.title }}
 
+{% assign month_dir = month_page.path | remove: 'index.md' %}
 {% assign questions = site.pages
-  | where_exp: "item", "item.path contains month_page.path | remove: 'index.md'"
+  | where_exp: "item", "item.path contains month_dir"
   | where_exp: "item", "item.name != 'index.md'"
   | sort: "question_number" %}
 
