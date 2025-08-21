@@ -1,16 +1,20 @@
 ---
-title: Đề thi N1
+title: Đề thi và luyện tập
 layout: default
-order: 1
+permalink: /exam/
 ---
 
-Các đề thi và bài luyện tập trình độ N1 - Cao cấp
+# Danh sách các loại đề thi
 
-<ul>
-{% assign current_dir = page.dir %}
-{% for p in site.pages %}
-  {% if p.dir == current_dir and p.name != 'index.md' %}
-    <li><a href="{{ p.url }}">{{ p.title | default: p.name | remove: '.md' }}</a></li>
-  {% endif %}
+Tổng hợp các đề thi và bài luyện tập theo từng cấp độ
+
+{% assign categories = site.pages
+  | where_exp: "item", "item.path contains 'exam/'"
+  | where_exp: "item", "item.name == 'index.md'"
+  | where_exp: "item", "item.path != page.path"
+  | sort: "order" %}
+
+{% for cat in categories %}
+  <h2>{{ forloop.index }}. {{ cat.title }}</h2>
+  <p>{{ cat.content | markdownify }}</p>
 {% endfor %}
-</ul>
