@@ -2,7 +2,6 @@
 title: Đề thi N2 năm 2010
 layout: default
 year: 2010
-permalink: /exam/n2/2010/
 ---
 
 # Đề thi N2 năm 2010

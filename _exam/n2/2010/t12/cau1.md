@@ -2,18 +2,12 @@
 title: Câu 1
 layout: default
 question_number: 1
-permalink: /exam/n2/2010/t12/cau1/
 ---
 
 # Câu 1 - Đề thi N2 tháng 12/2010
+## 📖 日本語
 
-## Đề bài
-[Nội dung câu hỏi sẽ được thêm vào đây]
-
-## Đáp án
-[Đáp án và giải thích sẽ được thêm vào đây]
-
-<hr>
+## 📘 Tiếng Việt (Bản dịch)
 
 <div style="margin-top: 2em;">
   <a href="/exam/n2/2010/">← Quay lại danh sách</a>
