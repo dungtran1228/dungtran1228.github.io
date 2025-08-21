@@ -11,12 +11,3 @@ header_pages:
 include:
     - _n2
     - _exam
-
-# Front matter defaults for exam pages
-defaults:
-  - scope:
-      path: "_exam"
-      type: "pages"
-    values:
-      layout: default
-      permalink: /exam/:path/
